@@ -1,0 +1,896 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "SZEKELY, ALLIE", 
+            "pos": "1", 
+            "time": "54.55H"
+        }, 
+        {
+            "name": "CORNELL, EMILY", 
+            "pos": "2", 
+            "time": "55.52"
+        }, 
+        {
+            "name": "FOLEY, CAITLIN", 
+            "pos": "3", 
+            "time": "56.78"
+        }, 
+        {
+            "name": "FEUCHT, HANNAH", 
+            "pos": "4", 
+            "time": "57.39"
+        }, 
+        {
+            "name": "PARSONS, ABIGAIL", 
+            "pos": "5", 
+            "time": "57.61"
+        }, 
+        {
+            "name": "LYONS, PEYTEN", 
+            "pos": "6", 
+            "time": "58.12"
+        }, 
+        {
+            "name": "SAINT CLAIR,", 
+            "pos": "7", 
+            "time": "58.51"
+        }, 
+        {
+            "name": "RODRIGUEZ, RHYAN", 
+            "pos": "8", 
+            "time": "58.76"
+        }, 
+        {
+            "name": "BOWMAN, SABRINA", 
+            "pos": "9", 
+            "time": "58.33"
+        }, 
+        {
+            "name": "PETRAK, TAYLOR", 
+            "pos": "10", 
+            "time": "58.51"
+        }, 
+        {
+            "name": "AMANN, MADISON", 
+            "pos": "11", 
+            "time": "58.78"
+        }, 
+        {
+            "name": "QUINDLEN, CAROLINE", 
+            "pos": "12", 
+            "time": "59.04"
+        }, 
+        {
+            "name": "LYNCH, KATHLEEN", 
+            "pos": "13", 
+            "time": "59.16"
+        }, 
+        {
+            "name": "DEPIETRO, RACHAEL", 
+            "pos": "14", 
+            "time": "59.68"
+        }, 
+        {
+            "name": "ARCHULETA, SYDNEY", 
+            "pos": "15", 
+            "time": "59.77"
+        }, 
+        {
+            "name": "TAYLOR, RACHEL", 
+            "pos": "16", 
+            "time": "59.81"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "BARBER, LAUREN", 
+            "pos": "1", 
+            "time": "1:03.05"
+        }, 
+        {
+            "name": "COOKE, MADDIE", 
+            "pos": "2", 
+            "time": "1:03.53"
+        }, 
+        {
+            "name": "TIERNEY, OLIVIA", 
+            "pos": "3", 
+            "time": "1:05.58"
+        }, 
+        {
+            "name": "ZUKOWSKI, BROOKE", 
+            "pos": "4", 
+            "time": "1:05.72"
+        }, 
+        {
+            "name": "GERMAN, ABBY", 
+            "pos": "5", 
+            "time": "1:05.73"
+        }, 
+        {
+            "name": "MUNGER, RACHEL", 
+            "pos": "6", 
+            "time": "1:06.49"
+        }, 
+        {
+            "name": "KOWAL, MOLLY", 
+            "pos": "7", 
+            "time": "1:06.75"
+        }, 
+        {
+            "name": "HARRINGTON, SHANNO", 
+            "pos": "8", 
+            "time": "1:06.95"
+        }, 
+        {
+            "name": "RUSSONIELLO, ERIN", 
+            "pos": "9", 
+            "time": "1:06.43"
+        }, 
+        {
+            "name": "PACCAPANICCIA, ANN", 
+            "pos": "10", 
+            "time": "1:07.30"
+        }, 
+        {
+            "name": "CARPENTER, SAMANTH", 
+            "pos": "11", 
+            "time": "1:07.38"
+        }, 
+        {
+            "name": "SALADINO, NICOLE", 
+            "pos": "12", 
+            "time": "1:07.48"
+        }, 
+        {
+            "name": "BUTKUS, JOANN", 
+            "pos": "13", 
+            "time": "1:08.07"
+        }, 
+        {
+            "name": "HUNT, MEGAN", 
+            "pos": "14", 
+            "time": "1:08.20"
+        }, 
+        {
+            "name": "STONER, SAMI", 
+            "pos": "15", 
+            "time": "1:08.88"
+        }, 
+        {
+            "name": "NESTOR, MADISON", 
+            "pos": "16", 
+            "time": "1:09.11"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "LUFT, REBECCA", 
+            "pos": "1", 
+            "time": "54.91H"
+        }, 
+        {
+            "name": "BOWMAN, SABRINA", 
+            "pos": "2", 
+            "time": "56.55"
+        }, 
+        {
+            "name": "DOBSON, JULIE", 
+            "pos": "3", 
+            "time": "57.98"
+        }, 
+        {
+            "name": "PHILLIPS, MOLLY", 
+            "pos": "4", 
+            "time": "58.09"
+        }, 
+        {
+            "name": "CHARLTON, HANNAH", 
+            "pos": "5", 
+            "time": "58.99"
+        }, 
+        {
+            "name": "PORTER, KATHERINE", 
+            "pos": "6", 
+            "time": "59.64"
+        }, 
+        {
+            "name": "RODRIGUEZ, RHYAN", 
+            "pos": "7", 
+            "time": "1:00.30"
+        }, 
+        {
+            "name": "EDELMAN, CAROLINE", 
+            "pos": "9", 
+            "time": "59.06"
+        }, 
+        {
+            "name": "MITCHELTREE, SYD", 
+            "pos": "10", 
+            "time": "59.38"
+        }, 
+        {
+            "name": "COCHRAN, JESSICA", 
+            "pos": "11", 
+            "time": "59.50"
+        }, 
+        {
+            "name": "BARTRUG, MADDIE", 
+            "pos": "12", 
+            "time": "59.59"
+        }, 
+        {
+            "name": "HESS, RENEY", 
+            "pos": "13", 
+            "time": "59.96"
+        }, 
+        {
+            "name": "GLEMSER, MAKENA", 
+            "pos": "14", 
+            "time": "59.99"
+        }, 
+        {
+            "name": "TERWILLIGER, MEGHA", 
+            "pos": "15", 
+            "time": "1:00.02"
+        }, 
+        {
+            "name": "NARDONE, MIA", 
+            "pos": "16", 
+            "time": "1:00.06"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "GRABSKI, ADRIANA", 
+            "pos": "1", 
+            "time": "49.88H"
+        }, 
+        {
+            "name": "ZIMCOSKY, EMILY", 
+            "pos": "2", 
+            "time": "50.52H"
+        }, 
+        {
+            "name": "FABBRI, ALEXA", 
+            "pos": "3", 
+            "time": "50.63H"
+        }, 
+        {
+            "name": "LUFT, REBECCA", 
+            "pos": "4", 
+            "time": "51.50"
+        }, 
+        {
+            "name": "PETRAK, TAYLOR", 
+            "pos": "5", 
+            "time": "52.27"
+        }, 
+        {
+            "name": "MIKESELL, CLAIRE", 
+            "pos": "6", 
+            "time": "52.28"
+        }, 
+        {
+            "name": "GLASSMIRE, LEXI", 
+            "pos": "7", 
+            "time": "52.68"
+        }, 
+        {
+            "name": "KARAM, SYDNEE", 
+            "pos": "8", 
+            "time": "52.73"
+        }, 
+        {
+            "name": "FORRESTER, JENNA", 
+            "pos": "9", 
+            "time": "52.67"
+        }, 
+        {
+            "name": "MCMANUS, MAURA", 
+            "pos": "10", 
+            "time": "52.92"
+        }, 
+        {
+            "name": "EDELMAN, CAROLINE", 
+            "pos": "11", 
+            "time": "53.33"
+        }, 
+        {
+            "name": "BROWNLEE, ALLISON", 
+            "pos": "12", 
+            "time": "53.48"
+        }, 
+        {
+            "name": "BARTRUG, MADDIE", 
+            "pos": "13", 
+            "time": "53.77"
+        }, 
+        {
+            "name": "SHIRTLIFF, SAMANTH", 
+            "pos": "14", 
+            "time": "54.06"
+        }, 
+        {
+            "name": "NOLL, NOLLAIG", 
+            "pos": "15", 
+            "time": "54.43"
+        }, 
+        {
+            "name": "JAVENS, DEVIN", 
+            "pos": "16", 
+            "time": "54.52"
+        }
+    ], 
+    "1mtrDiving": [], 
+    "200YardFreestyle": [
+        {
+            "name": "HARNISH, COURTNEY", 
+            "pos": "1", 
+            "time": "1:45.91S"
+        }, 
+        {
+            "name": "BARBER, LAUREN", 
+            "pos": "2", 
+            "time": "1:47.32H"
+        }, 
+        {
+            "name": "KARAM, SYDNEE", 
+            "pos": "3", 
+            "time": "1:52.56"
+        }, 
+        {
+            "name": "DADAY, COLLEEN", 
+            "pos": "4", 
+            "time": "1:54.03"
+        }, 
+        {
+            "name": "KOWAL, GRACE", 
+            "pos": "5", 
+            "time": "1:54.38"
+        }, 
+        {
+            "name": "DEPIETRO, RACHAEL", 
+            "pos": "6", 
+            "time": "1:55.38"
+        }, 
+        {
+            "name": "WAREHAM, SYDNEY", 
+            "pos": "7", 
+            "time": "1:55.79"
+        }, 
+        {
+            "name": "THOMSON, ABIGAIL", 
+            "pos": "8", 
+            "time": "1:56.21"
+        }, 
+        {
+            "name": "VOITIK, KATIE", 
+            "pos": "9", 
+            "time": "1:55.31"
+        }, 
+        {
+            "name": "MERCER, SYDNEY", 
+            "pos": "10", 
+            "time": "1:55.59"
+        }, 
+        {
+            "name": "COLVILLE, CAROLINE", 
+            "pos": "10", 
+            "time": "1:55.59"
+        }, 
+        {
+            "name": "SZEKELY, STEPH", 
+            "pos": "12", 
+            "time": "1:55.61"
+        }, 
+        {
+            "name": "AMANN, MADISON", 
+            "pos": "13", 
+            "time": "1:56.02"
+        }, 
+        {
+            "name": "JAVENS, DEVIN", 
+            "pos": "14", 
+            "time": "1:57.12"
+        }, 
+        {
+            "name": "JONES, ABIGAIL", 
+            "pos": "15", 
+            "time": "1:58.81"
+        }, 
+        {
+            "name": "KING, ERICA", 
+            "pos": "16", 
+            "time": "1:59.93"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "VILLA MARIA", 
+            "pos": "1", 
+            "time": "1:36.41H"
+        }, 
+        {
+            "name": "PHOENIXVILLE AREA-01", 
+            "pos": "2", 
+            "time": "1:38.12"
+        }, 
+        {
+            "name": "NORTHERN YORK-03", 
+            "pos": "3", 
+            "time": "1:38.52"
+        }, 
+        {
+            "name": "FAIRVIEW-10 1:38.97", 
+            "pos": "4", 
+            "time": "1:38.83"
+        }, 
+        {
+            "name": "YORK SUBURBAN-03", 
+            "pos": "5", 
+            "time": "1:39.18"
+        }, 
+        {
+            "name": "SOUTH FAYETTE-07", 
+            "pos": "6", 
+            "time": "1:40.20"
+        }, 
+        {
+            "name": "SCHUYLKILL VALLEY-03", 
+            "pos": "7", 
+            "time": "1:40.46"
+        }, 
+        {
+            "name": "BIG SPRING-03", 
+            "pos": "8", 
+            "time": "1:40.51"
+        }, 
+        {
+            "name": "SPRINGFIELD TOWNSHIP-01", 
+            "pos": "9", 
+            "time": "1:40.42"
+        }, 
+        {
+            "name": "PALMYRA-03 1:42.50", 
+            "pos": "10", 
+            "time": "1:41.54"
+        }, 
+        {
+            "name": "DERRY AREA-07", 
+            "pos": "11", 
+            "time": "1:41.60"
+        }, 
+        {
+            "name": "TRINITY-03 1:41.38", 
+            "pos": "12", 
+            "time": "1:41.78"
+        }, 
+        {
+            "name": "SOUTHERN LEHIGH-11", 
+            "pos": "13", 
+            "time": "1:41.79"
+        }, 
+        {
+            "name": "BRADFORD AREA-09", 
+            "pos": "14", 
+            "time": "1:42.82"
+        }, 
+        {
+            "name": "BLACKHAWK-07 1:42.68", 
+            "pos": "15", 
+            "time": "1:42.98"
+        }, 
+        {
+            "name": "INDIANA-07 1:42.72", 
+            "pos": "16", 
+            "time": "1:43.77"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "SZEKELY, ALLIE", 
+            "pos": "1", 
+            "time": "1:59.51S"
+        }, 
+        {
+            "name": "NONNENBERG, MIA", 
+            "pos": "2", 
+            "time": "2:00.88H"
+        }, 
+        {
+            "name": "BONNETT, BAILEY", 
+            "pos": "3", 
+            "time": "2:04.59"
+        }, 
+        {
+            "name": "HARRINGTON, SHANNO", 
+            "pos": "4", 
+            "time": "2:05.70"
+        }, 
+        {
+            "name": "KOWAL, MOLLY", 
+            "pos": "5", 
+            "time": "2:06.11"
+        }, 
+        {
+            "name": "FOLEY, CAITLIN", 
+            "pos": "6", 
+            "time": "2:08.90"
+        }, 
+        {
+            "name": "OTWELL, BRIA", 
+            "pos": "7", 
+            "time": "2:09.75"
+        }, 
+        {
+            "name": "ZUKOWSKI, BROOKE", 
+            "pos": "8", 
+            "time": "2:11.91"
+        }, 
+        {
+            "name": "TIERNEY, OLIVIA", 
+            "pos": "9", 
+            "time": "2:10.07"
+        }, 
+        {
+            "name": "MUNGER, RACHEL", 
+            "pos": "10", 
+            "time": "2:10.45"
+        }, 
+        {
+            "name": "NEFT, SIERRA", 
+            "pos": "11", 
+            "time": "2:14.76"
+        }, 
+        {
+            "name": "RUSSONIELLO, ERIN", 
+            "pos": "12", 
+            "time": "2:14.81"
+        }, 
+        {
+            "name": "GERMAN, ABBY", 
+            "pos": "13", 
+            "time": "2:14.83"
+        }, 
+        {
+            "name": "REYNOLDS, HOPE", 
+            "pos": "14", 
+            "time": "2:15.17"
+        }, 
+        {
+            "name": "SALADINO, NICOLE", 
+            "pos": "15", 
+            "time": "2:15.19"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "VILLA MARIA", 
+            "pos": "1", 
+            "time": "1:46.57"
+        }, 
+        {
+            "name": "SOUTHERN LEHIGH-11", 
+            "pos": "2", 
+            "time": "1:48.09"
+        }, 
+        {
+            "name": "PHOENIXVILLE AREA-01", 
+            "pos": "3", 
+            "time": "1:49.06"
+        }, 
+        {
+            "name": "FAIRVIEW-10 1:50.28", 
+            "pos": "4", 
+            "time": "1:49.21"
+        }, 
+        {
+            "name": "SCHUYLKILL VALLEY-03", 
+            "pos": "5", 
+            "time": "1:49.66"
+        }, 
+        {
+            "name": "SPRINGFIELD TOWNSHIP-01", 
+            "pos": "6", 
+            "time": "1:49.97"
+        }, 
+        {
+            "name": "SCRANTON PREPARATORY-02", 
+            "pos": "7", 
+            "time": "1:51.32"
+        }, 
+        {
+            "name": "NAZARETH ACADEMY-01", 
+            "pos": "8", 
+            "time": "1:52.61"
+        }, 
+        {
+            "name": "YORK SUBURBAN-03", 
+            "pos": "9", 
+            "time": "1:50.33"
+        }, 
+        {
+            "name": "NORTHERN YORK-03", 
+            "pos": "10", 
+            "time": "1:51.55"
+        }, 
+        {
+            "name": "QUAKER VALLEY-07", 
+            "pos": "11", 
+            "time": "1:51.67"
+        }, 
+        {
+            "name": "GWYNEDD MERCY", 
+            "pos": "12", 
+            "time": "1:52.18"
+        }, 
+        {
+            "name": "GROVE CITY-10", 
+            "pos": "13", 
+            "time": "1:53.30"
+        }, 
+        {
+            "name": "VILLA MARIA", 
+            "pos": "14", 
+            "time": "1:53.44"
+        }, 
+        {
+            "name": "INDIANA-07 1:53.17", 
+            "pos": "15", 
+            "time": "1:53.51"
+        }, 
+        {
+            "name": "SHADY SIDE", 
+            "pos": "16", 
+            "time": "1:55.70"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "VILLA MARIA", 
+            "pos": "1", 
+            "time": "3:30.09"
+        }, 
+        {
+            "name": "SCRANTON PREPARATORY-02", 
+            "pos": "2", 
+            "time": "3:33.21"
+        }, 
+        {
+            "name": "NORTHERN YORK-03", 
+            "pos": "3", 
+            "time": "3:36.37"
+        }, 
+        {
+            "name": "GWYNEDD MERCY", 
+            "pos": "4", 
+            "time": "3:36.46"
+        }, 
+        {
+            "name": "SOUTHERN LEHIGH-11", 
+            "pos": "5", 
+            "time": "3:36.62"
+        }, 
+        {
+            "name": "YORK SUBURBAN-03", 
+            "pos": "6", 
+            "time": "3:37.94"
+        }, 
+        {
+            "name": "NAZARETH ACADEMY-01", 
+            "pos": "7", 
+            "time": "3:38.64"
+        }, 
+        {
+            "name": "SOUTH FAYETTE-07", 
+            "pos": "8", 
+            "time": "3:39.64"
+        }, 
+        {
+            "name": "SPRINGFIELD TOWNSHIP-01", 
+            "pos": "9", 
+            "time": "3:37.70"
+        }, 
+        {
+            "name": "FAIRVIEW-10 3:39.73", 
+            "pos": "10", 
+            "time": "3:38.40"
+        }, 
+        {
+            "name": "TRINITY-03 3:41.74", 
+            "pos": "11", 
+            "time": "3:40.59"
+        }, 
+        {
+            "name": "DERRY AREA-07", 
+            "pos": "12", 
+            "time": "3:41.58"
+        }, 
+        {
+            "name": "BIG SPRING-03", 
+            "pos": "12", 
+            "time": "3:41.58"
+        }, 
+        {
+            "name": "PALMYRA-03 3:44.24", 
+            "pos": "14", 
+            "time": "3:41.93"
+        }, 
+        {
+            "name": "CLEARFIELD-09 3:45.14", 
+            "pos": "15", 
+            "time": "3:45.56"
+        }, 
+        {
+            "name": "VILLA MARIA", 
+            "pos": "16", 
+            "time": "3:47.17"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "HARNISH, COURTNEY", 
+            "pos": "1", 
+            "time": "4:40.04S"
+        }, 
+        {
+            "name": "NONNENBERG, MIA", 
+            "pos": "2", 
+            "time": "4:48.82H"
+        }, 
+        {
+            "name": "BONNETT, BAILEY", 
+            "pos": "3", 
+            "time": "4:56.57"
+        }, 
+        {
+            "name": "DADAY, COLLEEN", 
+            "pos": "4", 
+            "time": "4:58.34"
+        }, 
+        {
+            "name": "KOWAL, GRACE", 
+            "pos": "5", 
+            "time": "4:59.07"
+        }, 
+        {
+            "name": "OSTER, MADISON", 
+            "pos": "6", 
+            "time": "5:01.93"
+        }, 
+        {
+            "name": "SZEKELY, STEPH", 
+            "pos": "7", 
+            "time": "5:06.60"
+        }, 
+        {
+            "name": "OTWELL, BRIA", 
+            "pos": "8", 
+            "time": "5:06.96"
+        }, 
+        {
+            "name": "THOMSON, ABIGAIL", 
+            "pos": "9", 
+            "time": "5:01.93"
+        }, 
+        {
+            "name": "COLVILLE, CAROLINE", 
+            "pos": "10", 
+            "time": "5:08.63"
+        }, 
+        {
+            "name": "MERCER, SYDNEY", 
+            "pos": "11", 
+            "time": "5:09.48"
+        }, 
+        {
+            "name": "HARRINGTON, MARY", 
+            "pos": "12", 
+            "time": "5:09.86"
+        }, 
+        {
+            "name": "CAREY, GRACE", 
+            "pos": "13", 
+            "time": "5:13.45"
+        }, 
+        {
+            "name": "CURLEY, MARY", 
+            "pos": "14", 
+            "time": "5:17.12"
+        }, 
+        {
+            "name": "SZAJNUK, KIMMI", 
+            "pos": "15", 
+            "time": "5:17.15"
+        }, 
+        {
+            "name": "NELSON, FALLON", 
+            "pos": "16", 
+            "time": "5:18.91"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "GRABSKI, ADRIANA", 
+            "pos": "1", 
+            "time": "23.10H"
+        }, 
+        {
+            "name": "ZIMCOSKY, EMILY", 
+            "pos": "2", 
+            "time": "23.21H"
+        }, 
+        {
+            "name": "COOKE, MADDIE", 
+            "pos": "3", 
+            "time": "23.63"
+        }, 
+        {
+            "name": "MIKESELL, CLAIRE", 
+            "pos": "4", 
+            "time": "23.78"
+        }, 
+        {
+            "name": "GIAMPIETRO, OLIVIA", 
+            "pos": "5", 
+            "time": "24.11"
+        }, 
+        {
+            "name": "FORRESTER, JENNA", 
+            "pos": "6", 
+            "time": "24.16"
+        }, 
+        {
+            "name": "GROSS, CARSON", 
+            "pos": "7", 
+            "time": "24.21"
+        }, 
+        {
+            "name": "GLASSMIRE, LEXI", 
+            "pos": "8", 
+            "time": "24.43"
+        }, 
+        {
+            "name": "FEUCHT, HANNAH", 
+            "pos": "9", 
+            "time": "24.35"
+        }, 
+        {
+            "name": "MCMANUS, MAURA", 
+            "pos": "10", 
+            "time": "24.38"
+        }, 
+        {
+            "name": "AZZARELLO, ASHLEY", 
+            "pos": "11", 
+            "time": "24.46"
+        }, 
+        {
+            "name": "BUTKUS, JOANN", 
+            "pos": "12", 
+            "time": "24.66"
+        }, 
+        {
+            "name": "MARBLE, JULES", 
+            "pos": "13", 
+            "time": "24.68"
+        }, 
+        {
+            "name": "LOPEZ, LEXY", 
+            "pos": "14", 
+            "time": "24.87"
+        }, 
+        {
+            "name": "ALLISON, EMMA", 
+            "pos": "15", 
+            "time": "24.98"
+        }, 
+        {
+            "name": "BISIGNANI, MIKAYLA", 
+            "pos": "16", 
+            "time": "25.01"
+        }
+    ], 
+    "Rankings-ThroughEvent12": []
+}
