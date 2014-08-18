@@ -1,0 +1,1082 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "BOHN, TRAVIS", 
+            "pos": "1", 
+            "school": "ANNVILLE CLEONA*-03", 
+            "time": "50.99H"
+        }, 
+        {
+            "name": "MOYER, JASON", 
+            "pos": "2", 
+            "school": "SOUTHERN LEHIGH-11", 
+            "time": "51.84"
+        }, 
+        {
+            "name": "MANGIS, TIM", 
+            "pos": "3", 
+            "school": "WEST ALLEGHENY-07", 
+            "time": "52.16"
+        }, 
+        {
+            "name": "ROCHNA, MATT", 
+            "pos": "4", 
+            "school": "INDIANA-07", 
+            "time": "52.57"
+        }, 
+        {
+            "name": "ROBINSON, JACOB", 
+            "pos": "5", 
+            "school": "LANC CATHOLIC-03", 
+            "time": "53.53"
+        }, 
+        {
+            "name": "METZGER, LOGAN", 
+            "pos": "6", 
+            "school": "LEWISBURG-04", 
+            "time": "53.54"
+        }, 
+        {
+            "name": "MUEHLHEUSER, KURT", 
+            "pos": "7", 
+            "school": "MARS AREA-07", 
+            "time": "53.59"
+        }, 
+        {
+            "name": "NICOLELLA, JACOB", 
+            "pos": "8", 
+            "school": "BISHOP CANEVIN-07", 
+            "time": "54.24"
+        }, 
+        {
+            "name": "MCCARTHY, BRENDAN", 
+            "pos": "9", 
+            "school": "BISHOP SHANAHAN-01", 
+            "time": "53.78"
+        }, 
+        {
+            "name": "BENCZKOWSKI, DAVID", 
+            "pos": "10", 
+            "school": "MERCYHURST PREP-10", 
+            "time": "54.27"
+        }, 
+        {
+            "name": "KNAUS, MICHAEL", 
+            "pos": "11", 
+            "school": "DEVON PREP*-01", 
+            "time": "54.65"
+        }, 
+        {
+            "name": "MAXWELL, NATHAN", 
+            "pos": "12", 
+            "school": "NESHANNOCK*-07", 
+            "time": "54.88"
+        }, 
+        {
+            "name": "LOCKHART, TYLER", 
+            "pos": "13", 
+            "school": "OIL CITY-10", 
+            "time": "54.93"
+        }, 
+        {
+            "name": "HARTZEL, JONATHAN", 
+            "pos": "14", 
+            "school": "GETTYSBURG-03", 
+            "time": "54.95"
+        }, 
+        {
+            "name": "DARTNELL, ROBERT", 
+            "pos": "15", 
+            "school": "FAIRVIEW-10", 
+            "time": "55.71"
+        }, 
+        {
+            "name": "LOWERY, ROB", 
+            "pos": "16", 
+            "school": "DELCO CHRISTIAN*-01", 
+            "time": "56.62"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "STEPHENS, ZACH", 
+            "pos": "1", 
+            "school": "BLOOMSBURG-04", 
+            "time": "55.64S"
+        }, 
+        {
+            "name": "FREDERICK, BRIAN", 
+            "pos": "2", 
+            "school": "FRANKLIN AREA-10", 
+            "time": "57.17H"
+        }, 
+        {
+            "name": "FRANCIS, BOBBY", 
+            "pos": "3", 
+            "school": "QUAKER VALLEY-07", 
+            "time": "57.68H"
+        }, 
+        {
+            "name": "THATCHER, MICHAEL", 
+            "pos": "4", 
+            "school": "EAST PENNSBORO-03", 
+            "time": "58.80"
+        }, 
+        {
+            "name": "GRIMM, HARRISON", 
+            "pos": "5", 
+            "school": "FAIRVIEW-10", 
+            "time": "1:00.00"
+        }, 
+        {
+            "name": "GROSS, TYLER", 
+            "pos": "6", 
+            "school": "POTTSGROVE-01", 
+            "time": "1:00.11"
+        }, 
+        {
+            "name": "PHILLIPS, ADAM", 
+            "pos": "7", 
+            "school": "ELK LAKE-02", 
+            "time": "1:00.61"
+        }, 
+        {
+            "name": "ALLADA, MIKE", 
+            "pos": "8", 
+            "school": "QUAKER VALLEY-07", 
+            "time": "1:00.76"
+        }, 
+        {
+            "name": "FISHER, ALEXANDER", 
+            "pos": "9", 
+            "school": "CLEARFIELD-09", 
+            "time": "1:01.07"
+        }, 
+        {
+            "name": "ALBERT, EVERETT", 
+            "pos": "10", 
+            "school": "LANC CATHOLIC-03", 
+            "time": "1:01.23"
+        }, 
+        {
+            "name": "HALLETT, SHANE", 
+            "pos": "11", 
+            "school": "BOILING SPRINGS-03", 
+            "time": "1:01.34"
+        }, 
+        {
+            "name": "WITMER, NATHAN", 
+            "pos": "12", 
+            "school": "WARRIOR RUN*-04", 
+            "time": "1:01.56"
+        }, 
+        {
+            "name": "AMBROSE, MIKE", 
+            "pos": "13", 
+            "school": "SOUTHERN LEHIGH-11", 
+            "time": "1:01.59"
+        }, 
+        {
+            "name": "WILKERSON, JEREMY", 
+            "pos": "14", 
+            "school": "SUSQUEHANNA TWP-03", 
+            "time": "1:01.66"
+        }, 
+        {
+            "name": "O'BRIEN, NEIL", 
+            "pos": "15", 
+            "school": "MONTOUR-07", 
+            "time": "1:02.11"
+        }, 
+        {
+            "name": "ROSENBERGER, ANDRE", 
+            "pos": "16", 
+            "school": "BELLEFONTE-06", 
+            "time": "1:02.21"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "KELLEY, BRODERICK", 
+            "pos": "1", 
+            "school": "SHADY SIDE ACAD-07", 
+            "time": "49.93H"
+        }, 
+        {
+            "name": "MANGIS, TIM", 
+            "pos": "2", 
+            "school": "WEST ALLEGHENY-07", 
+            "time": "51.98"
+        }, 
+        {
+            "name": "STRATHMEYER, BRADL", 
+            "pos": "3", 
+            "school": "WEST YORK-03", 
+            "time": "52.61"
+        }, 
+        {
+            "name": "MIKITKA, JEFF", 
+            "pos": "4", 
+            "school": "FLEETWOOD*-03", 
+            "time": "52.79"
+        }, 
+        {
+            "name": "TAMANINI, CHRIS", 
+            "pos": "5", 
+            "school": "DALLAS-02", 
+            "time": "52.82"
+        }, 
+        {
+            "name": "GARASE, KYLE", 
+            "pos": "6", 
+            "school": "RINGGOLD-07", 
+            "time": "53.17"
+        }, 
+        {
+            "name": "KONSTATHIS, AJ", 
+            "pos": "7", 
+            "school": "POTTSGROVE-01", 
+            "time": "53.20"
+        }, 
+        {
+            "name": "SZILAGYI, STEFAN", 
+            "pos": "8", 
+            "school": "BLOOMSBURG-04", 
+            "time": "53.40"
+        }, 
+        {
+            "name": "KOLESAR, BRAD", 
+            "pos": "9", 
+            "school": "WEST MIFFLIN-07", 
+            "time": "53.19"
+        }, 
+        {
+            "name": "BUCKNER, IAN", 
+            "pos": "10", 
+            "school": "NESHANNOCK*-07", 
+            "time": "53.35"
+        }, 
+        {
+            "name": "BELL, MATTHIAS", 
+            "pos": "11", 
+            "school": "SPRINGFIELD (MC)-01", 
+            "time": "53.46"
+        }, 
+        {
+            "name": "HESS, ADAM", 
+            "pos": "12", 
+            "school": "INDIANA-07", 
+            "time": "53.58"
+        }, 
+        {
+            "name": "CASSEL, MASON", 
+            "pos": "13", 
+            "school": "UPPER PERKIOMEN-01", 
+            "time": "54.34"
+        }, 
+        {
+            "name": "JONES, MIKE", 
+            "pos": "14", 
+            "school": "MIFFLINBURG*-04", 
+            "time": "54.54"
+        }, 
+        {
+            "name": "GEIS, RILEY", 
+            "pos": "15", 
+            "school": "SOUTHERN LEHIGH-11", 
+            "time": "54.72"
+        }, 
+        {
+            "name": "HARDING, BRANDON", 
+            "pos": "16", 
+            "school": "DALLAS-02", 
+            "time": "54.87"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "GOSEK, DANIEL", 
+            "pos": "1", 
+            "school": "HOLY GHOST PREP-01", 
+            "time": "45.38H"
+        }, 
+        {
+            "name": "FREDERICK, BRIAN", 
+            "pos": "2", 
+            "school": "FRANKLIN AREA-10", 
+            "time": "46.66"
+        }, 
+        {
+            "name": "KELLEY, BRODERICK", 
+            "pos": "3", 
+            "school": "SHADY SIDE ACAD-07", 
+            "time": "46.68"
+        }, 
+        {
+            "name": "EMERSON, PHIL", 
+            "pos": "4", 
+            "school": "FRANKLIN AREA-10", 
+            "time": "46.71"
+        }, 
+        {
+            "name": "SMITH, NATHAN", 
+            "pos": "5", 
+            "school": "SUSQUEHANNA TWP-03", 
+            "time": "46.83"
+        }, 
+        {
+            "name": "PETRELLA, RICHARD", 
+            "pos": "6", 
+            "school": "FAIRVIEW-10", 
+            "time": "47.10"
+        }, 
+        {
+            "name": "TAMANINI, CHRIS", 
+            "pos": "7", 
+            "school": "DALLAS-02", 
+            "time": "47.82"
+        }, 
+        {
+            "name": "SIGURDSSON, LARS", 
+            "pos": "8", 
+            "school": "MONTOURSVILLE-04", 
+            "time": "47.83"
+        }, 
+        {
+            "name": "STEPNIAK, PIOTR", 
+            "pos": "9", 
+            "school": "MERCYHURST PREP-10", 
+            "time": "47.52"
+        }, 
+        {
+            "name": "TROUTMAN, DOUG", 
+            "pos": "10", 
+            "school": "SCHUYLKILL VAL-03", 
+            "time": "47.97"
+        }, 
+        {
+            "name": "CUBBISON, STUART", 
+            "pos": "11", 
+            "school": "LANC CATHOLIC-03", 
+            "time": "48.01"
+        }, 
+        {
+            "name": "HOLMES, RYAN", 
+            "pos": "12", 
+            "school": "SCRANTON PREP-02", 
+            "time": "48.05"
+        }, 
+        {
+            "name": "WARD, RAY", 
+            "pos": "13", 
+            "school": "WESTMONT HILLTOP-06", 
+            "time": "48.43"
+        }, 
+        {
+            "name": "SULLIVAN, ALEX", 
+            "pos": "14", 
+            "school": "MONTOURSVILLE-04", 
+            "time": "48.74"
+        }, 
+        {
+            "name": "MOSER, ZACH", 
+            "pos": "15", 
+            "school": "WYOMISSING-03", 
+            "time": "48.81"
+        }, 
+        {
+            "name": "RANSEL, JUSTIN", 
+            "pos": "16", 
+            "school": "BROOKVILLE-09", 
+            "time": "49.93"
+        }
+    ], 
+    "1mtrDiving": [], 
+    "200YardFreestyle": [
+        {
+            "name": "PAULK, DAVID", 
+            "pos": "1", 
+            "school": "SHADY SIDE ACAD-07", 
+            "time": "1:38.53H"
+        }, 
+        {
+            "name": "HALEY, JARED", 
+            "pos": "2", 
+            "school": "NORTHERN YORK-03", 
+            "time": "1:41.56"
+        }, 
+        {
+            "name": "BOHN, TRAVIS", 
+            "pos": "3", 
+            "school": "ANNVILLE CLEONA*-03", 
+            "time": "1:42.43"
+        }, 
+        {
+            "name": "OATIS, ZACHARY", 
+            "pos": "4", 
+            "school": "SAUCON VALLEY-11", 
+            "time": "1:42.84"
+        }, 
+        {
+            "name": "METZGER, LOGAN", 
+            "pos": "5", 
+            "school": "LEWISBURG-04", 
+            "time": "1:44.65"
+        }, 
+        {
+            "name": "HOWARD, JOHN", 
+            "pos": "6", 
+            "school": "ARCHBSHP CARROLL-12", 
+            "time": "1:44.82"
+        }, 
+        {
+            "name": "SZAKELYHIDI, ALEXA", 
+            "pos": "7", 
+            "school": "RIVERSIDE-07", 
+            "time": "1:44.92"
+        }, 
+        {
+            "name": "LINDER, SAM", 
+            "pos": "8", 
+            "school": "NORTHERN YORK-03", 
+            "time": "1:46.42"
+        }, 
+        {
+            "name": "BLOCK, ADAM", 
+            "pos": "9", 
+            "school": "KUTZTOWN*-03", 
+            "time": "1:44.39"
+        }, 
+        {
+            "name": "HANEY, ZACHARY", 
+            "pos": "10", 
+            "school": "DANVILLE-04", 
+            "time": "1:45.95"
+        }, 
+        {
+            "name": "MCCARTHY, BRENDAN", 
+            "pos": "11", 
+            "school": "BISHOP SHANAHAN-01", 
+            "time": "1:46.11"
+        }, 
+        {
+            "name": "FALLON, JESSE", 
+            "pos": "12", 
+            "school": "SPRINGFIELD (MC)-01", 
+            "time": "1:46.26"
+        }, 
+        {
+            "name": "CLERICI, CAMERON", 
+            "pos": "13", 
+            "school": "BEAVER AREA-07", 
+            "time": "1:47.22"
+        }, 
+        {
+            "name": "DICARLO, IAN", 
+            "pos": "14", 
+            "school": "CAMP HILL*-03", 
+            "time": "1:47.63"
+        }, 
+        {
+            "name": "CALARIE, CONNER", 
+            "pos": "15", 
+            "school": "HIGHLANDS-07", 
+            "time": "1:47.80"
+        }, 
+        {
+            "name": "CALHOUN, SAM", 
+            "pos": "16", 
+            "school": "BLOOMSBURG-04", 
+            "time": "1:48.38"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "SPRINGFIELD (MC)-01", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:26.85"
+        }, 
+        {
+            "name": "FAIRVIEW-10 1:28.38", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:27.28"
+        }, 
+        {
+            "name": "INDIANA-07 1:28.85", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:28.87"
+        }, 
+        {
+            "name": "SHADY SIDE", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:29.11"
+        }, 
+        {
+            "name": "SUSQUEHANNA TWP-03", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:29.34"
+        }, 
+        {
+            "name": "SCHUYLKILL VALLEY-03", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:29.54"
+        }, 
+        {
+            "name": "FRANKLIN AREA-10", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:30.33"
+        }, 
+        {
+            "name": "BISHOP SHANAHAN-01", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:30.43"
+        }, 
+        {
+            "name": "RIVERSIDE (ELLWOOD", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:30.27"
+        }, 
+        {
+            "name": "BOILING SPRINGS-03", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:30.64"
+        }, 
+        {
+            "name": "SOUTHERN LEHIGH-11", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:30.71"
+        }, 
+        {
+            "name": "SALISBURY-11 1:31.60", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:31.97"
+        }, 
+        {
+            "name": "NORTHERN YORK-03", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:32.23"
+        }, 
+        {
+            "name": "QUAKER VALLEY-07", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:32.63"
+        }, 
+        {
+            "name": "ATHENS AREA-04", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:32.81"
+        }, 
+        {
+            "name": "GROVE CITY-10", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:33.11"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "STEPHENS, ZACH", 
+            "pos": "1", 
+            "school": "BLOOMSBURG-04", 
+            "time": "1:51.12H"
+        }, 
+        {
+            "name": "PETRELLA, RICHARD", 
+            "pos": "2", 
+            "school": "FAIRVIEW-10", 
+            "time": "1:53.45"
+        }, 
+        {
+            "name": "ROCHNA, MATT", 
+            "pos": "3", 
+            "school": "INDIANA-07", 
+            "time": "1:55.10"
+        }, 
+        {
+            "name": "FRANCIS, BOBBY", 
+            "pos": "4", 
+            "school": "QUAKER VALLEY-07", 
+            "time": "1:55.66"
+        }, 
+        {
+            "name": "ROBINSON, JACOB", 
+            "pos": "5", 
+            "school": "LANC CATHOLIC-03", 
+            "time": "1:58.28"
+        }, 
+        {
+            "name": "ALBERT, EVERETT", 
+            "pos": "6", 
+            "school": "LANC CATHOLIC-03", 
+            "time": "1:59.25"
+        }, 
+        {
+            "name": "PHILLIPS, ADAM", 
+            "pos": "7", 
+            "school": "ELK LAKE-02", 
+            "time": "2:00.21"
+        }, 
+        {
+            "name": "GROSS, TYLER", 
+            "pos": "8", 
+            "school": "POTTSGROVE-01", 
+            "time": "2:00.85"
+        }, 
+        {
+            "name": "MAZUR, DAN", 
+            "pos": "9", 
+            "school": "SEATON LASALLE-07", 
+            "time": "1:59.16"
+        }, 
+        {
+            "name": "WITMER, NATHAN", 
+            "pos": "10", 
+            "school": "WARRIOR RUN*-04", 
+            "time": "2:00.10"
+        }, 
+        {
+            "name": "DARTNELL, ROBERT", 
+            "pos": "11", 
+            "school": "FAIRVIEW-10", 
+            "time": "2:01.05"
+        }, 
+        {
+            "name": "GEORGIADIS, CHRIST", 
+            "pos": "12", 
+            "school": "MARS AREA-07", 
+            "time": "2:03.28"
+        }, 
+        {
+            "name": "ZENTGRAF, GRANT", 
+            "pos": "13", 
+            "school": "SHADY SIDE ACAD-07", 
+            "time": "2:03.43"
+        }, 
+        {
+            "name": "BORAN, THOMAS", 
+            "pos": "14", 
+            "school": "BLUE MOUNTAIN-11", 
+            "time": "2:03.64"
+        }, 
+        {
+            "name": "CROOKS, KEVIN", 
+            "pos": "15", 
+            "school": "TRINITY (WASHTN)-07", 
+            "time": "2:03.66"
+        }, 
+        {
+            "name": "THATCHER, MICHAEL", 
+            "pos": "16", 
+            "school": "EAST PENNSBORO-03", 
+            "time": "2:12.32"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "SHADY SIDE", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:36.83"
+        }, 
+        {
+            "name": "FRANKLIN AREA-10", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:37.28"
+        }, 
+        {
+            "name": "INDIANA-07 1:38.14", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:37.43"
+        }, 
+        {
+            "name": "SOUTHERN LEHIGH-11", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:37.69"
+        }, 
+        {
+            "name": "LANCASTER CATHOLIC-03", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:38.91"
+        }, 
+        {
+            "name": "BLOOMSBURG-04 1:38.63", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:39.29"
+        }, 
+        {
+            "name": "SPRINGFIELD (MC)-01", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:39.31"
+        }, 
+        {
+            "name": "FAIRVIEW-10 1:39.41", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:39.65"
+        }, 
+        {
+            "name": "DALLAS-02 1:39.62", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:39.41"
+        }, 
+        {
+            "name": "BOILING SPRINGS-03", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:40.52"
+        }, 
+        {
+            "name": "HOLY GHOST", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:41.24"
+        }, 
+        {
+            "name": "SCHUYLKILL VALLEY-03", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:41.38"
+        }, 
+        {
+            "name": "POTTSGROVE-01 1:41.75", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:41.41"
+        }, 
+        {
+            "name": "WEST ALLEGHENY-07", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:41.47"
+        }, 
+        {
+            "name": "UPPER PERKIOMEN-01", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:41.97"
+        }, 
+        {
+            "name": "CLEARFIELD-09 1:41.90", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:42.16"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "SHADY SIDE", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:11.91"
+        }, 
+        {
+            "name": "SPRINGFIELD (MC)-01", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:12.20"
+        }, 
+        {
+            "name": "FRANKLIN AREA-10", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:12.87"
+        }, 
+        {
+            "name": "SOUTHERN LEHIGH-11", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:14.98"
+        }, 
+        {
+            "name": "BLOOMSBURG-04 3:15.74", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:15.29"
+        }, 
+        {
+            "name": "LANCASTER CATHOLIC-03", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:15.58"
+        }, 
+        {
+            "name": "FAIRVIEW-10 3:16.26", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:16.17"
+        }, 
+        {
+            "name": "SUSQUEHANNA TWP-03", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:18.89"
+        }, 
+        {
+            "name": "DALLAS-02 3:18.71", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:18.97"
+        }, 
+        {
+            "name": "HOLY GHOST", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:19.97"
+        }, 
+        {
+            "name": "BOILING SPRINGS-03", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:20.21"
+        }, 
+        {
+            "name": "RIVERSIDE (ELLWOOD", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:20.94"
+        }, 
+        {
+            "name": "NORTHERN YORK-03", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:21.28"
+        }, 
+        {
+            "name": "BISHOP SHANAHAN-01", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:22.04"
+        }, 
+        {
+            "name": "BEAVER AREA-07", 
+            "pos": "15", 
+            "school": "", 
+            "time": "3:23.67"
+        }, 
+        {
+            "name": "SOUTH FAYETTE-07", 
+            "pos": "16", 
+            "school": "", 
+            "time": "3:24.77"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "PAULK, DAVID", 
+            "pos": "1", 
+            "school": "SHADY SIDE ACAD-07", 
+            "time": "4:29.41H"
+        }, 
+        {
+            "name": "HALEY, JARED", 
+            "pos": "2", 
+            "school": "NORTHERN YORK-03", 
+            "time": "4:33.71"
+        }, 
+        {
+            "name": "OATIS, ZACHARY", 
+            "pos": "3", 
+            "school": "SAUCON VALLEY-11", 
+            "time": "4:37.27"
+        }, 
+        {
+            "name": "HOWARD, JOHN", 
+            "pos": "4", 
+            "school": "ARCHBSHP CARROLL-12", 
+            "time": "4:44.27"
+        }, 
+        {
+            "name": "SZAKELYHIDI, ALEXA", 
+            "pos": "5", 
+            "school": "RIVERSIDE-07", 
+            "time": "4:45.87"
+        }, 
+        {
+            "name": "STRATHMEYER, BRADL", 
+            "pos": "6", 
+            "school": "WEST YORK-03", 
+            "time": "4:46.16"
+        }, 
+        {
+            "name": "MAZUR, DAN", 
+            "pos": "7", 
+            "school": "SEATON LASALLE-07", 
+            "time": "4:47.15"
+        }, 
+        {
+            "name": "LINDER, SAM", 
+            "pos": "8", 
+            "school": "NORTHERN YORK-03", 
+            "time": "4:54.40"
+        }, 
+        {
+            "name": "CALARIE, CONNER", 
+            "pos": "9", 
+            "school": "HIGHLANDS-07", 
+            "time": "4:46.94"
+        }, 
+        {
+            "name": "FALLON, JESSE", 
+            "pos": "10", 
+            "school": "SPRINGFIELD (MC)-01", 
+            "time": "4:47.95"
+        }, 
+        {
+            "name": "MIKITKA, JEFF", 
+            "pos": "11", 
+            "school": "FLEETWOOD*-03", 
+            "time": "4:48.48"
+        }, 
+        {
+            "name": "BLOCK, ADAM", 
+            "pos": "12", 
+            "school": "KUTZTOWN*-03", 
+            "time": "4:48.64"
+        }, 
+        {
+            "name": "CLERICI, CAMERON", 
+            "pos": "13", 
+            "school": "BEAVER AREA-07", 
+            "time": "4:49.52"
+        }, 
+        {
+            "name": "DICARLO, IAN", 
+            "pos": "14", 
+            "school": "CAMP HILL*-03", 
+            "time": "4:49.88"
+        }, 
+        {
+            "name": "FLYNN, NOLAN", 
+            "pos": "15", 
+            "school": "HAMPTON-07", 
+            "time": "4:54.92"
+        }, 
+        {
+            "name": "GRIMM, HARRISON", 
+            "pos": "16", 
+            "school": "FAIRVIEW-10", 
+            "time": "5:33.49"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "GOSEK, DANIEL", 
+            "pos": "1", 
+            "school": "HOLY GHOST PREP-01", 
+            "time": "20.57S"
+        }, 
+        {
+            "name": "MOYER, JASON", 
+            "pos": "2", 
+            "school": "SOUTHERN LEHIGH-11", 
+            "time": "21.08H"
+        }, 
+        {
+            "name": "SMITH, NATHAN", 
+            "pos": "3", 
+            "school": "SUSQUEHANNA TWP-03", 
+            "time": "21.44"
+        }, 
+        {
+            "name": "OESCHGER, JAKE", 
+            "pos": "4", 
+            "school": "SPRINGFIELD (MC)-01", 
+            "time": "21.56"
+        }, 
+        {
+            "name": "HOLMES, RYAN", 
+            "pos": "5", 
+            "school": "SCRANTON PREP-02", 
+            "time": "21.66"
+        }, 
+        {
+            "name": "SIGURDSSON, LARS", 
+            "pos": "6", 
+            "school": "MONTOURSVILLE-04", 
+            "time": "21.67"
+        }, 
+        {
+            "name": "STEPNIAK, PIOTR", 
+            "pos": "7", 
+            "school": "MERCYHURST PREP-10", 
+            "time": "21.74"
+        }, 
+        {
+            "name": "LONGENECKER, BRENT", 
+            "pos": "8", 
+            "school": "DONEGAL*-03", 
+            "time": "21.96"
+        }, 
+        {
+            "name": "TROUTMAN, DOUG", 
+            "pos": "9", 
+            "school": "SCHUYLKILL VAL-03", 
+            "time": "21.83"
+        }, 
+        {
+            "name": "NOWAK, JOE", 
+            "pos": "10", 
+            "school": "FAIRVIEW-10", 
+            "time": "21.97"
+        }, 
+        {
+            "name": "CHIELLI, JAKE", 
+            "pos": "11", 
+            "school": "DALLAS-02", 
+            "time": "22.01"
+        }, 
+        {
+            "name": "MOSER, ZACH", 
+            "pos": "12", 
+            "school": "WYOMISSING-03", 
+            "time": "22.02"
+        }, 
+        {
+            "name": "SULLIVAN, ALEX", 
+            "pos": "13", 
+            "school": "MONTOURSVILLE-04", 
+            "time": "22.09"
+        }, 
+        {
+            "name": "CUBBISON, STUART", 
+            "pos": "14", 
+            "school": "LANC CATHOLIC-03", 
+            "time": "22.10"
+        }, 
+        {
+            "name": "MCWILLIAMS, RYAN", 
+            "pos": "15", 
+            "school": "SPRINGFIELD (MC)-01", 
+            "time": "22.24"
+        }, 
+        {
+            "name": "HASSINGER, BEN", 
+            "pos": "16", 
+            "school": "YORK SUBURBAN-03", 
+            "time": "22.30"
+        }
+    ], 
+    "Rankings-ThroughEvent12": []
+}

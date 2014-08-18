@@ -1,0 +1,1078 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "NOLAN, DAVID", 
+            "pos": "1", 
+            "school": "HERSHEY-03", 
+            "time": "45.49N"
+        }, 
+        {
+            "name": "RYAN, SHANE", 
+            "pos": "2", 
+            "school": "HAVERFORD-01", 
+            "time": "47.53S"
+        }, 
+        {
+            "name": "SAVOY, NATHANIEL", 
+            "pos": "3", 
+            "school": "WILSON-03", 
+            "time": "48.37"
+        }, 
+        {
+            "name": "DUDZINSKI, KYLE", 
+            "pos": "4", 
+            "school": "UPPER ST. CLAIR-07", 
+            "time": "48.42"
+        }, 
+        {
+            "name": "MAURER, TIM", 
+            "pos": "5", 
+            "school": "LOWER DAUPHIN-03", 
+            "time": "49.20"
+        }, 
+        {
+            "name": "BUERGER, MATTHEW", 
+            "pos": "6", 
+            "school": "NORTH ALLEGHENY-07", 
+            "time": "49.37"
+        }, 
+        {
+            "name": "FORRESTER, ERIC", 
+            "pos": "7", 
+            "school": "CANON-MCMILLAN-07", 
+            "time": "50.32"
+        }, 
+        {
+            "name": "GRAESSER, NIC", 
+            "pos": "7", 
+            "school": "CONESTOGA-01", 
+            "time": "50.32"
+        }, 
+        {
+            "name": "BLYSKAL, ANDREW", 
+            "pos": "9", 
+            "school": "AVON GROVE-01", 
+            "time": "50.17"
+        }, 
+        {
+            "name": "DOSS, AUSTIN", 
+            "pos": "10", 
+            "school": "HERSHEY-03", 
+            "time": "50.95"
+        }, 
+        {
+            "name": "WARE, TIM", 
+            "pos": "11", 
+            "school": "CB SOUTH-01", 
+            "time": "51.68"
+        }, 
+        {
+            "name": "QUAGLIARIELLO, JOHN", 
+            "pos": "12", 
+            "school": "SPRINGFIELD DC-01", 
+            "time": "51.72"
+        }, 
+        {
+            "name": "SCHULTZ, ERIC", 
+            "pos": "13", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "51.74"
+        }, 
+        {
+            "name": "HAGAN, BENJAMIN", 
+            "pos": "14", 
+            "school": "HERSHEY-03", 
+            "time": "51.94"
+        }, 
+        {
+            "name": "LUKENS, KYLE", 
+            "pos": "15", 
+            "school": "PLYMTH WHITEMSH-01", 
+            "time": "52.51"
+        }, 
+        {
+            "name": "BANTLEY, BOBBY", 
+            "pos": "16", 
+            "school": "UPPER DUBLIN-01", 
+            "time": "53.46"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "SPEESE, DAVID", 
+            "pos": "1", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "55.95"
+        }, 
+        {
+            "name": "NOSBISCH, LUKE", 
+            "pos": "2", 
+            "school": "GATEWAY-07", 
+            "time": "56.13"
+        }, 
+        {
+            "name": "ANGENY, NICHOLAS", 
+            "pos": "3", 
+            "school": "ARCHBISHOP RYAN-12", 
+            "time": "57.22"
+        }, 
+        {
+            "name": "GETTES, JARRED", 
+            "pos": "4", 
+            "school": "FATHER JUDGE-12", 
+            "time": "57.28"
+        }, 
+        {
+            "name": "DECROP, ROMAIN", 
+            "pos": "5", 
+            "school": "EMMAUS-11", 
+            "time": "57.49"
+        }, 
+        {
+            "name": "VEITH, MITCHELL", 
+            "pos": "6", 
+            "school": "HERSHEY-03", 
+            "time": "57.52"
+        }, 
+        {
+            "name": "RUDDLE, KYLE", 
+            "pos": "7", 
+            "school": "HERSHEY-03", 
+            "time": "57.53"
+        }, 
+        {
+            "name": "HARNER, JACOB", 
+            "pos": "8", 
+            "school": "FATHER JUDGE-12", 
+            "time": "58.19"
+        }, 
+        {
+            "name": "MCCORMICK, THOMAS", 
+            "pos": "9", 
+            "school": "WC HENDERSON-01", 
+            "time": "57.82"
+        }, 
+        {
+            "name": "LOGAN, JC", 
+            "pos": "10", 
+            "school": "STRATH HAVEN-01", 
+            "time": "58.02"
+        }, 
+        {
+            "name": "PAULES, EVAN", 
+            "pos": "11", 
+            "school": "EMMAUS-11", 
+            "time": "58.17"
+        }, 
+        {
+            "name": "THOMPSON, KERRY", 
+            "pos": "12", 
+            "school": "CB EAST-01", 
+            "time": "58.32"
+        }, 
+        {
+            "name": "COOK, ALEX", 
+            "pos": "13", 
+            "school": "PITTSBURG CC-07", 
+            "time": "58.68"
+        }, 
+        {
+            "name": "HAUSLER, RYAN", 
+            "pos": "14", 
+            "school": "AVON GROVE-01", 
+            "time": "58.81"
+        }, 
+        {
+            "name": "LARSON, GABRIEL", 
+            "pos": "15", 
+            "school": "PENN HILLS-07", 
+            "time": "58.83"
+        }, 
+        {
+            "name": "SCHMIDT, CHAD", 
+            "pos": "16", 
+            "school": "CUMBERLAND VAL-03", 
+            "time": "58.94"
+        }
+    ], 
+    "100YardBreaststrokeSwim-off": [], 
+    "100YardButterfly": [
+        {
+            "name": "KOSIC, ANDREW", 
+            "pos": "1", 
+            "school": "WC HENDERSON-01", 
+            "time": "47.68S"
+        }, 
+        {
+            "name": "MCCURDY, CHRISTIAN", 
+            "pos": "2", 
+            "school": "PENN TRAFFORD-07", 
+            "time": "49.43"
+        }, 
+        {
+            "name": "DUDZINSKI, KYLE", 
+            "pos": "3", 
+            "school": "UPPER ST. CLAIR-07", 
+            "time": "49.52"
+        }, 
+        {
+            "name": "MANCUSO, PHILIP", 
+            "pos": "4", 
+            "school": "HERSHEY-03", 
+            "time": "49.77"
+        }, 
+        {
+            "name": "MAGINNIS, JOE", 
+            "pos": "5", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "49.94"
+        }, 
+        {
+            "name": "BUREAU, LUCAS", 
+            "pos": "6", 
+            "school": "GREATER LATROBE-07", 
+            "time": "50.13"
+        }, 
+        {
+            "name": "MAGEE, KEVIN", 
+            "pos": "6", 
+            "school": "CB EAST-01", 
+            "time": "50.13"
+        }, 
+        {
+            "name": "MAGEE, KYLE", 
+            "pos": "8", 
+            "school": "METHACTON-01", 
+            "time": "50.37"
+        }, 
+        {
+            "name": "NAKANO, SHOTA", 
+            "pos": "9", 
+            "school": "HERSHEY-03", 
+            "time": "49.87"
+        }, 
+        {
+            "name": "RICH, ANDREW", 
+            "pos": "10", 
+            "school": "PETERS TWP.-07", 
+            "time": "50.34"
+        }, 
+        {
+            "name": "FORRESTER, ERIC", 
+            "pos": "11", 
+            "school": "CANON-MCMILLAN-07", 
+            "time": "50.39"
+        }, 
+        {
+            "name": "DELILLO, ZACHARY", 
+            "pos": "12", 
+            "school": "WILSON-03", 
+            "time": "50.58"
+        }, 
+        {
+            "name": "LUKENS, KYLE", 
+            "pos": "13", 
+            "school": "PLYMTH WHITEMSH-01", 
+            "time": "51.09"
+        }, 
+        {
+            "name": "RAHNER, RICHARD", 
+            "pos": "14", 
+            "school": "CATHEDRAL PREP-10", 
+            "time": "51.26"
+        }, 
+        {
+            "name": "VEITH, MITCHELL", 
+            "pos": "15", 
+            "school": "HERSHEY-03", 
+            "time": "51.55"
+        }, 
+        {
+            "name": "ORTLIEB, MATT", 
+            "pos": "16", 
+            "school": "NORTH PENN-01", 
+            "time": "52.03"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "KOSIC, ANDREW", 
+            "pos": "1", 
+            "school": "WC HENDERSON-01", 
+            "time": "43.32S"
+        }, 
+        {
+            "name": "BOMBERGER, DAIN", 
+            "pos": "2", 
+            "school": "WARWICK-03", 
+            "time": "44.57"
+        }, 
+        {
+            "name": "EARLY, TYLER", 
+            "pos": "3", 
+            "school": "GARNET VALLEY-01", 
+            "time": "45.73"
+        }, 
+        {
+            "name": "YOUNG, JEFFREY", 
+            "pos": "4", 
+            "school": "HERSHEY-03", 
+            "time": "45.79"
+        }, 
+        {
+            "name": "CHIALASTRI, ALEX", 
+            "pos": "5", 
+            "school": "PLYMTH WHITEMSH-01", 
+            "time": "45.90"
+        }, 
+        {
+            "name": "INTRIERI, KEVIN", 
+            "pos": "6", 
+            "school": "MCDOWELL-10", 
+            "time": "45.97"
+        }, 
+        {
+            "name": "BUREAU, LUCAS", 
+            "pos": "7", 
+            "school": "GREATER LATROBE-07", 
+            "time": "46.26"
+        }, 
+        {
+            "name": "BAUCHWITZ, BENJAMIN", 
+            "pos": "8", 
+            "school": "HERSHEY-03", 
+            "time": "46.27"
+        }, 
+        {
+            "name": "MURARO, ALEXANDER", 
+            "pos": "9", 
+            "school": "EMMAUS-11", 
+            "time": "45.79"
+        }, 
+        {
+            "name": "WEBER, RILEY", 
+            "pos": "10", 
+            "school": "CB EAST-01", 
+            "time": "45.84"
+        }, 
+        {
+            "name": "LEYENS, ASHTON", 
+            "pos": "11", 
+            "school": "UPPER DUBLIN-01", 
+            "time": "46.35"
+        }, 
+        {
+            "name": "MILLER, ANDREW", 
+            "pos": "12", 
+            "school": "CEDAR CREST-03", 
+            "time": "46.53"
+        }, 
+        {
+            "name": "DEANA, JASON", 
+            "pos": "13", 
+            "school": "NORTH PENN-01", 
+            "time": "46.70"
+        }, 
+        {
+            "name": "TOREN, TYLER", 
+            "pos": "14", 
+            "school": "WILSON-03", 
+            "time": "46.81"
+        }, 
+        {
+            "name": "MAZA, JOHN", 
+            "pos": "15", 
+            "school": "WC HENDERSON-01", 
+            "time": "46.90"
+        }
+    ], 
+    "1mtrDiving": [], 
+    "200YardFreestyle": [
+        {
+            "name": "RYAN, SHANE", 
+            "pos": "1", 
+            "school": "HAVERFORD-01", 
+            "time": "1:38.36"
+        }, 
+        {
+            "name": "NAPPI, JOHN", 
+            "pos": "2", 
+            "school": "MOUNT LEBANON-07", 
+            "time": "1:38.63"
+        }, 
+        {
+            "name": "MAURER, TIM", 
+            "pos": "3", 
+            "school": "LOWER DAUPHIN-03", 
+            "time": "1:39.82"
+        }, 
+        {
+            "name": "EARLY, TYLER", 
+            "pos": "4", 
+            "school": "GARNET VALLEY-01", 
+            "time": "1:39.94"
+        }, 
+        {
+            "name": "BAUCHWITZ, BENJAMIN", 
+            "pos": "5", 
+            "school": "HERSHEY-03", 
+            "time": "1:40.59"
+        }, 
+        {
+            "name": "SZEKELY, CHRIS", 
+            "pos": "6", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "1:40.65"
+        }, 
+        {
+            "name": "TOREN, TYLER", 
+            "pos": "7", 
+            "school": "WILSON-03", 
+            "time": "1:40.71"
+        }, 
+        {
+            "name": "CHIALASTRI, ALEX", 
+            "pos": "8", 
+            "school": "PLYMTH WHITEMSH-01", 
+            "time": "1:40.91"
+        }, 
+        {
+            "name": "MAZA, JOHN", 
+            "pos": "9", 
+            "school": "WC HENDERSON-01", 
+            "time": "1:42.06"
+        }, 
+        {
+            "name": "LEYENS, ASHTON", 
+            "pos": "10", 
+            "school": "UPPER DUBLIN-01", 
+            "time": "1:42.13"
+        }, 
+        {
+            "name": "BLYSKAL, ANDREW", 
+            "pos": "11", 
+            "school": "AVON GROVE-01", 
+            "time": "1:42.53"
+        }, 
+        {
+            "name": "CATALINO, CHRIS", 
+            "pos": "12", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "1:42.86"
+        }, 
+        {
+            "name": "HOLDER, EVAN", 
+            "pos": "13", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "1:43.13"
+        }, 
+        {
+            "name": "HARDWICK, ALEX", 
+            "pos": "14", 
+            "school": "UPPER ST. CLAIR-07", 
+            "time": "1:43.79"
+        }, 
+        {
+            "name": "FORLINI, CONNOR", 
+            "pos": "15", 
+            "school": "WILLIAM TENNENT-01", 
+            "time": "1:43.87"
+        }, 
+        {
+            "name": "CHRZANOWSKI, ADAM", 
+            "pos": "16", 
+            "school": "CATHEDRAL PREP-10", 
+            "time": "1:44.89"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "HERSHEY-03 1:22.70", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:21.01N"
+        }, 
+        {
+            "name": "WILSON-03 1:23.41", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:23.38"
+        }, 
+        {
+            "name": "EMMAUS-11 1:25.12", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:23.58"
+        }, 
+        {
+            "name": "UPPER ST.", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:24.22"
+        }, 
+        {
+            "name": "WEST CHESTER", 
+            "pos": "5", 
+            "school": "REED HENDERSON-01", 
+            "time": "1:24.39"
+        }, 
+        {
+            "name": "LASALLE COLLEGE-12", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:25.88"
+        }, 
+        {
+            "name": "PENN TRAFFORD-07", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:26.55"
+        }, 
+        {
+            "name": "STATE COLLEGE", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:27.63"
+        }, 
+        {
+            "name": "NORTH PENN-01", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:25.85"
+        }, 
+        {
+            "name": "FRANKLIN REGIONAL-07", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:25.90"
+        }, 
+        {
+            "name": "CENTRAL BUCKS", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:25.90"
+        }, 
+        {
+            "name": "GATEWAY-07 1:26.95", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:26.29"
+        }, 
+        {
+            "name": "CATHEDRAL PREP-10", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:27.02"
+        }, 
+        {
+            "name": "DALLASTOWN-03 1:26.73", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:27.13"
+        }, 
+        {
+            "name": "CEDAR CREST-03", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:27.84"
+        }, 
+        {
+            "name": "AVON GROVE-01", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:28.36"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "NOLAN, DAVID", 
+            "pos": "1", 
+            "school": "HERSHEY-03", 
+            "time": "1:41.39N"
+        }, 
+        {
+            "name": "SAVOY, NATHANIEL", 
+            "pos": "2", 
+            "school": "WILSON-03", 
+            "time": "1:47.65"
+        }, 
+        {
+            "name": "BUERGER, MATTHEW", 
+            "pos": "3", 
+            "school": "NORTH ALLEGHENY-07", 
+            "time": "1:50.25"
+        }, 
+        {
+            "name": "BUERGER, ZACHARY", 
+            "pos": "4", 
+            "school": "NORTH ALLEGHENY-07", 
+            "time": "1:51.42"
+        }, 
+        {
+            "name": "SPEESE, DAVID", 
+            "pos": "5", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "1:51.78"
+        }, 
+        {
+            "name": "NOSBISCH, LUKE", 
+            "pos": "6", 
+            "school": "GATEWAY-07", 
+            "time": "1:52.91"
+        }, 
+        {
+            "name": "MCCORMICK, THOMAS", 
+            "pos": "7", 
+            "school": "WC HENDERSON-01", 
+            "time": "1:52.99"
+        }, 
+        {
+            "name": "LEE, WILLIAM", 
+            "pos": "8", 
+            "school": "HERSHEY-03", 
+            "time": "1:53.12"
+        }, 
+        {
+            "name": "REGAN, SEAN", 
+            "pos": "9", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "1:53.87"
+        }, 
+        {
+            "name": "LARSON, GABRIEL", 
+            "pos": "10", 
+            "school": "PENN HILLS-07", 
+            "time": "1:55.24"
+        }, 
+        {
+            "name": "MOLINARO, MILES", 
+            "pos": "11", 
+            "school": "FRANKLIN REG-07", 
+            "time": "1:55.42"
+        }, 
+        {
+            "name": "DIMARCO, DAVID", 
+            "pos": "12", 
+            "school": "NAZARETH-11", 
+            "time": "1:55.66"
+        }, 
+        {
+            "name": "HAGAN, BENJAMIN", 
+            "pos": "13", 
+            "school": "HERSHEY-03", 
+            "time": "1:55.75"
+        }, 
+        {
+            "name": "ANGENY, NICHOLAS", 
+            "pos": "14", 
+            "school": "ARCHBISHOP RYAN-12", 
+            "time": "1:55.84"
+        }, 
+        {
+            "name": "SCHMIDT, CHAD", 
+            "pos": "15", 
+            "school": "CUMBERLAND VAL-03", 
+            "time": "1:56.18"
+        }, 
+        {
+            "name": "MCKENZIE, SHANE", 
+            "pos": "16", 
+            "school": "ST JOSEPH'S PREP-12", 
+            "time": "1:57.03"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "LASALLE COLLEGE-12", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:31.94S"
+        }, 
+        {
+            "name": "HERSHEY-03 1:32.93", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:32.06"
+        }, 
+        {
+            "name": "NORTH ALLEGHENY-07", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:34.00"
+        }, 
+        {
+            "name": "WILSON-03 1:34.52", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:34.31"
+        }, 
+        {
+            "name": "UPPER ST.", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:34.35"
+        }, 
+        {
+            "name": "UPPER DUBLIN-01", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:35.48"
+        }, 
+        {
+            "name": "CENTRAL BUCKS", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:35.64"
+        }, 
+        {
+            "name": "HAVERFORD-01 1:35.45", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:35.74"
+        }, 
+        {
+            "name": "PENN TRAFFORD-07", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:34.63"
+        }, 
+        {
+            "name": "NORTH PENN-01", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:36.06"
+        }, 
+        {
+            "name": "MCDOWELL-10 1:36.89", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:36.36"
+        }, 
+        {
+            "name": "PETERS TOWNSHIP-07", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:36.53"
+        }, 
+        {
+            "name": "AVON GROVE-01", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:36.61"
+        }, 
+        {
+            "name": "STATE COLLEGE", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:37.16"
+        }, 
+        {
+            "name": "PLYMOUTH WHITEMARSH-01", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:37.78"
+        }, 
+        {
+            "name": "FATHER JUDGE-12", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:37.87"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "HERSHEY-03 3:05.32", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:00.71N"
+        }, 
+        {
+            "name": "WEST CHESTER", 
+            "pos": "2", 
+            "school": "REED HENDERSON-01", 
+            "time": "3:04.72"
+        }, 
+        {
+            "name": "LASALLE COLLEGE-12", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:05.21"
+        }, 
+        {
+            "name": "WILSON-03 3:06.77", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:06.21"
+        }, 
+        {
+            "name": "NORTH ALLEGHENY-07", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:06.75"
+        }, 
+        {
+            "name": "NORTH PENN-01", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:08.04"
+        }, 
+        {
+            "name": "UPPER DUBLIN-01", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:09.80"
+        }, 
+        {
+            "name": "EMMAUS-11 3:09.41", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:10.03"
+        }, 
+        {
+            "name": "GATEWAY-07 3:12.82", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:10.25"
+        }, 
+        {
+            "name": "PETERS TOWNSHIP-07", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:11.37"
+        }, 
+        {
+            "name": "UPPER ST.", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:11.53"
+        }, 
+        {
+            "name": "CEDAR CREST-03", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:12.11"
+        }, 
+        {
+            "name": "DALLASTOWN-03 3:13.87", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:12.41"
+        }, 
+        {
+            "name": "FRANKLIN REGIONAL-07", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:12.48"
+        }, 
+        {
+            "name": "MOUNT LEBANON-07", 
+            "pos": "15", 
+            "school": "", 
+            "time": "3:13.15"
+        }, 
+        {
+            "name": "HATBORO-HORSHAM-01 3:13.75", 
+            "pos": "16", 
+            "school": "", 
+            "time": "3:14.83"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "NAPPI, JOHN", 
+            "pos": "1", 
+            "school": "MOUNT LEBANON-07", 
+            "time": "4:27.64"
+        }, 
+        {
+            "name": "MCCURDY, CHRISTIAN", 
+            "pos": "2", 
+            "school": "PENN TRAFFORD-07", 
+            "time": "4:29.72"
+        }, 
+        {
+            "name": "SZEKELY, CHRIS", 
+            "pos": "3", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "4:31.61"
+        }, 
+        {
+            "name": "LEE, WILLIAM", 
+            "pos": "4", 
+            "school": "HERSHEY-03", 
+            "time": "4:34.50"
+        }, 
+        {
+            "name": "LUTTRELL, ZACHARY", 
+            "pos": "5", 
+            "school": "HERSHEY-03", 
+            "time": "4:36.60"
+        }, 
+        {
+            "name": "HOLDER, EVAN", 
+            "pos": "6", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "4:37.70"
+        }, 
+        {
+            "name": "MANCUSO, PHILIP", 
+            "pos": "7", 
+            "school": "HERSHEY-03", 
+            "time": "4:38.24"
+        }, 
+        {
+            "name": "DROHAN, MATTHEW", 
+            "pos": "8", 
+            "school": "UNIONVILLE-01", 
+            "time": "4:39.95"
+        }, 
+        {
+            "name": "BUERGER, ZACHARY", 
+            "pos": "9", 
+            "school": "NORTH ALLEGHENY-07", 
+            "time": "4:34.29"
+        }, 
+        {
+            "name": "SHARESKY, GARRETT", 
+            "pos": "10", 
+            "school": "EMMAUS-11", 
+            "time": "4:36.95"
+        }, 
+        {
+            "name": "CATALINO, CHRIS", 
+            "pos": "11", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "4:38.37"
+        }, 
+        {
+            "name": "MCKENZIE, SHANE", 
+            "pos": "12", 
+            "school": "ST JOSEPH'S PREP-12", 
+            "time": "4:38.87"
+        }, 
+        {
+            "name": "FORLINI, CONNOR", 
+            "pos": "13", 
+            "school": "WILLIAM TENNENT-01", 
+            "time": "4:39.12"
+        }, 
+        {
+            "name": "KLOTZ, MATTHEW", 
+            "pos": "14", 
+            "school": "PARKLAND-11", 
+            "time": "4:42.74"
+        }, 
+        {
+            "name": "HUBBARD, THEO", 
+            "pos": "15", 
+            "school": "MOUNT LEBANON-07", 
+            "time": "4:43.72"
+        }, 
+        {
+            "name": "FRAUEN, JAMES", 
+            "pos": "16", 
+            "school": "UPPER ST. CLAIR-07", 
+            "time": "4:45.61"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "BOMBERGER, DAIN", 
+            "pos": "1", 
+            "school": "WARWICK-03", 
+            "time": "20.35"
+        }, 
+        {
+            "name": "YOUNG, JEFFREY", 
+            "pos": "2", 
+            "school": "HERSHEY-03", 
+            "time": "20.51"
+        }, 
+        {
+            "name": "DECROP, ROMAIN", 
+            "pos": "3", 
+            "school": "EMMAUS-11", 
+            "time": "20.95"
+        }, 
+        {
+            "name": "MURARO, ALEXANDER", 
+            "pos": "4", 
+            "school": "EMMAUS-11", 
+            "time": "20.97"
+        }, 
+        {
+            "name": "WOODY, GERARD", 
+            "pos": "5", 
+            "school": "DALLASTOWN-03", 
+            "time": "21.09"
+        }, 
+        {
+            "name": "CATTELL, MICAH", 
+            "pos": "6", 
+            "school": "STATE COLLEGE-06", 
+            "time": "21.12"
+        }, 
+        {
+            "name": "SCHULTZ, ERIC", 
+            "pos": "7", 
+            "school": "LASALL COLLEGE-12", 
+            "time": "21.15"
+        }, 
+        {
+            "name": "WEBER, RILEY", 
+            "pos": "8", 
+            "school": "CB EAST-01", 
+            "time": "21.28"
+        }, 
+        {
+            "name": "INTRIERI, KEVIN", 
+            "pos": "9", 
+            "school": "MCDOWELL-10", 
+            "time": "20.95"
+        }, 
+        {
+            "name": "MILLER, ANDREW", 
+            "pos": "10", 
+            "school": "CEDAR CREST-03", 
+            "time": "21.20"
+        }, 
+        {
+            "name": "BRINKHOFF, ERIK", 
+            "pos": "11", 
+            "school": "BETHEL PARK-BD", 
+            "time": "21.21"
+        }, 
+        {
+            "name": "BORISOV, KOSTYA", 
+            "pos": "12", 
+            "school": "NORTH ALLEGHENY-07", 
+            "time": "21.25"
+        }, 
+        {
+            "name": "HEIDEN, SEAN", 
+            "pos": "13", 
+            "school": "WILSON-03", 
+            "time": "21.46"
+        }, 
+        {
+            "name": "KLINCEWICZ, ALEK", 
+            "pos": "14", 
+            "school": "LOWER MERION-01", 
+            "time": "21.69"
+        }, 
+        {
+            "name": "BAUER, ALEX", 
+            "pos": "15", 
+            "school": "OWEN J ROBERTS-01", 
+            "time": "21.71"
+        }, 
+        {
+            "name": "CHIODO ORTIZ,", 
+            "pos": "15", 
+            "school": "11 WISSAHICKON-01", 
+            "time": "21.71"
+        }
+    ], 
+    "50YardFreestyleSwim-off": [], 
+    "Rankings-ThroughEvent12": []
+}
