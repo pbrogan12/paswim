@@ -1,0 +1,1077 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "GRIER, SEAN", 
+            "pos": "1", 
+            "school": "HERSHEY", 
+            "time": "49.73H"
+        }, 
+        {
+            "name": "HAGAN, BENJAMIN", 
+            "pos": "2", 
+            "school": "HERSHEY", 
+            "time": "51.53"
+        }, 
+        {
+            "name": "BOHN, TRAVIS", 
+            "pos": "3", 
+            "school": "ANNVILLE CLEONA*", 
+            "time": "52.50"
+        }, 
+        {
+            "name": "MOYER, JASON", 
+            "pos": "4", 
+            "school": "SOU", 
+            "time": "52.93"
+        }, 
+        {
+            "name": "GOSEK, DANIEL", 
+            "pos": "5", 
+            "school": "HGPRP", 
+            "time": "53.46"
+        }, 
+        {
+            "name": "QUAGLIARIELLO, JOH", 
+            "pos": "6", 
+            "school": "SPRDC", 
+            "time": "53.50"
+        }, 
+        {
+            "name": "ROCHNA, MATT", 
+            "pos": "7", 
+            "school": "INDIANA", 
+            "time": "53.55"
+        }, 
+        {
+            "name": "ROBINSON, JACOB", 
+            "pos": "8", 
+            "school": "LANC. CATHOLIC", 
+            "time": "53.62"
+        }, 
+        {
+            "name": "MANGIS, TIM", 
+            "pos": "9", 
+            "school": "WEST ALLEGHENY H", 
+            "time": "54.13"
+        }, 
+        {
+            "name": "METZGER, LOGAN", 
+            "pos": "10", 
+            "school": "LEWISBURG AREA", 
+            "time": "54.41"
+        }, 
+        {
+            "name": "PETRELLA, RICHARD", 
+            "pos": "11", 
+            "school": "FAIRVIEW HS", 
+            "time": "54.59"
+        }, 
+        {
+            "name": "MUEHLHEUSER, KURT", 
+            "pos": "12", 
+            "school": "MARS AREA", 
+            "time": "54.87"
+        }, 
+        {
+            "name": "FALGOUST, MATT", 
+            "pos": "13", 
+            "school": "SUSQUEHANNA TWP", 
+            "time": "54.99"
+        }, 
+        {
+            "name": "HANEY, ZACK", 
+            "pos": "14", 
+            "school": "DANVILLE", 
+            "time": "55.15"
+        }, 
+        {
+            "name": "JUMPER, BEN", 
+            "pos": "15", 
+            "school": "BOILING SPRINGS", 
+            "time": "55.57"
+        }, 
+        {
+            "name": "HENZE, BRIAN", 
+            "pos": "16", 
+            "school": "SOUTH ALLEGHENY", 
+            "time": "56.19"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "STEPHENS, ZACH", 
+            "pos": "1", 
+            "school": "BLOOMSBURG", 
+            "time": "57.01H"
+        }, 
+        {
+            "name": "AUGUSTINE, PATRICK", 
+            "pos": "2", 
+            "school": "LANSDALE CATH", 
+            "time": "57.16H"
+        }, 
+        {
+            "name": "BAUCHWITZ, BENJAMI", 
+            "pos": "3", 
+            "school": "HERSHEY", 
+            "time": "58.16"
+        }, 
+        {
+            "name": "RUDDLE, KYLE", 
+            "pos": "4", 
+            "school": "HERSHEY", 
+            "time": "58.54"
+        }, 
+        {
+            "name": "VEITH, MITCHELL", 
+            "pos": "5", 
+            "school": "HERSHEY", 
+            "time": "58.65"
+        }, 
+        {
+            "name": "OPRENDEK, GREGORY", 
+            "pos": "6", 
+            "school": "WOOD BOYS", 
+            "time": "58.70"
+        }, 
+        {
+            "name": "NELSON, DEREK", 
+            "pos": "7", 
+            "school": "DONEGAL*", 
+            "time": "58.77"
+        }, 
+        {
+            "name": "FREDERICK, BRIAN", 
+            "pos": "8", 
+            "school": "FRANKLIN HS", 
+            "time": "59.78"
+        }, 
+        {
+            "name": "LOGAN, JC", 
+            "pos": "9", 
+            "school": "STHAV", 
+            "time": "59.65"
+        }, 
+        {
+            "name": "PROUDFIT, MICHAEL", 
+            "pos": "10", 
+            "school": "ST. MARYS AREA", 
+            "time": "1:00.15"
+        }, 
+        {
+            "name": "GREGG, CHRIS", 
+            "pos": "11", 
+            "school": "GROVE CITY AREA", 
+            "time": "1:00.84"
+        }, 
+        {
+            "name": "KENNEDY, SEAN", 
+            "pos": "12", 
+            "school": "ABINGTON HEIGHTS", 
+            "time": "1:00.85"
+        }, 
+        {
+            "name": "HUGHES, JOHN", 
+            "pos": "13", 
+            "school": "LANC. CATHOLIC", 
+            "time": "1:01.10"
+        }, 
+        {
+            "name": "THATCHER, MICHAEL", 
+            "pos": "14", 
+            "school": "EAST PENNSBORO", 
+            "time": "1:01.11"
+        }, 
+        {
+            "name": "TORRE, STEVEN", 
+            "pos": "15", 
+            "school": "SOUTH FAYETTE", 
+            "time": "1:01.53"
+        }, 
+        {
+            "name": "GROSS, TYLER", 
+            "pos": "16", 
+            "school": "POTSG", 
+            "time": "1:01.74"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "GRIER, SEAN", 
+            "pos": "1", 
+            "school": "HERSHEY", 
+            "time": "48.62H"
+        }, 
+        {
+            "name": "MANCUSO, PHILIP", 
+            "pos": "2", 
+            "school": "HERSHEY", 
+            "time": "50.83"
+        }, 
+        {
+            "name": "KELLEY, BRODERICK", 
+            "pos": "3", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "51.12"
+        }, 
+        {
+            "name": "SEIFERTH, JON", 
+            "pos": "4", 
+            "school": "HAMPTON", 
+            "time": "51.37"
+        }, 
+        {
+            "name": "KRAMER, MICHAEL", 
+            "pos": "5", 
+            "school": "CDOCK", 
+            "time": "52.57"
+        }, 
+        {
+            "name": "MALLOY, THOMAS", 
+            "pos": "6", 
+            "school": "LANC. CATHOLIC", 
+            "time": "52.90"
+        }, 
+        {
+            "name": "AUGUSTINE, PATRICK", 
+            "pos": "7", 
+            "school": "LANSDALE CATH", 
+            "time": "52.98"
+        }, 
+        {
+            "name": "MANGIS, TIM", 
+            "pos": "8", 
+            "school": "WEST ALLEGHENY H", 
+            "time": "53.28"
+        }, 
+        {
+            "name": "VEITH, MITCHELL", 
+            "pos": "9", 
+            "school": "HERSHEY", 
+            "time": "53.13"
+        }, 
+        {
+            "name": "SZILAGYI, STEFAN", 
+            "pos": "10", 
+            "school": "BLOOMSBURG", 
+            "time": "53.61"
+        }, 
+        {
+            "name": "TIPPER, ROYCE", 
+            "pos": "11", 
+            "school": "CORNELL", 
+            "time": "53.83"
+        }, 
+        {
+            "name": "KONTOSTATHIS, AJ", 
+            "pos": "12", 
+            "school": "POTSG", 
+            "time": "53.98"
+        }, 
+        {
+            "name": "HOWARD, JOHN", 
+            "pos": "13", 
+            "school": "CARROLL", 
+            "time": "54.20"
+        }, 
+        {
+            "name": "HESS, ADAM", 
+            "pos": "14", 
+            "school": "INDIANA", 
+            "time": "54.68"
+        }, 
+        {
+            "name": "GEBHART, B.", 
+            "pos": "15", 
+            "school": "12 DELONE CATHOLIC*", 
+            "time": "54.90"
+        }, 
+        {
+            "name": "DEL MONTE,", 
+            "pos": "16", 
+            "school": "12 SPRMC", 
+            "time": "55.23"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "NOLAN, DAVID", 
+            "pos": "1", 
+            "school": "HERSHEY", 
+            "time": "43.27N"
+        }, 
+        {
+            "name": "CHOW, ZACH", 
+            "pos": "2", 
+            "school": "MUHLENBERG", 
+            "time": "45.49H"
+        }, 
+        {
+            "name": "THRAN, GABRIEL", 
+            "pos": "3", 
+            "school": "ABINGTON HEIGHTS", 
+            "time": "46.38H"
+        }, 
+        {
+            "name": "BROWN, FRANK", 
+            "pos": "4", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "46.45"
+        }, 
+        {
+            "name": "YOUNG, JEFFREY", 
+            "pos": "5", 
+            "school": "HERSHEY", 
+            "time": "46.64"
+        }, 
+        {
+            "name": "SEIFERTH, JON", 
+            "pos": "6", 
+            "school": "HAMPTON", 
+            "time": "47.29"
+        }, 
+        {
+            "name": "DIPPOLD, SETH", 
+            "pos": "7", 
+            "school": "ST. MARYS AREA", 
+            "time": "47.45"
+        }, 
+        {
+            "name": "HUYETT, JOE", 
+            "pos": "8", 
+            "school": "FLEETWOOD*", 
+            "time": "47.50"
+        }, 
+        {
+            "name": "SMITH, NATHAN", 
+            "pos": "9", 
+            "school": "SUSQUEHANNA TWP", 
+            "time": "47.96"
+        }, 
+        {
+            "name": "KELLEY, BRODERICK", 
+            "pos": "10", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "48.05"
+        }, 
+        {
+            "name": "STEPNIAK, PIOTR", 
+            "pos": "11", 
+            "school": "MERCYHURST PREP", 
+            "time": "48.24"
+        }, 
+        {
+            "name": "LOGAN, JC", 
+            "pos": "12", 
+            "school": "STHAV", 
+            "time": "48.35"
+        }, 
+        {
+            "name": "RAMEY, MATT", 
+            "pos": "13", 
+            "school": "SOUTHMORELAND HI", 
+            "time": "48.37"
+        }, 
+        {
+            "name": "KITCHEN, BRANDON", 
+            "pos": "14", 
+            "school": "HANOVER AREA HS", 
+            "time": "48.57"
+        }, 
+        {
+            "name": "STOCKTON, JACOB", 
+            "pos": "15", 
+            "school": "CORRY AREA HS", 
+            "time": "48.81"
+        }, 
+        {
+            "name": "JUMPER, BEN", 
+            "pos": "16", 
+            "school": "BOILING SPRINGS", 
+            "time": "49.22"
+        }
+    ], 
+    "1mtrDiving": [], 
+    "200YardFreestyle": [
+        {
+            "name": "CALARIE, CONNER", 
+            "pos": "1", 
+            "school": "HIGHLANDS", 
+            "time": "1:41.78"
+        }, 
+        {
+            "name": "THRAN, GABRIEL", 
+            "pos": "2", 
+            "school": "ABINGTON HEIGHTS", 
+            "time": "1:42.32"
+        }, 
+        {
+            "name": "BAUCHWITZ, BENJAMI", 
+            "pos": "3", 
+            "school": "HERSHEY", 
+            "time": "1:42.39"
+        }, 
+        {
+            "name": "OATIS, ZACHARY", 
+            "pos": "4", 
+            "school": "SAU", 
+            "time": "1:43.92"
+        }, 
+        {
+            "name": "LONG, TYLER", 
+            "pos": "5", 
+            "school": "SELINSGROVE AREA", 
+            "time": "1:44.09"
+        }, 
+        {
+            "name": "QUAGLIARIELLO, JOH", 
+            "pos": "6", 
+            "school": "SPRDC", 
+            "time": "1:45.10"
+        }, 
+        {
+            "name": "HALEY, JARED", 
+            "pos": "7", 
+            "school": "NORTHERN YORK", 
+            "time": "1:45.12"
+        }, 
+        {
+            "name": "HOWARD, JOHN", 
+            "pos": "8", 
+            "school": "CARROLL", 
+            "time": "1:45.72"
+        }, 
+        {
+            "name": "BLOCK, ADAM", 
+            "pos": "9", 
+            "school": "KUTZTOWN*", 
+            "time": "1:45.80"
+        }, 
+        {
+            "name": "LACEY, BRENDAN", 
+            "pos": "10", 
+            "school": "BELLE VERNON ARE", 
+            "time": "1:46.03"
+        }, 
+        {
+            "name": "STOCKTON, JACOB", 
+            "pos": "11", 
+            "school": "CORRY AREA HS", 
+            "time": "1:46.82"
+        }, 
+        {
+            "name": "TAYLOR, RYAN", 
+            "pos": "12", 
+            "school": "FAIRVIEW HS", 
+            "time": "1:47.21"
+        }, 
+        {
+            "name": "SCHLOSSER, WILL", 
+            "pos": "13", 
+            "school": "HARRT", 
+            "time": "1:47.30"
+        }, 
+        {
+            "name": "HANEY, ZACK", 
+            "pos": "14", 
+            "school": "DANVILLE", 
+            "time": "1:47.48"
+        }, 
+        {
+            "name": "MIKITKA, JEFF", 
+            "pos": "15", 
+            "school": "FLEETWOOD*", 
+            "time": "1:47.96"
+        }, 
+        {
+            "name": "WARD, RAY", 
+            "pos": "16", 
+            "school": "WESTMONT HILLTOP", 
+            "time": "1:48.47"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "HERSHEY 1:26.80", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:25.61H"
+        }, 
+        {
+            "name": "ABINGTON HEIGHTS", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:27.96"
+        }, 
+        {
+            "name": "LANCASTER CATHOLIC", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:28.18"
+        }, 
+        {
+            "name": "ST. MARYS", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:28.39"
+        }, 
+        {
+            "name": "FAIRVIEW HIGH", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:28.69"
+        }, 
+        {
+            "name": "SPRINGFIELD (MC)", 
+            "pos": "6", 
+            "school": "SCHOOL", 
+            "time": "1:28.71"
+        }, 
+        {
+            "name": "UPPER PERKIOMEN", 
+            "pos": "7", 
+            "school": "SCHOOL", 
+            "time": "1:29.25"
+        }, 
+        {
+            "name": "MUHLENBERG 1:29.20", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:29.94"
+        }, 
+        {
+            "name": "SALISBURY HIGH", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:30.30"
+        }, 
+        {
+            "name": "MONTOURSVILLE AREA", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:30.60"
+        }, 
+        {
+            "name": "TITUSVILLE HIGH", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:30.80"
+        }, 
+        {
+            "name": "RIVERSIDE (ELLWOOD", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:30.87"
+        }, 
+        {
+            "name": "SHADY SIDE", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:31.00"
+        }, 
+        {
+            "name": "HAMPTON 1:30.82", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:31.64"
+        }, 
+        {
+            "name": "BISHOP MCDEVITT", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:32.07"
+        }, 
+        {
+            "name": "STRATH HAVEN", 
+            "pos": "16", 
+            "school": "SCHOOL", 
+            "time": "1:32.85"
+        }
+    ], 
+    "200YardFreestyleRelaySwim-off": [], 
+    "200YardIM": [
+        {
+            "name": "NOLAN, DAVID", 
+            "pos": "1", 
+            "school": "HERSHEY", 
+            "time": "1:43.43S"
+        }, 
+        {
+            "name": "HAUSER, JOHN", 
+            "pos": "2", 
+            "school": "SPIUS", 
+            "time": "1:50.06H"
+        }, 
+        {
+            "name": "PAULK, DAVID", 
+            "pos": "3", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "1:50.90H"
+        }, 
+        {
+            "name": "STEPHENS, ZACH", 
+            "pos": "4", 
+            "school": "BLOOMSBURG", 
+            "time": "1:52.67H"
+        }, 
+        {
+            "name": "NAKANO, SHOTA", 
+            "pos": "5", 
+            "school": "HERSHEY", 
+            "time": "1:54.46"
+        }, 
+        {
+            "name": "LEE, WILLIAM", 
+            "pos": "6", 
+            "school": "HERSHEY", 
+            "time": "1:56.32"
+        }, 
+        {
+            "name": "PETRELLA, RICHARD", 
+            "pos": "7", 
+            "school": "FAIRVIEW HS", 
+            "time": "1:56.63"
+        }, 
+        {
+            "name": "HAGAN, BENJAMIN", 
+            "pos": "8", 
+            "school": "HERSHEY", 
+            "time": "1:57.14"
+        }, 
+        {
+            "name": "OPRENDEK, GREGORY", 
+            "pos": "9", 
+            "school": "WOOD BOYS", 
+            "time": "1:55.64"
+        }, 
+        {
+            "name": "COLLINS, KEAGAN", 
+            "pos": "10", 
+            "school": "SAL", 
+            "time": "1:57.33"
+        }, 
+        {
+            "name": "BOHN, TRAVIS", 
+            "pos": "11", 
+            "school": "ANNVILLE CLEONA*", 
+            "time": "1:57.49"
+        }, 
+        {
+            "name": "TORRE, STEVEN", 
+            "pos": "12", 
+            "school": "SOUTH FAYETTE", 
+            "time": "1:58.74"
+        }, 
+        {
+            "name": "ROBINSON, JACOB", 
+            "pos": "13", 
+            "school": "LANC. CATHOLIC", 
+            "time": "1:58.84"
+        }, 
+        {
+            "name": "BOHN, AUSTIN", 
+            "pos": "14", 
+            "school": "ANNVILLE CLEONA*", 
+            "time": "2:00.23"
+        }, 
+        {
+            "name": "FREDERICK, BRIAN", 
+            "pos": "15", 
+            "school": "FRANKLIN HS", 
+            "time": "2:00.91"
+        }, 
+        {
+            "name": "FALGOUST, MATT", 
+            "pos": "16", 
+            "school": "SUSQUEHANNA TWP", 
+            "time": "2:02.75"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "HERSHEY 1:31.87", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:30.27S"
+        }, 
+        {
+            "name": "LANCASTER CATHOLIC", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:37.30"
+        }, 
+        {
+            "name": "BLOOMSBURG HS", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:38.00"
+        }, 
+        {
+            "name": "SHADY SIDE", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:38.34"
+        }, 
+        {
+            "name": "MUHLENBERG 1:40.67", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:38.96"
+        }, 
+        {
+            "name": "ST. MARYS", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:39.80"
+        }, 
+        {
+            "name": "SOUTHERN LEHIGH", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:40.34"
+        }, 
+        {
+            "name": "FRANKLIN HIGH", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:41.37"
+        }, 
+        {
+            "name": "MERCYHURST PREPARATORY", 
+            "pos": "10", 
+            "school": "S", 
+            "time": "1:41.67"
+        }, 
+        {
+            "name": "STRATH HAVEN", 
+            "pos": "11", 
+            "school": "SCHOOL", 
+            "time": "1:41.83"
+        }, 
+        {
+            "name": "MONTOURSVILLE AREA", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:42.58"
+        }, 
+        {
+            "name": "TITUSVILLE HIGH", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:42.80"
+        }, 
+        {
+            "name": "FAIRVIEW HIGH", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:43.02"
+        }, 
+        {
+            "name": "PALMYRA 1:43.26", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:43.10"
+        }, 
+        {
+            "name": "GROVE CITY", 
+            "pos": "16", 
+            "school": "HIGH SCHOOL", 
+            "time": "1:43.49"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "HERSHEY 3:10.40", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:03.98S"
+        }, 
+        {
+            "name": "SHADY SIDE", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:10.58H"
+        }, 
+        {
+            "name": "BLOOMSBURG HS", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:14.89"
+        }, 
+        {
+            "name": "FAIRVIEW HIGH", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:15.67"
+        }, 
+        {
+            "name": "ABINGTON HEIGHTS", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:16.72"
+        }, 
+        {
+            "name": "SUSQUEHANNA TWP", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:17.98"
+        }, 
+        {
+            "name": "DALLAS 3:17.88", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:18.82"
+        }, 
+        {
+            "name": "SPRINGFIELD (MC)", 
+            "pos": "8", 
+            "school": "SCHOOL", 
+            "time": "3:19.33"
+        }, 
+        {
+            "name": "LANCASTER CATHOLIC", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:18.80"
+        }, 
+        {
+            "name": "HAMPTON 3:20.68", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:18.86"
+        }, 
+        {
+            "name": "SALISBURY HIGH", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:20.90"
+        }, 
+        {
+            "name": "RIVERSIDE (ELLWOOD", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:21.39"
+        }, 
+        {
+            "name": "MONTOURSVILLE AREA", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:22.04"
+        }, 
+        {
+            "name": "MERCYHURST PREPARATORY", 
+            "pos": "14", 
+            "school": "S", 
+            "time": "3:22.08"
+        }, 
+        {
+            "name": "BISHOP MCDEVITT", 
+            "pos": "15", 
+            "school": "", 
+            "time": "3:22.24"
+        }, 
+        {
+            "name": "DANVILLE HS", 
+            "pos": "16", 
+            "school": "", 
+            "time": "3:23.07"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "HAUSER, JOHN", 
+            "pos": "1", 
+            "school": "SPIUS", 
+            "time": "4:26.95H"
+        }, 
+        {
+            "name": "PAULK, DAVID", 
+            "pos": "2", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "4:33.19"
+        }, 
+        {
+            "name": "CALARIE, CONNER", 
+            "pos": "3", 
+            "school": "HIGHLANDS", 
+            "time": "4:36.92"
+        }, 
+        {
+            "name": "MANCUSO, PHILIP", 
+            "pos": "4", 
+            "school": "HERSHEY", 
+            "time": "4:41.11"
+        }, 
+        {
+            "name": "OATIS, ZACHARY", 
+            "pos": "5", 
+            "school": "SAU", 
+            "time": "4:42.82"
+        }, 
+        {
+            "name": "COLLINS, KEAGAN", 
+            "pos": "6", 
+            "school": "SAL", 
+            "time": "4:43.30"
+        }, 
+        {
+            "name": "LEE, WILLIAM", 
+            "pos": "7", 
+            "school": "HERSHEY", 
+            "time": "4:44.67"
+        }, 
+        {
+            "name": "HALEY, JARED", 
+            "pos": "8", 
+            "school": "NORTHERN YORK", 
+            "time": "4:45.17"
+        }, 
+        {
+            "name": "LONG, TYLER", 
+            "pos": "9", 
+            "school": "SELINSGROVE AREA", 
+            "time": "4:44.58"
+        }, 
+        {
+            "name": "BLOCK, ADAM", 
+            "pos": "10", 
+            "school": "KUTZTOWN*", 
+            "time": "4:46.50"
+        }, 
+        {
+            "name": "PIELMEIER, KP", 
+            "pos": "11", 
+            "school": "PLM", 
+            "time": "4:51.00"
+        }, 
+        {
+            "name": "STRATHMEYER, BRADL", 
+            "pos": "12", 
+            "school": "WEST YORK", 
+            "time": "4:54.25"
+        }, 
+        {
+            "name": "LINDER, SAM", 
+            "pos": "13", 
+            "school": "NORTHERN YORK", 
+            "time": "4:55.30"
+        }, 
+        {
+            "name": "TAYLOR, RYAN", 
+            "pos": "14", 
+            "school": "FAIRVIEW HS", 
+            "time": "4:56.02"
+        }, 
+        {
+            "name": "LEE, JOHN", 
+            "pos": "15", 
+            "school": "HERSHEY", 
+            "time": "4:56.71"
+        }, 
+        {
+            "name": "MIKITKA, JEFF", 
+            "pos": "16", 
+            "school": "FLEETWOOD*", 
+            "time": "4:57.47"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "CHOW, ZACH", 
+            "pos": "1", 
+            "school": "MUHLENBERG", 
+            "time": "21.02H"
+        }, 
+        {
+            "name": "YOUNG, JEFFREY", 
+            "pos": "2", 
+            "school": "HERSHEY", 
+            "time": "21.05H"
+        }, 
+        {
+            "name": "GOSEK, DANIEL", 
+            "pos": "3", 
+            "school": "HGPRP", 
+            "time": "21.17H"
+        }, 
+        {
+            "name": "DIPPOLD, SETH", 
+            "pos": "4", 
+            "school": "ST. MARYS AREA", 
+            "time": "21.32H"
+        }, 
+        {
+            "name": "OESCHGER, JAKE", 
+            "pos": "5", 
+            "school": "SPRMC", 
+            "time": "21.57"
+        }, 
+        {
+            "name": "CHIELLI, JAKE", 
+            "pos": "6", 
+            "school": "DALLAS", 
+            "time": "21.61"
+        }, 
+        {
+            "name": "HUYETT, JOE", 
+            "pos": "7", 
+            "school": "FLEETWOOD*", 
+            "time": "21.73"
+        }, 
+        {
+            "name": "MOYER, JASON", 
+            "pos": "8", 
+            "school": "SOU", 
+            "time": "21.86"
+        }, 
+        {
+            "name": "BROWN, FRANK", 
+            "pos": "9", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "21.58"
+        }, 
+        {
+            "name": "SZILAGYI, ALEK", 
+            "pos": "10", 
+            "school": "BLOOMSBURG", 
+            "time": "21.81"
+        }, 
+        {
+            "name": "HOLMES, RYAN", 
+            "pos": "11", 
+            "school": "SCRANTON PREP", 
+            "time": "21.82"
+        }, 
+        {
+            "name": "STEPNIAK, PIOTR", 
+            "pos": "12", 
+            "school": "MERCYHURST PREP", 
+            "time": "21.86"
+        }, 
+        {
+            "name": "SCHWAB, JARED", 
+            "pos": "13", 
+            "school": "OIL CITY HS", 
+            "time": "21.93"
+        }, 
+        {
+            "name": "SYKORA-BODIE, CALE", 
+            "pos": "14", 
+            "school": "SLIPPERY ROCK AR", 
+            "time": "21.99"
+        }, 
+        {
+            "name": "SMITH, NATHAN", 
+            "pos": "15", 
+            "school": "SUSQUEHANNA TWP", 
+            "time": "22.19"
+        }, 
+        {
+            "name": "KITCHEN, BRANDON", 
+            "pos": "16", 
+            "school": "HANOVER AREA HS", 
+            "time": "22.20"
+        }
+    ], 
+    "Rankings-ThroughEvent12": []
+}
