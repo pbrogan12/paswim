@@ -1,0 +1,1068 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "WHITMIRE, PAIGE", 
+            "pos": "1", 
+            "school": "SOU", 
+            "time": "54.45S"
+        }, 
+        {
+            "name": "LAFFERTY, MEGAN", 
+            "pos": "2", 
+            "school": "UDU", 
+            "time": "54.74S"
+        }, 
+        {
+            "name": "ROBERTS, ALLIE", 
+            "pos": "3", 
+            "school": "EMM", 
+            "time": "55.30"
+        }, 
+        {
+            "name": "BUSCH, MELANIE", 
+            "pos": "4", 
+            "school": "WT", 
+            "time": "55.68"
+        }, 
+        {
+            "name": "WAUGAMAN, BROOKE", 
+            "pos": "5", 
+            "school": "HEMPFIELD AREA H", 
+            "time": "56.26"
+        }, 
+        {
+            "name": "FERRANTE, KELSEY", 
+            "pos": "6", 
+            "school": "MCDOWELL HS", 
+            "time": "57.32"
+        }, 
+        {
+            "name": "KLUGE, ALENA", 
+            "pos": "7", 
+            "school": "EMM", 
+            "time": "57.49"
+        }, 
+        {
+            "name": "SCHLEIF, DANA", 
+            "pos": "8", 
+            "school": "HEMPFIELD", 
+            "time": "57.68"
+        }, 
+        {
+            "name": "IMPINK, PAIGE", 
+            "pos": "9", 
+            "school": "WILSON", 
+            "time": "57.41"
+        }, 
+        {
+            "name": "GIBAS, ANNA", 
+            "pos": "10", 
+            "school": "GREATER LATROBE", 
+            "time": "57.86"
+        }, 
+        {
+            "name": "CARR, CATHERINE", 
+            "pos": "11", 
+            "school": "EMM", 
+            "time": "57.99"
+        }, 
+        {
+            "name": "WEANER, EMILY", 
+            "pos": "12", 
+            "school": "GETTYSBURG-03", 
+            "time": "58.26"
+        }, 
+        {
+            "name": "LUSHINSKY, TARYN", 
+            "pos": "13", 
+            "school": "LIB", 
+            "time": "58.27"
+        }, 
+        {
+            "name": "HEALY, JESSICA", 
+            "pos": "14", 
+            "school": "HAT", 
+            "time": "58.44"
+        }, 
+        {
+            "name": "KICHLINE, ASHLEY", 
+            "pos": "15", 
+            "school": "SOU", 
+            "time": "58.94"
+        }, 
+        {
+            "name": "TIMOCHENKO, ERIN", 
+            "pos": "16", 
+            "school": "WILSON", 
+            "time": "59.49"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "MCGLAUGHLIN, LAURA", 
+            "pos": "1", 
+            "school": "WCR", 
+            "time": "1:03.17"
+        }, 
+        {
+            "name": "CARROLL, KELLY", 
+            "pos": "1", 
+            "school": "GRV", 
+            "time": "1:03.17"
+        }, 
+        {
+            "name": "SCHON, EMILY", 
+            "pos": "3", 
+            "school": "CON", 
+            "time": "1:03.82"
+        }, 
+        {
+            "name": "MASCIANTONIO, MIKE", 
+            "pos": "4", 
+            "school": "EMM", 
+            "time": "1:04.59"
+        }, 
+        {
+            "name": "ZAJKO, CAITLIN", 
+            "pos": "5", 
+            "school": "PAR", 
+            "time": "1:04.69"
+        }, 
+        {
+            "name": "GRADY, KYLIE", 
+            "pos": "6", 
+            "school": "NORTH ALLEGHENY", 
+            "time": "1:04.80"
+        }, 
+        {
+            "name": "BUTLER, RACHEL", 
+            "pos": "7", 
+            "school": "MANHEIM TOWNSHIP", 
+            "time": "1:05.05"
+        }, 
+        {
+            "name": "HARRIS, MEGAN", 
+            "pos": "9", 
+            "school": "DT", 
+            "time": "1:05.98"
+        }, 
+        {
+            "name": "SWABB, EMMA", 
+            "pos": "10", 
+            "school": "MCDOWELL HS", 
+            "time": "1:06.01"
+        }, 
+        {
+            "name": "SOMER, KENDALL", 
+            "pos": "11", 
+            "school": "UNV", 
+            "time": "1:06.63"
+        }, 
+        {
+            "name": "VRANA, CAROLINE", 
+            "pos": "12", 
+            "school": "HERSHEY", 
+            "time": "1:07.03"
+        }, 
+        {
+            "name": "GIBBON, MEREDITH", 
+            "pos": "13", 
+            "school": "PENN TRAFFORD HI", 
+            "time": "1:07.05"
+        }, 
+        {
+            "name": "CHENET, COURTNEY", 
+            "pos": "14", 
+            "school": "CON", 
+            "time": "1:07.06"
+        }, 
+        {
+            "name": "SOMERS, SARAH", 
+            "pos": "15", 
+            "school": "HAV", 
+            "time": "1:07.37"
+        }, 
+        {
+            "name": "BEAMER, EMILY", 
+            "pos": "16", 
+            "school": "GETTYSBURG-03", 
+            "time": "1:07.49"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "NOLAN, KATHLEEN", 
+            "pos": "1", 
+            "school": "HERSHEY", 
+            "time": "52.99S"
+        }, 
+        {
+            "name": "GROGG, ZINA", 
+            "pos": "2", 
+            "school": "MOON AREA", 
+            "time": "54.99"
+        }, 
+        {
+            "name": "LAFFERTY, MEGAN", 
+            "pos": "3", 
+            "school": "UDU", 
+            "time": "55.21"
+        }, 
+        {
+            "name": "RZYMEK, JACQUELINE", 
+            "pos": "4", 
+            "school": "MCDOWELL HS", 
+            "time": "55.70"
+        }, 
+        {
+            "name": "MYERS, ABBY", 
+            "pos": "5", 
+            "school": "SENECA VALLEY", 
+            "time": "56.15"
+        }, 
+        {
+            "name": "ROBERTS, ALLIE", 
+            "pos": "6", 
+            "school": "EMM", 
+            "time": "56.26"
+        }, 
+        {
+            "name": "YAROSH, HILLARY", 
+            "pos": "7", 
+            "school": "UNV", 
+            "time": "56.52"
+        }, 
+        {
+            "name": "CARR, CATHERINE", 
+            "pos": "8", 
+            "school": "EMM", 
+            "time": "57.05"
+        }, 
+        {
+            "name": "LIEDHOLM, JORDAN", 
+            "pos": "9", 
+            "school": "HERSHEY", 
+            "time": "57.09"
+        }, 
+        {
+            "name": "MANN, KASEY", 
+            "pos": "10", 
+            "school": "MANHEIM TOWNSHIP", 
+            "time": "57.12"
+        }, 
+        {
+            "name": "IMPINK, PAIGE", 
+            "pos": "10", 
+            "school": "WILSON", 
+            "time": "57.12"
+        }, 
+        {
+            "name": "WEANER, EMILY", 
+            "pos": "12", 
+            "school": "GETTYSBURG-03", 
+            "time": "57.18"
+        }, 
+        {
+            "name": "GERONI, DEIDRE", 
+            "pos": "13", 
+            "school": "EMM", 
+            "time": "57.67"
+        }, 
+        {
+            "name": "BARLOW, MADELINE", 
+            "pos": "14", 
+            "school": "PNB", 
+            "time": "57.75"
+        }, 
+        {
+            "name": "MANCUSO, FIONA", 
+            "pos": "15", 
+            "school": "HERSHEY", 
+            "time": "57.98"
+        }, 
+        {
+            "name": "BAISDEN, LAUREN", 
+            "pos": "15", 
+            "school": "WCH", 
+            "time": "57.98"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "NOLAN, KATHLEEN", 
+            "pos": "1", 
+            "school": "HERSHEY", 
+            "time": "50.00"
+        }, 
+        {
+            "name": "LEESON, PATRICIA", 
+            "pos": "2", 
+            "school": "LIB", 
+            "time": "50.79"
+        }, 
+        {
+            "name": "WALKER, MAGGIE", 
+            "pos": "3", 
+            "school": "PETERS TOWNSHIP", 
+            "time": "50.83"
+        }, 
+        {
+            "name": "SIVERLING, DANIELL", 
+            "pos": "4", 
+            "school": "DTE", 
+            "time": "51.05"
+        }, 
+        {
+            "name": "MOFFITT, SAMANTHA", 
+            "pos": "5", 
+            "school": "CEDAR CREST", 
+            "time": "51.40"
+        }, 
+        {
+            "name": "MILLER, KATELYN", 
+            "pos": "6", 
+            "school": "HERSHEY", 
+            "time": "51.50"
+        }, 
+        {
+            "name": "DOLL, MISSY", 
+            "pos": "7", 
+            "school": "SOU", 
+            "time": "51.60"
+        }, 
+        {
+            "name": "YAROSH, HILLARY", 
+            "pos": "8", 
+            "school": "UNV", 
+            "time": "52.29"
+        }, 
+        {
+            "name": "KARR, CAITLYN", 
+            "pos": "9", 
+            "school": "WILSON", 
+            "time": "51.72"
+        }, 
+        {
+            "name": "GADZICKI, RACHEL", 
+            "pos": "10", 
+            "school": "OJR", 
+            "time": "51.90"
+        }, 
+        {
+            "name": "AULT, SARAH", 
+            "pos": "11", 
+            "school": "HEMPFIELD", 
+            "time": "52.40"
+        }, 
+        {
+            "name": "HARTER, CARLY", 
+            "pos": "12", 
+            "school": "NORWIN AREA", 
+            "time": "52.45"
+        }, 
+        {
+            "name": "KEIBLER, NATALIE", 
+            "pos": "13", 
+            "school": "BETHEL PARK HIGH", 
+            "time": "52.54"
+        }, 
+        {
+            "name": "GROGG, ZINA", 
+            "pos": "14", 
+            "school": "MOON AREA", 
+            "time": "52.76"
+        }, 
+        {
+            "name": "BRINKHOFF, KATIE", 
+            "pos": "15", 
+            "school": "BETHEL PARK HIGH", 
+            "time": "52.81"
+        }, 
+        {
+            "name": "POLAND, EMILY", 
+            "pos": "16", 
+            "school": "PAR", 
+            "time": "53.46"
+        }
+    ], 
+    "200YardFreestyle": [
+        {
+            "name": "MALANDRA, JAIME", 
+            "pos": "1", 
+            "school": "PAR", 
+            "time": "1:49.42"
+        }, 
+        {
+            "name": "SIVERLING, DANIELL", 
+            "pos": "2", 
+            "school": "DTE", 
+            "time": "1:49.55"
+        }, 
+        {
+            "name": "ZIMMER, BECCA", 
+            "pos": "3", 
+            "school": "BETHEL PARK HIGH", 
+            "time": "1:50.11"
+        }, 
+        {
+            "name": "KARR, CAITLYN", 
+            "pos": "4", 
+            "school": "WILSON", 
+            "time": "1:50.46"
+        }, 
+        {
+            "name": "LOHT, CLAIRE", 
+            "pos": "5", 
+            "school": "RED LAND", 
+            "time": "1:51.62"
+        }, 
+        {
+            "name": "MYERS, ABBY", 
+            "pos": "6", 
+            "school": "SENECA VALLEY", 
+            "time": "1:52.01"
+        }, 
+        {
+            "name": "GRIER, ALEXIS", 
+            "pos": "7", 
+            "school": "HERSHEY", 
+            "time": "1:52.94"
+        }, 
+        {
+            "name": "HERBST, KELSEY", 
+            "pos": "8", 
+            "school": "MCDOWELL HS", 
+            "time": "1:53.58"
+        }, 
+        {
+            "name": "REIFINGER, ERICA", 
+            "pos": "9", 
+            "school": "PAR", 
+            "time": "1:51.31"
+        }, 
+        {
+            "name": "MCCANDLESS, LAUREN", 
+            "pos": "10", 
+            "school": "EMM", 
+            "time": "1:52.93"
+        }, 
+        {
+            "name": "VANDERBILT, KALLY", 
+            "pos": "11", 
+            "school": "NORTH ALLEGHENY", 
+            "time": "1:53.10"
+        }, 
+        {
+            "name": "RIESMEYER, KAITLIN", 
+            "pos": "12", 
+            "school": "PETERS TOWNSHIP", 
+            "time": "1:53.31"
+        }, 
+        {
+            "name": "GADZICKI, RACHEL", 
+            "pos": "13", 
+            "school": "OJR", 
+            "time": "1:53.32"
+        }, 
+        {
+            "name": "DIBONAVENTURA, NIC", 
+            "pos": "14", 
+            "school": "NP", 
+            "time": "1:53.98"
+        }, 
+        {
+            "name": "MOLLOY, CAITLIN", 
+            "pos": "15", 
+            "school": "PINE RICHLAND HI", 
+            "time": "1:54.38"
+        }, 
+        {
+            "name": "KEIBLER, LESLEE", 
+            "pos": "16", 
+            "school": "BETHEL PARK HIGH", 
+            "time": "1:55.51"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "SOUDERTON 1:35.33", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:34.16S"
+        }, 
+        {
+            "name": "WILSON 1:36.06", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:34.74S"
+        }, 
+        {
+            "name": "EMMAUS 1:35.75", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:35.38"
+        }, 
+        {
+            "name": "HERSHEY 1:36.50", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:35.51"
+        }, 
+        {
+            "name": "UPPER DUBLIN", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:36.67"
+        }, 
+        {
+            "name": "BETHEL PARK", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:37.24"
+        }, 
+        {
+            "name": "NORTH PENN", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:37.56"
+        }, 
+        {
+            "name": "CEDAR CREST", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:37.85"
+        }, 
+        {
+            "name": "NORTH ALLEGHENY", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:37.46"
+        }, 
+        {
+            "name": "MCDOWELL 1:38.21", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:38.03"
+        }, 
+        {
+            "name": "LIBERTY 1:38.73", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:38.30"
+        }, 
+        {
+            "name": "STATE COLLEGE", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:38.36"
+        }, 
+        {
+            "name": "PARKLAND 1:38.86", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:38.60"
+        }, 
+        {
+            "name": "PENN TRAFFORD", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:38.88"
+        }, 
+        {
+            "name": "HEMPFIELD 1:38.47", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:38.90"
+        }, 
+        {
+            "name": "WOODLAND HILLS", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:39.69"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "MASCIANTONIO, MIKE", 
+            "pos": "1", 
+            "school": "EMM", 
+            "time": "2:00.83S"
+        }, 
+        {
+            "name": "SEVERN, ANGELA", 
+            "pos": "2", 
+            "school": "SOU", 
+            "time": "2:01.52"
+        }, 
+        {
+            "name": "KLUGE, ALENA", 
+            "pos": "3", 
+            "school": "EMM", 
+            "time": "2:02.93"
+        }, 
+        {
+            "name": "BUSCH, MELANIE", 
+            "pos": "4", 
+            "school": "WT", 
+            "time": "2:04.87"
+        }, 
+        {
+            "name": "CARROLL, KELLY", 
+            "pos": "5", 
+            "school": "GRV", 
+            "time": "2:05.27"
+        }, 
+        {
+            "name": "ZAJKO, CAITLIN", 
+            "pos": "6", 
+            "school": "PAR", 
+            "time": "2:05.61"
+        }, 
+        {
+            "name": "CONNOLLY, ANNA", 
+            "pos": "7", 
+            "school": "CON", 
+            "time": "2:06.12"
+        }, 
+        {
+            "name": "HARTER, CARLY", 
+            "pos": "8", 
+            "school": "NORWIN AREA", 
+            "time": "2:07.90"
+        }, 
+        {
+            "name": "WAUGAMAN, BROOKE", 
+            "pos": "9", 
+            "school": "HEMPFIELD AREA H", 
+            "time": "2:05.34"
+        }, 
+        {
+            "name": "PFAFF, MORGAN", 
+            "pos": "10", 
+            "school": "WILLIAM PENN", 
+            "time": "2:06.08"
+        }, 
+        {
+            "name": "SCHON, EMILY", 
+            "pos": "11", 
+            "school": "CON", 
+            "time": "2:06.62"
+        }, 
+        {
+            "name": "LIN, CAROL", 
+            "pos": "12", 
+            "school": "FOX CHAPEL AREA", 
+            "time": "2:07.09"
+        }, 
+        {
+            "name": "GRIM, KAYLA", 
+            "pos": "13", 
+            "school": "PAR", 
+            "time": "2:07.15"
+        }, 
+        {
+            "name": "MCNICHOL, KACIE", 
+            "pos": "14", 
+            "school": "WCH", 
+            "time": "2:07.31"
+        }, 
+        {
+            "name": "BREW, TAYLOR", 
+            "pos": "15", 
+            "school": "WILSON", 
+            "time": "2:08.33"
+        }, 
+        {
+            "name": "AHRENS, LAUREN", 
+            "pos": "16", 
+            "school": "CBS", 
+            "time": "2:09.52"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "EMMAUS 1:45.08", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:44.28S"
+        }, 
+        {
+            "name": "WILSON 1:46.13", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:44.74S"
+        }, 
+        {
+            "name": "HERSHEY 1:47.06", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:46.17"
+        }, 
+        {
+            "name": "MCDOWELL 1:47.95", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:46.48"
+        }, 
+        {
+            "name": "NORTH ALLEGHENY", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:48.18"
+        }, 
+        {
+            "name": "CONESTOGA 1:48.86", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:48.22"
+        }, 
+        {
+            "name": "GREAT VALLEY", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:48.76"
+        }, 
+        {
+            "name": "SOUDERTON 1:49.56", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:49.64"
+        }, 
+        {
+            "name": "NORWIN AREA", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:48.84"
+        }, 
+        {
+            "name": "BAYARD RUSTIN", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:49.02"
+        }, 
+        {
+            "name": "HEMPFIELD AREA", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:49.41"
+        }, 
+        {
+            "name": "NORTH PENN", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:49.44"
+        }, 
+        {
+            "name": "STATE COLLEGE", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:50.24"
+        }, 
+        {
+            "name": "BETHEL PARK", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:50.52"
+        }, 
+        {
+            "name": "WEST CHESTER", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:50.89"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "SOUDERTON 3:29.85", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:25.30S"
+        }, 
+        {
+            "name": "EMMAUS 3:26.65", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:25.37S"
+        }, 
+        {
+            "name": "HERSHEY 3:30.01", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:27.17"
+        }, 
+        {
+            "name": "WILSON 3:29.59", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:28.46"
+        }, 
+        {
+            "name": "BETHEL PARK", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:30.98"
+        }, 
+        {
+            "name": "MCDOWELL 3:32.85", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:31.22"
+        }, 
+        {
+            "name": "PETERS TOWNSHIP", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:32.03"
+        }, 
+        {
+            "name": "PARKLAND 3:31.47", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:32.09"
+        }, 
+        {
+            "name": "UPPER DUBLIN", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:32.95"
+        }, 
+        {
+            "name": "CEDAR CREST", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:33.01"
+        }, 
+        {
+            "name": "NORTH ALLEGHENY", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:33.18"
+        }, 
+        {
+            "name": "SENECA VALLEY", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:33.54"
+        }, 
+        {
+            "name": "WEST CHESTER", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:34.16"
+        }, 
+        {
+            "name": "STATE COLLEGE", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:34.97"
+        }, 
+        {
+            "name": "MANHEIM TOWNSHIP", 
+            "pos": "15", 
+            "school": "", 
+            "time": "3:36.37"
+        }, 
+        {
+            "name": "COUNCIL ROCK", 
+            "pos": "16", 
+            "school": "", 
+            "time": "3:37.04"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "SEVERN, ANGELA", 
+            "pos": "1", 
+            "school": "SOU", 
+            "time": "4:48.13S"
+        }, 
+        {
+            "name": "MALANDRA, JAIME", 
+            "pos": "2", 
+            "school": "PAR", 
+            "time": "4:50.97"
+        }, 
+        {
+            "name": "ZIMMER, BECCA", 
+            "pos": "3", 
+            "school": "BETHEL PARK HIGH", 
+            "time": "4:55.81"
+        }, 
+        {
+            "name": "LOHT, CLAIRE", 
+            "pos": "4", 
+            "school": "RED LAND", 
+            "time": "4:57.56"
+        }, 
+        {
+            "name": "REIFINGER, ERICA", 
+            "pos": "5", 
+            "school": "PAR", 
+            "time": "4:58.07"
+        }, 
+        {
+            "name": "HERBST, KELSEY", 
+            "pos": "6", 
+            "school": "MCDOWELL HS", 
+            "time": "4:58.98"
+        }, 
+        {
+            "name": "BAISDEN, LAUREN", 
+            "pos": "7", 
+            "school": "WCH", 
+            "time": "4:59.15"
+        }, 
+        {
+            "name": "MCCANDLESS, LAUREN", 
+            "pos": "8", 
+            "school": "EMM", 
+            "time": "5:00.60"
+        }, 
+        {
+            "name": "KANE, TAYLOR", 
+            "pos": "9", 
+            "school": "WOOD", 
+            "time": "5:01.79"
+        }, 
+        {
+            "name": "KUSH, MARIEL", 
+            "pos": "10", 
+            "school": "SOU", 
+            "time": "5:02.44"
+        }, 
+        {
+            "name": "HAPP, MEGAN", 
+            "pos": "11", 
+            "school": "SF", 
+            "time": "5:03.42"
+        }, 
+        {
+            "name": "MOLLOY, CAITLIN", 
+            "pos": "12", 
+            "school": "PINE RICHLAND HI", 
+            "time": "5:03.52"
+        }, 
+        {
+            "name": "VANDERBILT, KALLY", 
+            "pos": "13", 
+            "school": "NORTH ALLEGHENY", 
+            "time": "5:03.98"
+        }, 
+        {
+            "name": "MULLICAN, LINDSAY", 
+            "pos": "13", 
+            "school": "MANHEIM TOWNSHIP", 
+            "time": "5:03.98"
+        }, 
+        {
+            "name": "MEYER, MADISON", 
+            "pos": "15", 
+            "school": "CRN", 
+            "time": "5:05.45"
+        }, 
+        {
+            "name": "BREW, TAYLOR", 
+            "pos": "16", 
+            "school": "WILSON", 
+            "time": "5:08.98"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "WHITMIRE, PAIGE", 
+            "pos": "1", 
+            "school": "SOU", 
+            "time": "22.83"
+        }, 
+        {
+            "name": "LEESON, PATRICIA", 
+            "pos": "2", 
+            "school": "LIB", 
+            "time": "23.37"
+        }, 
+        {
+            "name": "GINGHER, SUSANNE", 
+            "pos": "3", 
+            "school": "STATE COLLEGE", 
+            "time": "23.49"
+        }, 
+        {
+            "name": "MOFFITT, SAMANTHA", 
+            "pos": "4", 
+            "school": "CEDAR CREST", 
+            "time": "23.54"
+        }, 
+        {
+            "name": "WALKER, MAGGIE", 
+            "pos": "5", 
+            "school": "PETERS TOWNSHIP", 
+            "time": "23.60"
+        }, 
+        {
+            "name": "WIERZBICKI, SAMANT", 
+            "pos": "6", 
+            "school": "WILSON", 
+            "time": "23.69"
+        }, 
+        {
+            "name": "DOLL, MISSY", 
+            "pos": "6", 
+            "school": "SOU", 
+            "time": "23.69"
+        }, 
+        {
+            "name": "MCATEER, ASHLEY", 
+            "pos": "8", 
+            "school": "PENN TRAFFORD HI", 
+            "time": "23.80"
+        }, 
+        {
+            "name": "MILLER, KATELYN", 
+            "pos": "9", 
+            "school": "HERSHEY", 
+            "time": "23.54"
+        }, 
+        {
+            "name": "STRAUB, TAYLOR", 
+            "pos": "10", 
+            "school": "WILSON", 
+            "time": "23.77"
+        }, 
+        {
+            "name": "BURKHART, JESSICA", 
+            "pos": "11", 
+            "school": "PENN MANOR", 
+            "time": "24.06"
+        }, 
+        {
+            "name": "SHAUGHNESSY, CATHE", 
+            "pos": "12", 
+            "school": "GRV", 
+            "time": "24.19"
+        }, 
+        {
+            "name": "STEIN, CHELSEA", 
+            "pos": "13", 
+            "school": "WOODLAND HILLS", 
+            "time": "24.23"
+        }, 
+        {
+            "name": "GIBAS, ANNA", 
+            "pos": "14", 
+            "school": "GREATER LATROBE", 
+            "time": "24.30"
+        }, 
+        {
+            "name": "DEANA, SAM", 
+            "pos": "15", 
+            "school": "NP", 
+            "time": "24.36"
+        }, 
+        {
+            "name": "BERDINE, ALEXIS", 
+            "pos": "16", 
+            "school": "MOON AREA", 
+            "time": "24.56"
+        }
+    ]
+}

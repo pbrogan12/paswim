@@ -1,0 +1,1074 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "GEORGER, MARIE", 
+            "pos": "1", 
+            "school": "MERCYHURST PREP", 
+            "time": "55.60H"
+        }, 
+        {
+            "name": "MARKO, ANDREA", 
+            "pos": "2", 
+            "school": "GREENSBURG CENTR", 
+            "time": "56.00H"
+        }, 
+        {
+            "name": "KINSEY, STEPHANIE", 
+            "pos": "3", 
+            "school": "TRINITY", 
+            "time": "56.27H"
+        }, 
+        {
+            "name": "WILLIAMS, KELSEY", 
+            "pos": "4", 
+            "school": "DANVILLE AREA", 
+            "time": "57.35"
+        }, 
+        {
+            "name": "SCHNEIDER, JACQUEL", 
+            "pos": "5", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "58.18"
+        }, 
+        {
+            "name": "SHULL, KAYLA", 
+            "pos": "6", 
+            "school": "ROCKY GROVE", 
+            "time": "58.48"
+        }, 
+        {
+            "name": "DUGGAN, KATIE", 
+            "pos": "7", 
+            "school": "WYOMISSING", 
+            "time": "58.79"
+        }, 
+        {
+            "name": "MESSERSMITH, ENYA", 
+            "pos": "8", 
+            "school": "DELONE CATHOLIC*", 
+            "time": "1:01.56"
+        }, 
+        {
+            "name": "SHUMAKER, EMILY", 
+            "pos": "9", 
+            "school": "BIG SPRING", 
+            "time": "1:00.51"
+        }, 
+        {
+            "name": "GRESKOFF, KATHRYN", 
+            "pos": "10", 
+            "school": "VMA-1", 
+            "time": "1:00.52"
+        }, 
+        {
+            "name": "NIZNIK, ASHLEY", 
+            "pos": "11", 
+            "school": "WEST ALLEGHENY H", 
+            "time": "1:00.97"
+        }, 
+        {
+            "name": "KAHLE, CHELSEA", 
+            "pos": "12", 
+            "school": "BRADFORD AREA", 
+            "time": "1:01.16"
+        }, 
+        {
+            "name": "GANNON, AMANDA", 
+            "pos": "13", 
+            "school": "WEST ALLEGHENY H", 
+            "time": "1:01.19"
+        }, 
+        {
+            "name": "CLEMENTS, ELIZABET", 
+            "pos": "14", 
+            "school": "HANOVER AREA HS", 
+            "time": "1:01.59"
+        }, 
+        {
+            "name": "MAYURNICK, LAUREN", 
+            "pos": "15", 
+            "school": "SCRANTON PREP", 
+            "time": "1:01.66"
+        }, 
+        {
+            "name": "CINQUE, DANA", 
+            "pos": "16", 
+            "school": "MSJ", 
+            "time": "1:01.68"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "FOLK, BREANNA", 
+            "pos": "1", 
+            "school": "SCHUYLKILL VAL", 
+            "time": "1:03.04H"
+        }, 
+        {
+            "name": "KOUCH, DANIELLE", 
+            "pos": "2", 
+            "school": "MSJ", 
+            "time": "1:05.53"
+        }, 
+        {
+            "name": "KANE, JAMIE", 
+            "pos": "3", 
+            "school": "SPX", 
+            "time": "1:05.62"
+        }, 
+        {
+            "name": "STORM, MAGGIE", 
+            "pos": "4", 
+            "school": "LEWISBURG AREA", 
+            "time": "1:06.36"
+        }, 
+        {
+            "name": "SZYMKOWIAK, RACHEL", 
+            "pos": "5", 
+            "school": "MARS AREA", 
+            "time": "1:06.47"
+        }, 
+        {
+            "name": "WARGO, MACKENZIE", 
+            "pos": "6", 
+            "school": "APOLLO RIDGE HIG", 
+            "time": "1:07.43"
+        }, 
+        {
+            "name": "VAVRA, SAMANTHA", 
+            "pos": "7", 
+            "school": "PAN", 
+            "time": "1:07.72"
+        }, 
+        {
+            "name": "TANO, RACHEL", 
+            "pos": "8", 
+            "school": "KNOCH HIGH SCHOO", 
+            "time": "1:08.05"
+        }, 
+        {
+            "name": "LAWSON, AMANDA", 
+            "pos": "9", 
+            "school": "FAIRVIEW HS", 
+            "time": "1:07.68"
+        }, 
+        {
+            "name": "ESACHINA, CHRISTIN", 
+            "pos": "10", 
+            "school": "GREENSBURG CENTR", 
+            "time": "1:08.05"
+        }, 
+        {
+            "name": "AUGUSTINE, BRIDGET", 
+            "pos": "11", 
+            "school": "LANSDALE", 
+            "time": "1:08.14"
+        }, 
+        {
+            "name": "BILOTT, ANNE", 
+            "pos": "12", 
+            "school": "SO SHADY SIDE ACADE", 
+            "time": "1:08.20"
+        }, 
+        {
+            "name": "BORBIDGE, KERRY", 
+            "pos": "13", 
+            "school": "SDC", 
+            "time": "1:08.55"
+        }, 
+        {
+            "name": "MCPHERSON, DANIELL", 
+            "pos": "14", 
+            "school": "JERSEY SHORE ARE", 
+            "time": "1:09.12"
+        }, 
+        {
+            "name": "LEHR, ASHLEY", 
+            "pos": "15", 
+            "school": "FAIRVIEW HS", 
+            "time": "1:10.26"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "MARKO, ANDREA", 
+            "pos": "1", 
+            "school": "GREENSBURG CENTR", 
+            "time": "55.61H"
+        }, 
+        {
+            "name": "GILLESPIE, VICTORI", 
+            "pos": "2", 
+            "school": "NAZ", 
+            "time": "55.79H"
+        }, 
+        {
+            "name": "SHIELDS, COURTNEY", 
+            "pos": "3", 
+            "school": "MARS AREA", 
+            "time": "57.24"
+        }, 
+        {
+            "name": "GARVEY, CHRISTINE", 
+            "pos": "4", 
+            "school": "VMA", 
+            "time": "58.03"
+        }, 
+        {
+            "name": "GARVEY, MEGAN", 
+            "pos": "5", 
+            "school": "VMA", 
+            "time": "58.27"
+        }, 
+        {
+            "name": "STORM, MAGGIE", 
+            "pos": "6", 
+            "school": "LEWISBURG AREA", 
+            "time": "58.38"
+        }, 
+        {
+            "name": "BENTZ, BRIANNA", 
+            "pos": "7", 
+            "school": "WYOMISSING", 
+            "time": "58.78"
+        }, 
+        {
+            "name": "SZYMKOWIAK, RACHEL", 
+            "pos": "8", 
+            "school": "MARS AREA", 
+            "time": "58.99"
+        }, 
+        {
+            "name": "LISELLA, CHRISTINA", 
+            "pos": "9", 
+            "school": "CENTRAL CATH*", 
+            "time": "58.76"
+        }, 
+        {
+            "name": "SCHNEIDER, JACQUEL", 
+            "pos": "10", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "58.97"
+        }, 
+        {
+            "name": "DAVIS, ELIZABETH", 
+            "pos": "11", 
+            "school": "LANCASTER CATHLC", 
+            "time": "59.26"
+        }, 
+        {
+            "name": "MILLER, KRISTEN", 
+            "pos": "12", 
+            "school": "FAIRVIEW HS", 
+            "time": "59.70"
+        }, 
+        {
+            "name": "RAGEN, RACHAEL", 
+            "pos": "13", 
+            "school": "IROQUOIS HS", 
+            "time": "59.71"
+        }, 
+        {
+            "name": "MISAVAGE, KALA", 
+            "pos": "14", 
+            "school": "DANVILLE AREA", 
+            "time": "59.99"
+        }, 
+        {
+            "name": "WALSH, MOLLIE", 
+            "pos": "15", 
+            "school": "CARROLL", 
+            "time": "1:00.18"
+        }, 
+        {
+            "name": "PIA, EMILY", 
+            "pos": "16", 
+            "school": "WEST ALLEGHENY H", 
+            "time": "1:00.28"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "MOSER, MARY", 
+            "pos": "1", 
+            "school": "WYOMISSING", 
+            "time": "50.82H"
+        }, 
+        {
+            "name": "KINSEY, STEPHANIE", 
+            "pos": "2", 
+            "school": "TRINITY", 
+            "time": "51.49H"
+        }, 
+        {
+            "name": "SCHMITTLE, LAUREN", 
+            "pos": "3", 
+            "school": "YORK SUBURBAN", 
+            "time": "52.21"
+        }, 
+        {
+            "name": "FISHER, GALEN", 
+            "pos": "4", 
+            "school": "RAD", 
+            "time": "52.44"
+        }, 
+        {
+            "name": "GILLESPIE, VICTORI", 
+            "pos": "5", 
+            "school": "NAZ", 
+            "time": "52.45"
+        }, 
+        {
+            "name": "POWERS, MAGGIE", 
+            "pos": "6", 
+            "school": "HAMPTON", 
+            "time": "52.84"
+        }, 
+        {
+            "name": "SHULL, KAYLA", 
+            "pos": "7", 
+            "school": "ROCKY GROVE", 
+            "time": "52.98"
+        }, 
+        {
+            "name": "SHIELDS, COURTNEY", 
+            "pos": "8", 
+            "school": "MARS AREA", 
+            "time": "53.32"
+        }, 
+        {
+            "name": "GLASS, MAGGIE", 
+            "pos": "9", 
+            "school": "FAIRVIEW HS", 
+            "time": "52.72"
+        }, 
+        {
+            "name": "VINCETT, KATIE", 
+            "pos": "10", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "53.36"
+        }, 
+        {
+            "name": "STEPNIAK, STACEY", 
+            "pos": "11", 
+            "school": "DALLAS", 
+            "time": "54.10"
+        }, 
+        {
+            "name": "GIORDANI, MICHELLE", 
+            "pos": "12", 
+            "school": "LINE MOUNTAIN SR", 
+            "time": "54.20"
+        }, 
+        {
+            "name": "KOON, SAMMY", 
+            "pos": "13", 
+            "school": "DANVILLE AREA", 
+            "time": "54.30"
+        }, 
+        {
+            "name": "GEORGIADIS, MARGAU", 
+            "pos": "14", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "54.47"
+        }, 
+        {
+            "name": "THOMPSON, MADDIE", 
+            "pos": "15", 
+            "school": "JERSEY SHORE ARE", 
+            "time": "54.70"
+        }, 
+        {
+            "name": "COGHE, KATLIN", 
+            "pos": "16", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "54.86"
+        }
+    ], 
+    "200YardFreestyle": [
+        {
+            "name": "VROOMAN, LINDSAY", 
+            "pos": "1", 
+            "school": "AMBRIDGE AREA", 
+            "time": "1:47.60H"
+        }, 
+        {
+            "name": "STINNER, SYDNEY", 
+            "pos": "2", 
+            "school": "ACC", 
+            "time": "1:52.06"
+        }, 
+        {
+            "name": "SOLT, SHEA", 
+            "pos": "3", 
+            "school": "PAL", 
+            "time": "1:53.17"
+        }, 
+        {
+            "name": "SCHMITTLE, LAUREN", 
+            "pos": "4", 
+            "school": "YORK SUBURBAN", 
+            "time": "1:53.21"
+        }, 
+        {
+            "name": "GEORGIADIS, MARGAU", 
+            "pos": "5", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "1:54.09"
+        }, 
+        {
+            "name": "FINKBEINER, CAROLI", 
+            "pos": "6", 
+            "school": "TRINITY", 
+            "time": "1:54.14"
+        }, 
+        {
+            "name": "VIVERETTE, ALLISON", 
+            "pos": "7", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "1:54.25"
+        }, 
+        {
+            "name": "PURCELL, KELLY", 
+            "pos": "8", 
+            "school": "MAH", 
+            "time": "1:54.62"
+        }, 
+        {
+            "name": "GARVEY, CHRISTINE", 
+            "pos": "9", 
+            "school": "VMA", 
+            "time": "1:54.32"
+        }, 
+        {
+            "name": "PHILLIPS, ADRIENNE", 
+            "pos": "10", 
+            "school": "TRINITY", 
+            "time": "1:56.35"
+        }, 
+        {
+            "name": "GERAS, KELLY", 
+            "pos": "11", 
+            "school": "MUHLENBERG", 
+            "time": "1:57.27"
+        }, 
+        {
+            "name": "COLLINS, MEGAN", 
+            "pos": "12", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "1:57.49"
+        }, 
+        {
+            "name": "GIORDANI, MICHELLE", 
+            "pos": "13", 
+            "school": "LINE MOUNTAIN SR", 
+            "time": "1:57.59"
+        }, 
+        {
+            "name": "KOON, SAMMY", 
+            "pos": "14", 
+            "school": "DANVILLE AREA", 
+            "time": "1:57.77"
+        }, 
+        {
+            "name": "BARNES, LAUREN", 
+            "pos": "15", 
+            "school": "HOLY REDEEMER", 
+            "time": "1:58.09"
+        }, 
+        {
+            "name": "DOMEISEN, NATALIE", 
+            "pos": "16", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "1:58.75"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "SHADY SIDE", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:37.03H"
+        }, 
+        {
+            "name": "FAIRVIEW 1:39.14", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:38.81"
+        }, 
+        {
+            "name": "MUHLENBERG 1:39.17", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:39.11"
+        }, 
+        {
+            "name": "RADNOR 1:41.22", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:39.25"
+        }, 
+        {
+            "name": "VILLA MARIA", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:39.89"
+        }, 
+        {
+            "name": "SCRANTON PREP", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:40.00"
+        }, 
+        {
+            "name": "JERSEY SHORE", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:40.71"
+        }, 
+        {
+            "name": "YORK SUBURBAN", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:41.48"
+        }, 
+        {
+            "name": "WEST ALLEGHENY", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:41.05"
+        }, 
+        {
+            "name": "SCHUYLKILL VALLEY", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:41.23"
+        }, 
+        {
+            "name": "OAKLAND CATHOLIC", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:41.41"
+        }, 
+        {
+            "name": "VILLA MARIA", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:41.63"
+        }, 
+        {
+            "name": "BOILING SPRINGS", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:42.32"
+        }, 
+        {
+            "name": "TRINITY 1:41.75", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:42.88"
+        }, 
+        {
+            "name": "DANVILLE AREA", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:43.58"
+        }, 
+        {
+            "name": "MT. PLEASANT", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:43.85"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "FOLK, BREANNA", 
+            "pos": "1", 
+            "school": "SCHUYLKILL VAL", 
+            "time": "2:00.51S"
+        }, 
+        {
+            "name": "STAUB, ANDREA", 
+            "pos": "2", 
+            "school": "DELONE CATHOLIC*", 
+            "time": "2:03.39H"
+        }, 
+        {
+            "name": "GEORGER, MARIE", 
+            "pos": "3", 
+            "school": "MERCYHURST PREP", 
+            "time": "2:04.22H"
+        }, 
+        {
+            "name": "SMITH, AILEEN", 
+            "pos": "4", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "2:07.69"
+        }, 
+        {
+            "name": "WILLIAMS, KELSEY", 
+            "pos": "5", 
+            "school": "DANVILLE AREA", 
+            "time": "2:09.71"
+        }, 
+        {
+            "name": "TANO, RACHEL", 
+            "pos": "6", 
+            "school": "KNOCH HIGH SCHOO", 
+            "time": "2:10.74"
+        }, 
+        {
+            "name": "BILOTT, ANNE", 
+            "pos": "7", 
+            "school": "SO SHADY SIDE ACADE", 
+            "time": "2:12.34"
+        }, 
+        {
+            "name": "GERVAS, KELLIE", 
+            "pos": "8", 
+            "school": "WEST ALLEGHENY H", 
+            "time": "2:12.54"
+        }, 
+        {
+            "name": "HAMMOND, CHRISTINE", 
+            "pos": "9", 
+            "school": "SUSQUEHANNOCK", 
+            "time": "2:10.94"
+        }, 
+        {
+            "name": "SIANIS, ZOE", 
+            "pos": "10", 
+            "school": "WYOMISSING", 
+            "time": "2:13.37"
+        }, 
+        {
+            "name": "VAVRA, SAMANTHA", 
+            "pos": "11", 
+            "school": "PAN", 
+            "time": "2:14.58"
+        }, 
+        {
+            "name": "GIDZINSKI, JESSICA", 
+            "pos": "12", 
+            "school": "LANSDALE", 
+            "time": "2:14.62"
+        }, 
+        {
+            "name": "WALBERT, ARIELLE", 
+            "pos": "13", 
+            "school": "SAL", 
+            "time": "2:15.00"
+        }, 
+        {
+            "name": "KOUCH, DANIELLE", 
+            "pos": "14", 
+            "school": "MSJ", 
+            "time": "2:16.16"
+        }, 
+        {
+            "name": "MESSERSMITH, ENYA", 
+            "pos": "15", 
+            "school": "DELONE CATHOLIC*", 
+            "time": "2:16.30"
+        }, 
+        {
+            "name": "GANNON, AMANDA", 
+            "pos": "16", 
+            "school": "WEST ALLEGHENY H", 
+            "time": "2:16.94"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "WYOMISSING 1:49.90", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:47.30H"
+        }, 
+        {
+            "name": "VILLA MARIA", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:50.42"
+        }, 
+        {
+            "name": "OAKLAND CATHOLIC", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:50.61"
+        }, 
+        {
+            "name": "MARS AREA", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:50.64"
+        }, 
+        {
+            "name": "MERCYHURST PREPARATORY", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:51.51"
+        }, 
+        {
+            "name": "FAIRVIEW 1:52.46", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:51.85"
+        }, 
+        {
+            "name": "JERSEY SHORE", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:52.44"
+        }, 
+        {
+            "name": "DANVILLE AREA", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:53.91"
+        }, 
+        {
+            "name": "MUHLENBERG 1:53.19", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:51.74"
+        }, 
+        {
+            "name": "SCRANTON PREP", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:52.71"
+        }, 
+        {
+            "name": "SHADY SIDE", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:52.87"
+        }, 
+        {
+            "name": "TRINITY 1:53.99", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:53.50"
+        }, 
+        {
+            "name": "HOLY REDEEMER", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:53.65"
+        }, 
+        {
+            "name": "PALMYRA-03 1:54.80", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:54.47"
+        }, 
+        {
+            "name": "NAZARETH ACADEMY", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:54.59"
+        }, 
+        {
+            "name": "BOILING SPRINGS", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:55.59"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "SHADY SIDE", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:33.41"
+        }, 
+        {
+            "name": "TRINITY 3:36.47", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:33.45"
+        }, 
+        {
+            "name": "WYOMISSING 3:37.79", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:34.54"
+        }, 
+        {
+            "name": "OAKLAND CATHOLIC", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:37.02"
+        }, 
+        {
+            "name": "VILLA MARIA", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:37.95"
+        }, 
+        {
+            "name": "RADNOR 3:38.46", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:38.40"
+        }, 
+        {
+            "name": "FAIRVIEW 3:38.96", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:38.79"
+        }, 
+        {
+            "name": "YORK SUBURBAN", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:39.96"
+        }, 
+        {
+            "name": "SCHUYLKILL VALLEY", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:40.27"
+        }, 
+        {
+            "name": "WEST ALLEGHENY", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:41.49"
+        }, 
+        {
+            "name": "MERCYHURST PREPARATORY", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:42.73"
+        }, 
+        {
+            "name": "NAZARETH ACADEMY", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:43.28"
+        }, 
+        {
+            "name": "DANVILLE AREA", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:43.59"
+        }, 
+        {
+            "name": "ALLENTOWN CENTRAL", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:43.68"
+        }, 
+        {
+            "name": "LEWISBURG AREA", 
+            "pos": "15", 
+            "school": "", 
+            "time": "3:44.18"
+        }, 
+        {
+            "name": "MARS AREA", 
+            "pos": "16", 
+            "school": "", 
+            "time": "3:44.50"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "VROOMAN, LINDSAY", 
+            "pos": "1", 
+            "school": "AMBRIDGE AREA*", 
+            "time": "4:48.14H"
+        }, 
+        {
+            "name": "SMITH, AILEEN", 
+            "pos": "2", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "4:54.49H"
+        }, 
+        {
+            "name": "STAUB, ANDREA", 
+            "pos": "3", 
+            "school": "DELONE CATHOLIC*", 
+            "time": "4:55.94"
+        }, 
+        {
+            "name": "STINNER, SYDNEY", 
+            "pos": "4", 
+            "school": "ACC", 
+            "time": "4:56.57"
+        }, 
+        {
+            "name": "SOLT, SHEA", 
+            "pos": "5", 
+            "school": "PAL", 
+            "time": "4:56.74"
+        }, 
+        {
+            "name": "VIVERETTE, ALLISON", 
+            "pos": "6", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "5:06.27"
+        }, 
+        {
+            "name": "FINKBEINER, CAROLI", 
+            "pos": "7", 
+            "school": "TRINITY", 
+            "time": "5:07.67"
+        }, 
+        {
+            "name": "COLLINS, MEGAN", 
+            "pos": "8", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "5:12.21"
+        }, 
+        {
+            "name": "PHILLIPS, ADRIENNE", 
+            "pos": "9", 
+            "school": "TRINITY", 
+            "time": "5:02.80"
+        }, 
+        {
+            "name": "PURCELL, KELLY", 
+            "pos": "10", 
+            "school": "MAH", 
+            "time": "5:07.80"
+        }, 
+        {
+            "name": "HABERMAN, SHANNON", 
+            "pos": "11", 
+            "school": "OAKLAND CATHOLIC", 
+            "time": "5:11.05"
+        }, 
+        {
+            "name": "HAMMOND, CHRISTINE", 
+            "pos": "12", 
+            "school": "SUSQUEHANNOCK", 
+            "time": "5:11.22"
+        }, 
+        {
+            "name": "DOERRMAN, LAUREN", 
+            "pos": "13", 
+            "school": "OLEY VALLEY*-03", 
+            "time": "5:11.53"
+        }, 
+        {
+            "name": "MULCAHY, SHANNON", 
+            "pos": "14", 
+            "school": "YK COUNTRY DAY*", 
+            "time": "5:12.24"
+        }, 
+        {
+            "name": "DOMEISEN, NATALIE", 
+            "pos": "15", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "5:13.80"
+        }, 
+        {
+            "name": "COLE, LEXI", 
+            "pos": "16", 
+            "school": "DANVILLE AREA", 
+            "time": "5:14.46"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "MOSER, MARY", 
+            "pos": "1", 
+            "school": "WYOMISSING", 
+            "time": "23.36H"
+        }, 
+        {
+            "name": "GLASS, MAGGIE", 
+            "pos": "2", 
+            "school": "FAIRVIEW HS", 
+            "time": "24.20"
+        }, 
+        {
+            "name": "FISHER, GALEN", 
+            "pos": "3", 
+            "school": "RAD", 
+            "time": "24.21"
+        }, 
+        {
+            "name": "VINCETT, KATIE", 
+            "pos": "4", 
+            "school": "SHADY SIDE ACADE", 
+            "time": "24.22"
+        }, 
+        {
+            "name": "CAMPO, REBEKAH", 
+            "pos": "5", 
+            "school": "SCRANTON PREP", 
+            "time": "24.38"
+        }, 
+        {
+            "name": "YEITY, KATIE", 
+            "pos": "6", 
+            "school": "MUHLENBERG", 
+            "time": "24.46"
+        }, 
+        {
+            "name": "SNEE, KATIE", 
+            "pos": "7", 
+            "school": "JAMES M COUGHLIN", 
+            "time": "24.48"
+        }, 
+        {
+            "name": "POWERS, MAGGIE", 
+            "pos": "8", 
+            "school": "HAMPTON", 
+            "time": "24.63"
+        }, 
+        {
+            "name": "JONES, MEGAN", 
+            "pos": "9", 
+            "school": "SCRANTON PREP", 
+            "time": "24.46"
+        }, 
+        {
+            "name": "SHUMAKER, EMILY", 
+            "pos": "10", 
+            "school": "BIG SPRING", 
+            "time": "24.75"
+        }, 
+        {
+            "name": "MCNURLEN, ANNA", 
+            "pos": "11", 
+            "school": "MCGUFFEY", 
+            "time": "24.79"
+        }, 
+        {
+            "name": "FRIERY, ALLISON", 
+            "pos": "12", 
+            "school": "LEWISBURG AREA", 
+            "time": "24.85"
+        }, 
+        {
+            "name": "WALDINGER, MALLORY", 
+            "pos": "13", 
+            "school": "FAIRVIEW HS", 
+            "time": "24.88"
+        }, 
+        {
+            "name": "HANNIFORD, ELIZABE", 
+            "pos": "14", 
+            "school": "BOILING SPRINGS", 
+            "time": "24.94"
+        }, 
+        {
+            "name": "STEPNIAK, STACEY", 
+            "pos": "15", 
+            "school": "DALLAS", 
+            "time": "24.97"
+        }, 
+        {
+            "name": "ADAMS, KARYN", 
+            "pos": "16", 
+            "school": "EAST", 
+            "time": "25.07"
+        }
+    ]
+}
