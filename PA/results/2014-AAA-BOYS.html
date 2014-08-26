@@ -1,0 +1,203 @@
+---
+layout: default
+title: 2222
+---
+<div class="page-header">
+  <h1>2014 AAA Boys Results</h1>
+</div>
+<div class="row">
+  <div class="col-md-12 col-sm-12">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <ul class="nav nav-pills" role="tablist">
+          <li class="active"><a href="#50-Free" data-toggle="pill">50 Free</a></li>
+          <li><a href="#100-Free" data-toggle="pill">100 Free</a></li>
+          <li><a href="#200-Free" data-toggle="pill">200 Free</a></li>
+          <li><a href="#500-Free" data-toggle="pill">500 Free</a></li>
+          <li><a href="#200-IM" data-toggle="pill">200 IM</a></li>
+          <li><a href="#100-Back" data-toggle="pill">100 Back</a></li>
+          <li><a href="#100-Breast" data-toggle="pill">100 Breast</a></li>
+          <li><a href="#100-Fly" data-toggle="pill">100 Fly</a></li>
+        </ul>
+      </div>
+      <div class="tab-content">
+        <div class="tab-pane active" id="50-Free">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Pos</th>
+                <th>Name</th>
+                <th>School</th>
+                <th>Time</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.50YardFreestyle %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+            </table>
+          </div>
+          <div class="tab-pane" id="100-Free">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Pos</th>
+                  <th>Name</th>
+                  <th>School</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.100YardFreestyle %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div class="tab-pane" id="200-Free">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Pos</th>
+                  <th>Name</th>
+                  <th>School</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.200YardFreestyle %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div class="tab-pane" id="500-Free">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Pos</th>
+                  <th>Name</th>
+                  <th>School</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.500YardFreestyle %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div class="tab-pane" id="200-IM">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Pos</th>
+                  <th>Name</th>
+                  <th>School</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.200YardIM %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div class="tab-pane" id="100-Back">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Pos</th>
+                  <th>Name</th>
+                  <th>School</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.100YardBackstroke %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div class="tab-pane" id="100-Breast">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Pos</th>
+                  <th>Name</th>
+                  <th>School</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.100YardBreaststroke %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          <div class="tab-pane" id="100-Fly">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Pos</th>
+                  <th>Name</th>
+                  <th>School</th>
+                  <th>Time</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for swimmer in site.data.PA.2014BOYSAAA.100YardButterfly %}
+              <tr>
+                <td>{{swimmer.pos}}</td>
+                <td>{{swimmer.name}}</td>
+                <td>{{swimmer.school}}</td>
+                <td>{{swimmer.time}}</td>
+              </tr>
+              {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
