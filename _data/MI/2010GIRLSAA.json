@@ -1,0 +1,1051 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "Tess Behrens", 
+            "pos": "1", 
+            "school": "Maple Grove", 
+            "time": "54.47"
+        }, 
+        {
+            "name": "Hailey Campbell", 
+            "pos": "2", 
+            "school": "Lakeville So", 
+            "time": "54.81"
+        }, 
+        {
+            "name": "Rachel Stearns", 
+            "pos": "3", 
+            "school": "Hopkins", 
+            "time": "56.00"
+        }, 
+        {
+            "name": "Katie Bootsma", 
+            "pos": "4", 
+            "school": "Eden Prairie", 
+            "time": "56.68"
+        }, 
+        {
+            "name": "Keeli McNeary", 
+            "pos": "5", 
+            "school": "Prior Lake", 
+            "time": "57.81"
+        }, 
+        {
+            "name": "Kayla Hutsell", 
+            "pos": "6", 
+            "school": "Eastview", 
+            "time": "58.36"
+        }, 
+        {
+            "name": "Brianna Fujan", 
+            "pos": "7", 
+            "school": "RochJMarshall", 
+            "time": "58.85"
+        }, 
+        {
+            "name": "Claire Rutscher", 
+            "pos": "8", 
+            "school": "STIL", 
+            "time": "58.94"
+        }, 
+        {
+            "name": "Emma Paulson", 
+            "pos": "9", 
+            "school": "Wayzata", 
+            "time": "59.13"
+        }, 
+        {
+            "name": "Isabel Wyer", 
+            "pos": "10", 
+            "school": "Minnetonka", 
+            "time": "59.30"
+        }, 
+        {
+            "name": "Tori Bagley", 
+            "pos": "11", 
+            "school": "Lakeville No", 
+            "time": "1:00.20"
+        }, 
+        {
+            "name": "Kaitlyn O'Reilly", 
+            "pos": "12", 
+            "school": "Farmington", 
+            "time": "1:00.24"
+        }, 
+        {
+            "name": "Beth Wenman", 
+            "pos": "13", 
+            "school": "Rosemount", 
+            "time": "1:00.45"
+        }, 
+        {
+            "name": "Jordan Duncan", 
+            "pos": "14", 
+            "school": "STIL", 
+            "time": "1:00.82"
+        }, 
+        {
+            "name": "Emily Flack", 
+            "pos": "15", 
+            "school": "Edina", 
+            "time": "1:00.92"
+        }, 
+        {
+            "name": "Laura Schumacher", 
+            "pos": "16", 
+            "school": "Eagan", 
+            "time": "1:01.68"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "Abby Duncan", 
+            "pos": "1", 
+            "school": "Champlin Park", 
+            "time": "1:01.33"
+        }, 
+        {
+            "name": "Madeleine Eden", 
+            "pos": "2", 
+            "school": "Edina", 
+            "time": "1:04.52"
+        }, 
+        {
+            "name": "Heather Laedtke", 
+            "pos": "3", 
+            "school": "Edina", 
+            "time": "1:05.08"
+        }, 
+        {
+            "name": "Danielle James", 
+            "pos": "4", 
+            "school": "Lakeville No", 
+            "time": "1:05.27"
+        }, 
+        {
+            "name": "Natalie Lugg", 
+            "pos": "5", 
+            "school": "Woodbury", 
+            "time": "1:05.74"
+        }, 
+        {
+            "name": "Jess Padniewski", 
+            "pos": "6", 
+            "school": "Eden Prairie", 
+            "time": "1:05.93"
+        }, 
+        {
+            "name": "Nicole Stevens", 
+            "pos": "7", 
+            "school": "Eagan", 
+            "time": "1:07.36"
+        }, 
+        {
+            "name": "Alli Schwab", 
+            "pos": "8", 
+            "school": "Elk River", 
+            "time": "1:08.52"
+        }, 
+        {
+            "name": "Mady Gockowski", 
+            "pos": "9", 
+            "school": "STIL", 
+            "time": "1:07.57"
+        }, 
+        {
+            "name": "Summer Olson", 
+            "pos": "10", 
+            "school": "STIL", 
+            "time": "1:07.76"
+        }, 
+        {
+            "name": "Kristin Erf", 
+            "pos": "11", 
+            "school": "STIL", 
+            "time": "1:07.89"
+        }, 
+        {
+            "name": "Melissa McMahon", 
+            "pos": "12", 
+            "school": "Lakeville So", 
+            "time": "1:08.15"
+        }, 
+        {
+            "name": "Jennifer Strom", 
+            "pos": "13", 
+            "school": "Roch Century", 
+            "time": "1:08.26"
+        }, 
+        {
+            "name": "Emily Punyko", 
+            "pos": "14", 
+            "school": "Duluth East", 
+            "time": "1:08.32"
+        }, 
+        {
+            "name": "Paige Haller", 
+            "pos": "15", 
+            "school": "Edina", 
+            "time": "1:08.39"
+        }, 
+        {
+            "name": "Megan Knudson", 
+            "pos": "16", 
+            "school": "Chaska/Chan", 
+            "time": "1:08.76"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "Meghan Cummings", 
+            "pos": "1", 
+            "school": "Eden Prairie", 
+            "time": "54.89"
+        }, 
+        {
+            "name": "Nikki Larson", 
+            "pos": "2", 
+            "school": "Edina", 
+            "time": "55.99"
+        }, 
+        {
+            "name": "Kayla Hutsell", 
+            "pos": "3", 
+            "school": "Eastview", 
+            "time": "56.10"
+        }, 
+        {
+            "name": "Ashley Ahn", 
+            "pos": "4", 
+            "school": "CENT", 
+            "time": "56.74"
+        }, 
+        {
+            "name": "Emma Lawrenz", 
+            "pos": "5", 
+            "school": "Minnetonka", 
+            "time": "56.82"
+        }, 
+        {
+            "name": "Leah Roesler", 
+            "pos": "6", 
+            "school": "Hastings", 
+            "time": "57.00"
+        }, 
+        {
+            "name": "Alexandra Yaeger", 
+            "pos": "7", 
+            "school": "Prior Lake", 
+            "time": "57.30"
+        }, 
+        {
+            "name": "Britta Sortland", 
+            "pos": "8", 
+            "school": "Woodbury", 
+            "time": "58.73"
+        }, 
+        {
+            "name": "Katelyn Crowley", 
+            "pos": "9", 
+            "school": "Roch Mayo", 
+            "time": "58.10"
+        }, 
+        {
+            "name": "Paige Haller", 
+            "pos": "10", 
+            "school": "Edina", 
+            "time": "58.40"
+        }, 
+        {
+            "name": "Nicole Grimit", 
+            "pos": "11", 
+            "school": "St Cloud Tech", 
+            "time": "58.52"
+        }, 
+        {
+            "name": "Anna Elling", 
+            "pos": "12", 
+            "school": "Burnsville", 
+            "time": "58.58"
+        }, 
+        {
+            "name": "Courtney Grunewald", 
+            "pos": "13", 
+            "school": "Elk River", 
+            "time": "58.93"
+        }, 
+        {
+            "name": "Claire Anderson", 
+            "pos": "14", 
+            "school": "Roch Century", 
+            "time": "59.24"
+        }, 
+        {
+            "name": "Stacy Caprio", 
+            "pos": "15", 
+            "school": "Wayzata", 
+            "time": "59.79"
+        }, 
+        {
+            "name": "Andrea Laedtke", 
+            "pos": "16", 
+            "school": "Edina", 
+            "time": "1:00.27"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "Hannah Bowen", 
+            "pos": "1", 
+            "school": "STIL", 
+            "time": "50.26"
+        }, 
+        {
+            "name": "Hailey Campbell", 
+            "pos": "2", 
+            "school": "Lakeville So", 
+            "time": "50.98"
+        }, 
+        {
+            "name": "Kelsey McMurtry", 
+            "pos": "3", 
+            "school": "Minnetonka", 
+            "time": "51.85"
+        }, 
+        {
+            "name": "Sam Feulner", 
+            "pos": "4", 
+            "school": "BloomJefferso", 
+            "time": "52.13"
+        }, 
+        {
+            "name": "Heather Arseth", 
+            "pos": "5", 
+            "school": "Wayzata", 
+            "time": "52.41"
+        }, 
+        {
+            "name": "Allison Schumacher", 
+            "pos": "6", 
+            "school": "RochJMarshall", 
+            "time": "52.65"
+        }, 
+        {
+            "name": "Emma Paulson", 
+            "pos": "7", 
+            "school": "Wayzata", 
+            "time": "52.73"
+        }, 
+        {
+            "name": "Monica Radecke", 
+            "pos": "8", 
+            "school": "STIL", 
+            "time": "53.24"
+        }, 
+        {
+            "name": "Caitlin Fujan", 
+            "pos": "9", 
+            "school": "RochJMarshall", 
+            "time": "53.24"
+        }, 
+        {
+            "name": "Taylor Bass", 
+            "pos": "10", 
+            "school": "RochJMarshall", 
+            "time": "53.32"
+        }, 
+        {
+            "name": "Katie Olson", 
+            "pos": "11", 
+            "school": "View", 
+            "time": "53.58"
+        }, 
+        {
+            "name": "Claire Rutscher", 
+            "pos": "12", 
+            "school": "STIL", 
+            "time": "53.69"
+        }, 
+        {
+            "name": "MacKenzie Brosnaha", 
+            "pos": "13", 
+            "school": "Winona", 
+            "time": "53.71"
+        }, 
+        {
+            "name": "Elizabeth Gross", 
+            "pos": "14", 
+            "school": "Woodbury", 
+            "time": "53.90"
+        }, 
+        {
+            "name": "Brita Skalbeck", 
+            "pos": "15", 
+            "school": "Hopkins", 
+            "time": "54.02"
+        }, 
+        {
+            "name": "Emily DeVore", 
+            "pos": "16", 
+            "school": "Buffalo", 
+            "time": "54.14"
+        }
+    ], 
+    "1mtrDiving": [], 
+    "200YardFreestyle": [
+        {
+            "name": "Kiera Janzen", 
+            "pos": "1", 
+            "school": "C-D Hall", 
+            "time": "1:48.51"
+        }, 
+        {
+            "name": "Kaela Anderson", 
+            "pos": "2", 
+            "school": "STIL", 
+            "time": "1:50.79"
+        }, 
+        {
+            "name": "Molly Mason", 
+            "pos": "3", 
+            "school": "Minnetonka", 
+            "time": "1:52.21"
+        }, 
+        {
+            "name": "Emily Blasko", 
+            "pos": "4", 
+            "school": "Robb Armstron", 
+            "time": "1:52.57"
+        }, 
+        {
+            "name": "Sarah Deis", 
+            "pos": "5", 
+            "school": "Wayzata", 
+            "time": "1:53.22"
+        }, 
+        {
+            "name": "Elaine Boosalis", 
+            "pos": "6", 
+            "school": "Maple Grove", 
+            "time": "1:53.64"
+        }, 
+        {
+            "name": "Taylor Bass", 
+            "pos": "7", 
+            "school": "RochJMarshall", 
+            "time": "1:54.47"
+        }, 
+        {
+            "name": "Morgan Lynch", 
+            "pos": "8", 
+            "school": "Elk River", 
+            "time": "1:55.19"
+        }, 
+        {
+            "name": "Leah Roesler", 
+            "pos": "9", 
+            "school": "Hastings", 
+            "time": "1:54.72"
+        }, 
+        {
+            "name": "Sarah Kemp", 
+            "pos": "10", 
+            "school": "Edina", 
+            "time": "1:54.93"
+        }, 
+        {
+            "name": "Sam Feulner", 
+            "pos": "11", 
+            "school": "BloomJefferso", 
+            "time": "1:55.03"
+        }, 
+        {
+            "name": "Ashley Ahn", 
+            "pos": "12", 
+            "school": "CENT", 
+            "time": "1:55.58"
+        }, 
+        {
+            "name": "Claire Anderson", 
+            "pos": "13", 
+            "school": "Roch Century", 
+            "time": "1:56.08"
+        }, 
+        {
+            "name": "Elizabeth Kleiner", 
+            "pos": "14", 
+            "school": "Lakeville No", 
+            "time": "1:56.13"
+        }, 
+        {
+            "name": "Alexandra Yaeger", 
+            "pos": "15", 
+            "school": "Prior Lake", 
+            "time": "1:57.32"
+        }, 
+        {
+            "name": "McKenzie Tolan", 
+            "pos": "16", 
+            "school": "Rosemount", 
+            "time": "1:58.15"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "Stillwater 1:36.58", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:34.94"
+        }, 
+        {
+            "name": "Wayzata 1:37.81", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:36.20"
+        }, 
+        {
+            "name": "Maple Grove", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:36.42"
+        }, 
+        {
+            "name": "Minnetonka 1:37.50", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:36.52"
+        }, 
+        {
+            "name": "Rochester John", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:38.05"
+        }, 
+        {
+            "name": "Lakeville South", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:38.34"
+        }, 
+        {
+            "name": "Edina 1:38.81", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:38.89"
+        }, 
+        {
+            "name": "Buffalo 1:39.47", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:40.00"
+        }, 
+        {
+            "name": "Owatonna 1:40.53", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:39.56"
+        }, 
+        {
+            "name": "Winona/Winona Cotter", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:39.99"
+        }, 
+        {
+            "name": "Woodbury 1:40.24", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:40.23"
+        }, 
+        {
+            "name": "Cretin-Derham Hall", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:40.48"
+        }, 
+        {
+            "name": "Eastview 1:40.52", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:40.63"
+        }, 
+        {
+            "name": "Apple Valley", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:41.07"
+        }, 
+        {
+            "name": "Burnsville 1:40.74", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:41.17"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "Abby Duncan", 
+            "pos": "1", 
+            "school": "Champlin Park", 
+            "time": "2:03.12"
+        }, 
+        {
+            "name": "Rachel Stearns", 
+            "pos": "2", 
+            "school": "Hopkins", 
+            "time": "2:03.98"
+        }, 
+        {
+            "name": "Nikki Larson", 
+            "pos": "3", 
+            "school": "Edina", 
+            "time": "2:04.22"
+        }, 
+        {
+            "name": "Madeleine Eden", 
+            "pos": "4", 
+            "school": "Edina", 
+            "time": "2:04.63"
+        }, 
+        {
+            "name": "Katie Bootsma", 
+            "pos": "5", 
+            "school": "Eden Prairie", 
+            "time": "2:07.45"
+        }, 
+        {
+            "name": "Katie Friedlander", 
+            "pos": "6", 
+            "school": "Minnetonka", 
+            "time": "2:08.20"
+        }, 
+        {
+            "name": "Danielle James", 
+            "pos": "7", 
+            "school": "Lakeville No", 
+            "time": "2:09.29"
+        }, 
+        {
+            "name": "Chelcee Hew", 
+            "pos": "8", 
+            "school": "Burnsville", 
+            "time": "2:10.55"
+        }, 
+        {
+            "name": "Heather Laedtke", 
+            "pos": "9", 
+            "school": "Edina", 
+            "time": "2:09.62"
+        }, 
+        {
+            "name": "Courtney Grunewald", 
+            "pos": "10", 
+            "school": "Elk River", 
+            "time": "2:10.16"
+        }, 
+        {
+            "name": "Erica Bucki", 
+            "pos": "11", 
+            "school": "Eagan", 
+            "time": "2:10.52"
+        }, 
+        {
+            "name": "Caitlin Fujan", 
+            "pos": "12", 
+            "school": "RochJMarshall", 
+            "time": "2:11.28"
+        }, 
+        {
+            "name": "Delaney McDonald", 
+            "pos": "13", 
+            "school": "Apple Valley", 
+            "time": "2:11.92"
+        }, 
+        {
+            "name": "Anna Elling", 
+            "pos": "14", 
+            "school": "Burnsville", 
+            "time": "2:12.29"
+        }, 
+        {
+            "name": "Ashley Patras-Lanc", 
+            "pos": "15", 
+            "school": "Wayzata", 
+            "time": "2:12.52"
+        }, 
+        {
+            "name": "Brianna Fujan", 
+            "pos": "16", 
+            "school": "RochJMarshall", 
+            "time": "2:14.45"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "Edina 1:48.61", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:44.90!"
+        }, 
+        {
+            "name": "Eden Prairie", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:45.35!"
+        }, 
+        {
+            "name": "Minnetonka 1:49.46", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:49.18"
+        }, 
+        {
+            "name": "Lakeville North", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:50.37"
+        }, 
+        {
+            "name": "Stillwater 1:49.27", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:50.39"
+        }, 
+        {
+            "name": "Rochester John", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:50.45"
+        }, 
+        {
+            "name": "Lakeville South", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:51.36"
+        }, 
+        {
+            "name": "Woodbury 1:50.52", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:50.24"
+        }, 
+        {
+            "name": "Elk River", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:51.78"
+        }, 
+        {
+            "name": "Rochester Century", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:51.78"
+        }, 
+        {
+            "name": "Wayzata 1:50.72", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:51.97"
+        }, 
+        {
+            "name": "Hopkins 1:51.35", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:52.34"
+        }, 
+        {
+            "name": "Prior Lake", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:52.75"
+        }, 
+        {
+            "name": "Rochester Mayo", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:53.06"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "Stillwater 3:27.80", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:27.64"
+        }, 
+        {
+            "name": "Minnetonka 3:31.89", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:29.64"
+        }, 
+        {
+            "name": "Wayzata 3:31.65", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:30.36"
+        }, 
+        {
+            "name": "Maple Grove", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:30.50"
+        }, 
+        {
+            "name": "Edina 3:34.58", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:31.78"
+        }, 
+        {
+            "name": "Woodbury 3:33.70", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:32.59"
+        }, 
+        {
+            "name": "Cretin-Derham Hall", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:34.11"
+        }, 
+        {
+            "name": "Robbinsdale Armstrong", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:34.84"
+        }, 
+        {
+            "name": "Eden Prairie", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:35.08"
+        }, 
+        {
+            "name": "Lakeville North", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:38.46"
+        }, 
+        {
+            "name": "Prior Lake", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:39.57"
+        }, 
+        {
+            "name": "Burnsville 3:39.44", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:40.23"
+        }, 
+        {
+            "name": "Elk River", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:40.72"
+        }, 
+        {
+            "name": "Bloomington Jefferson", 
+            "pos": "15", 
+            "school": "", 
+            "time": "3:41.34"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "Kiera Janzen", 
+            "pos": "1", 
+            "school": "C-D Hall", 
+            "time": "4:50.73"
+        }, 
+        {
+            "name": "Kaela Anderson", 
+            "pos": "2", 
+            "school": "STIL", 
+            "time": "4:51.88"
+        }, 
+        {
+            "name": "Emily Blasko", 
+            "pos": "3", 
+            "school": "Robb Armstron", 
+            "time": "5:00.14"
+        }, 
+        {
+            "name": "Molly Mason", 
+            "pos": "4", 
+            "school": "Minnetonka", 
+            "time": "5:03.49"
+        }, 
+        {
+            "name": "Elaine Boosalis", 
+            "pos": "5", 
+            "school": "Maple Grove", 
+            "time": "5:04.53"
+        }, 
+        {
+            "name": "Sarah Deis", 
+            "pos": "6", 
+            "school": "Wayzata", 
+            "time": "5:06.40"
+        }, 
+        {
+            "name": "Morgan Lynch", 
+            "pos": "7", 
+            "school": "Elk River", 
+            "time": "5:06.66"
+        }, 
+        {
+            "name": "Elizabeth Kleiner", 
+            "pos": "8", 
+            "school": "Lakeville No", 
+            "time": "5:06.98"
+        }, 
+        {
+            "name": "Amelia Schilling", 
+            "pos": "9", 
+            "school": "Minnetonka", 
+            "time": "5:04.86"
+        }, 
+        {
+            "name": "Kira Zubar", 
+            "pos": "10", 
+            "school": "Eden Prairie", 
+            "time": "5:04.88"
+        }, 
+        {
+            "name": "Emma Gaulke-Janows", 
+            "pos": "11", 
+            "school": "Chaska/Chan", 
+            "time": "5:09.62"
+        }, 
+        {
+            "name": "Christen Young", 
+            "pos": "12", 
+            "school": "Lakeville No", 
+            "time": "5:11.16"
+        }, 
+        {
+            "name": "Erica Bucki", 
+            "pos": "13", 
+            "school": "Eagan", 
+            "time": "5:12.33"
+        }, 
+        {
+            "name": "Cassie Kimmes", 
+            "pos": "14", 
+            "school": "Hastings", 
+            "time": "5:12.35"
+        }, 
+        {
+            "name": "Ellie Suek", 
+            "pos": "15", 
+            "school": "Eden Prairie", 
+            "time": "5:12.60"
+        }, 
+        {
+            "name": "Kelsey Griffin", 
+            "pos": "16", 
+            "school": "Burnsville", 
+            "time": "5:12.70"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "Hannah Bowen", 
+            "pos": "1", 
+            "school": "STIL", 
+            "time": "22.76"
+        }, 
+        {
+            "name": "Tess Behrens", 
+            "pos": "2", 
+            "school": "Maple Grove", 
+            "time": "23.52"
+        }, 
+        {
+            "name": "Britta Sortland", 
+            "pos": "3", 
+            "school": "Woodbury", 
+            "time": "23.82"
+        }, 
+        {
+            "name": "Heather Arseth", 
+            "pos": "4", 
+            "school": "Wayzata", 
+            "time": "23.95"
+        }, 
+        {
+            "name": "Meghan Cummings", 
+            "pos": "5", 
+            "school": "Eden Prairie", 
+            "time": "23.96"
+        }, 
+        {
+            "name": "Brita Skalbeck", 
+            "pos": "6", 
+            "school": "Hopkins", 
+            "time": "24.31"
+        }, 
+        {
+            "name": "Emily DeVore", 
+            "pos": "7", 
+            "school": "Buffalo", 
+            "time": "24.40"
+        }, 
+        {
+            "name": "Monica Radecke", 
+            "pos": "8", 
+            "school": "STIL", 
+            "time": "24.43"
+        }, 
+        {
+            "name": "Allison Schumacher", 
+            "pos": "9", 
+            "school": "RochJMarshall", 
+            "time": "24.38"
+        }, 
+        {
+            "name": "MacKenzie Brosnaha", 
+            "pos": "10", 
+            "school": "Winona", 
+            "time": "24.39"
+        }, 
+        {
+            "name": "Jenny Einhorn", 
+            "pos": "11", 
+            "school": "Minnetonka", 
+            "time": "24.40"
+        }, 
+        {
+            "name": "Katie Olson", 
+            "pos": "12", 
+            "school": "View", 
+            "time": "24.54"
+        }, 
+        {
+            "name": "Mary Van", 
+            "pos": "13", 
+            "school": "12 Edina", 
+            "time": "24.56"
+        }, 
+        {
+            "name": "Nicole Grimit", 
+            "pos": "14", 
+            "school": "St Cloud Tech", 
+            "time": "24.62"
+        }, 
+        {
+            "name": "Melissa McMahon", 
+            "pos": "15", 
+            "school": "Lakeville So", 
+            "time": "24.96"
+        }, 
+        {
+            "name": "Steph Bierman", 
+            "pos": "16", 
+            "school": "Apple Valley", 
+            "time": "25.10"
+        }
+    ]
+}

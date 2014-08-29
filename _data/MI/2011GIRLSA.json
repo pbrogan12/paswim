@@ -1,0 +1,1142 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "Caley Oquist", 
+            "pos": "1", 
+            "school": "Monticello", 
+            "time": "55.35#"
+        }, 
+        {
+            "name": "Ellen Bloom", 
+            "pos": "2", 
+            "school": "Sart St Steph", 
+            "time": "57.54"
+        }, 
+        {
+            "name": "Kaylee Kucera", 
+            "pos": "3", 
+            "school": "Hutchinson", 
+            "time": "59.24"
+        }, 
+        {
+            "name": "Ashley Lager", 
+            "pos": "4", 
+            "school": "St. Peter", 
+            "time": "1:00.13"
+        }, 
+        {
+            "name": "Maggie Smith", 
+            "pos": "5", 
+            "school": "Mahtomedi", 
+            "time": "1:00.27"
+        }, 
+        {
+            "name": "Anna Jensen", 
+            "pos": "6", 
+            "school": "Monticello", 
+            "time": "1:00.32"
+        }, 
+        {
+            "name": "Hannah Hein", 
+            "pos": "7", 
+            "school": "St Louis Park", 
+            "time": "1:00.78"
+        }, 
+        {
+            "name": "Marissa Warren", 
+            "pos": "8", 
+            "school": "Litchfield", 
+            "time": "1:02.97"
+        }, 
+        {
+            "name": "Abby Fisher", 
+            "pos": "9", 
+            "school": "Fergus Falls", 
+            "time": "1:02.35"
+        }, 
+        {
+            "name": "Taylor Ondracek", 
+            "pos": "10", 
+            "school": "Park Rapds Ar", 
+            "time": "1:02.79"
+        }, 
+        {
+            "name": "Casie Carlson", 
+            "pos": "11", 
+            "school": "Hutchinson", 
+            "time": "1:02.99"
+        }, 
+        {
+            "name": "Michelle Porter", 
+            "pos": "12", 
+            "school": "Sauk Centre", 
+            "time": "1:03.25"
+        }, 
+        {
+            "name": "Amanda Bean", 
+            "pos": "13", 
+            "school": "Chisago Lakes", 
+            "time": "1:03.36"
+        }, 
+        {
+            "name": "Takina Kindle", 
+            "pos": "14", 
+            "school": "Breck School", 
+            "time": "1:03.38"
+        }, 
+        {
+            "name": "Madison Winston", 
+            "pos": "15", 
+            "school": "Benild-St Mar", 
+            "time": "1:03.71"
+        }, 
+        {
+            "name": "Brooke Johnson", 
+            "pos": "16", 
+            "school": "Austin", 
+            "time": "1:04.13"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "Kathryn Ostrom", 
+            "pos": "1", 
+            "school": "St Louis Park", 
+            "time": "1:05.53"
+        }, 
+        {
+            "name": "Megan Gaylord", 
+            "pos": "2", 
+            "school": "Visitation", 
+            "time": "1:07.22"
+        }, 
+        {
+            "name": "Steph Frey", 
+            "pos": "3", 
+            "school": "Bemidji", 
+            "time": "1:07.48"
+        }, 
+        {
+            "name": "Heather Rothstein", 
+            "pos": "4", 
+            "school": "Hutchinson", 
+            "time": "1:07.49"
+        }, 
+        {
+            "name": "Naja Harvey", 
+            "pos": "5", 
+            "school": "Orono", 
+            "time": "1:07.52"
+        }, 
+        {
+            "name": "Abby Rasmussen", 
+            "pos": "6", 
+            "school": "SaukRapidsRic", 
+            "time": "1:07.78"
+        }, 
+        {
+            "name": "Andrea Yechout", 
+            "pos": "7", 
+            "school": "Mahtomedi", 
+            "time": "1:08.30"
+        }, 
+        {
+            "name": "Laine Higgins", 
+            "pos": "8", 
+            "school": "BlakeSchool", 
+            "time": "1:08.47"
+        }, 
+        {
+            "name": "Lindsey Horejsi", 
+            "pos": "9", 
+            "school": "Albert Lea", 
+            "time": "1:07.98"
+        }, 
+        {
+            "name": "Kasey Roberts", 
+            "pos": "10", 
+            "school": "St. Michael-Alb.", 
+            "time": "1:08.16"
+        }, 
+        {
+            "name": "Emmi Zheng", 
+            "pos": "11", 
+            "school": "St Louis Park", 
+            "time": "1:08.76"
+        }, 
+        {
+            "name": "Bailey Brown", 
+            "pos": "12", 
+            "school": "Visitation", 
+            "time": "1:09.39"
+        }, 
+        {
+            "name": "Victoria Tormanen", 
+            "pos": "13", 
+            "school": "Dassel-Cokato", 
+            "time": "1:09.44"
+        }, 
+        {
+            "name": "Tarin Anding", 
+            "pos": "14", 
+            "school": "Sart St Steph", 
+            "time": "1:09.52"
+        }, 
+        {
+            "name": "Kieran Bender", 
+            "pos": "15", 
+            "school": "Monticello", 
+            "time": "1:10.65"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "Melissa Paakh", 
+            "pos": "1", 
+            "school": "Detroit Lakes", 
+            "time": "56.38"
+        }, 
+        {
+            "name": "Audrey Kumm", 
+            "pos": "2", 
+            "school": "Hutchinson", 
+            "time": "56.51"
+        }, 
+        {
+            "name": "Marcela Sanchez-Aizcorbe", 
+            "pos": "3", 
+            "school": "Marshall", 
+            "time": "56.88"
+        }, 
+        {
+            "name": "Kaylee Kucera", 
+            "pos": "4", 
+            "school": "Hutchinson", 
+            "time": "58.16"
+        }, 
+        {
+            "name": "Marissa Warren", 
+            "pos": "5", 
+            "school": "Litchfield", 
+            "time": "58.28"
+        }, 
+        {
+            "name": "Maddy Holker", 
+            "pos": "6", 
+            "school": "Breck School", 
+            "time": "58.49"
+        }, 
+        {
+            "name": "Emily Anderson", 
+            "pos": "7", 
+            "school": "Northfield", 
+            "time": "1:00.37"
+        }, 
+        {
+            "name": "Emma Koller", 
+            "pos": "8", 
+            "school": "Hill-MurraySc", 
+            "time": "1:01.08"
+        }, 
+        {
+            "name": "Haley Cassens", 
+            "pos": "9", 
+            "school": "Hutchinson", 
+            "time": "1:00.19"
+        }, 
+        {
+            "name": "Meg Foster", 
+            "pos": "10", 
+            "school": "Visitation", 
+            "time": "1:01.06"
+        }, 
+        {
+            "name": "Susie Kitzman", 
+            "pos": "11", 
+            "school": "Fergus Falls", 
+            "time": "1:01.47"
+        }, 
+        {
+            "name": "Paige Anderson", 
+            "pos": "12", 
+            "school": "Monticello", 
+            "time": "1:01.69"
+        }, 
+        {
+            "name": "Kristina Lindquist", 
+            "pos": "13", 
+            "school": "Monticello", 
+            "time": "1:01.76"
+        }, 
+        {
+            "name": "Averi Splinter", 
+            "pos": "14", 
+            "school": "Austin", 
+            "time": "1:02.41"
+        }, 
+        {
+            "name": "Riele Short", 
+            "pos": "15", 
+            "school": "BlakeSchool", 
+            "time": "1:02.50"
+        }, 
+        {
+            "name": "Sutton Higgins", 
+            "pos": "16", 
+            "school": "BlakeSchool", 
+            "time": "1:03.31"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "Heidi Busack", 
+            "pos": "1", 
+            "school": "Fergus Falls", 
+            "time": "50.56#"
+        }, 
+        {
+            "name": "Whitney Weisz", 
+            "pos": "2", 
+            "school": "Little Falls", 
+            "time": "51.73"
+        }, 
+        {
+            "name": "Amanda Paulson", 
+            "pos": "3", 
+            "school": "Monticello", 
+            "time": "51.81"
+        }, 
+        {
+            "name": "Solveig Viren", 
+            "pos": "4", 
+            "school": "Grand Rapids", 
+            "time": "52.34"
+        }, 
+        {
+            "name": "Chandra Yueh", 
+            "pos": "5", 
+            "school": "Breck School", 
+            "time": "52.69"
+        }, 
+        {
+            "name": "Abbey Schnaith", 
+            "pos": "6", 
+            "school": "Red Wing", 
+            "time": "53.57"
+        }, 
+        {
+            "name": "Elizabeth Moline", 
+            "pos": "7", 
+            "school": "SaukRapidsRic", 
+            "time": "53.74"
+        }, 
+        {
+            "name": "Tarin Anding", 
+            "pos": "8", 
+            "school": "Sart St Steph", 
+            "time": "53.82"
+        }, 
+        {
+            "name": "Kaitlin Kamm", 
+            "pos": "9", 
+            "school": "St. Peter", 
+            "time": "53.57"
+        }, 
+        {
+            "name": "Marla Thomforde", 
+            "pos": "10", 
+            "school": "Northfield", 
+            "time": "53.74"
+        }, 
+        {
+            "name": "Rebecca Lauer", 
+            "pos": "11", 
+            "school": "Hutchinson", 
+            "time": "54.47"
+        }, 
+        {
+            "name": "Katie Cook", 
+            "pos": "12", 
+            "school": "SaukRapidsRic", 
+            "time": "54.55"
+        }, 
+        {
+            "name": "Emily Egge", 
+            "pos": "13", 
+            "school": "Benild-St Mar", 
+            "time": "54.60"
+        }, 
+        {
+            "name": "Catherine Cole", 
+            "pos": "14", 
+            "school": "Benild-St Mar", 
+            "time": "54.73"
+        }, 
+        {
+            "name": "Kiah Dahlquist", 
+            "pos": "15", 
+            "school": "Foley", 
+            "time": "55.00"
+        }, 
+        {
+            "name": "Maddie Lee", 
+            "pos": "16", 
+            "school": "Hill-MurraySc", 
+            "time": "55.16"
+        }
+    ], 
+    "1mtrDiving": [
+        {
+            "name": "Michole Timm", 
+            "pos": "1", 
+            "school": "SaukRapidsRic", 
+            "time": "438.75"
+        }, 
+        {
+            "name": "Tori Raihle", 
+            "pos": "2", 
+            "school": "SpringLkPark", 
+            "time": "414.50"
+        }, 
+        {
+            "name": "Alissa Lager", 
+            "pos": "3", 
+            "school": "St. Peter", 
+            "time": "362.15"
+        }, 
+        {
+            "name": "Kelsey Metz", 
+            "pos": "4", 
+            "school": "Richfield", 
+            "time": "349.45"
+        }, 
+        {
+            "name": "Karli Kriewall", 
+            "pos": "5", 
+            "school": "Albert Lea", 
+            "time": "342.65"
+        }, 
+        {
+            "name": "Bailey Dupay", 
+            "pos": "6", 
+            "school": "Northfield", 
+            "time": "332.55"
+        }, 
+        {
+            "name": "Chelsey Bethke", 
+            "pos": "7", 
+            "school": "SaukRapidsRic", 
+            "time": "322.70"
+        }, 
+        {
+            "name": "Kristi Rasmussen", 
+            "pos": "8", 
+            "school": "Northfield", 
+            "time": "317.65"
+        }, 
+        {
+            "name": "Morgan Kingston", 
+            "pos": "9", 
+            "school": "MelroseArea", 
+            "time": "314.40"
+        }, 
+        {
+            "name": "Samantha Thomsen", 
+            "pos": "10", 
+            "school": "Chisago Lakes", 
+            "time": "306.20"
+        }, 
+        {
+            "name": "Krista Erickson", 
+            "pos": "11", 
+            "school": "St. Michael-Alb.", 
+            "time": "302.30"
+        }, 
+        {
+            "name": "Courtney Miller", 
+            "pos": "12", 
+            "school": "Richfield", 
+            "time": "292.65"
+        }, 
+        {
+            "name": "Kyley Foster", 
+            "pos": "13", 
+            "school": "Detroit Lakes", 
+            "time": "283.20"
+        }, 
+        {
+            "name": "Kayla Colden", 
+            "pos": "14", 
+            "school": "Warroad/Roseau", 
+            "time": "280.45"
+        }, 
+        {
+            "name": "Emily McIntire", 
+            "pos": "15", 
+            "school": "Sart St Steph", 
+            "time": "273.80"
+        }, 
+        {
+            "name": "Megan Mattson", 
+            "pos": "16", 
+            "school": "Breck School", 
+            "time": "267.40"
+        }
+    ], 
+    "200YardFreestyle": [
+        {
+            "name": "Marisa Wood", 
+            "pos": "1", 
+            "school": "Sart St Steph", 
+            "time": "1:49.69#"
+        }, 
+        {
+            "name": "Danielle Nack", 
+            "pos": "2", 
+            "school": "Mankato West", 
+            "time": "1:51.16"
+        }, 
+        {
+            "name": "Ashley Drazkowski", 
+            "pos": "3", 
+            "school": "Monticello", 
+            "time": "1:53.08"
+        }, 
+        {
+            "name": "Brogan Lee", 
+            "pos": "4", 
+            "school": "Chisago Lakes", 
+            "time": "1:55.22"
+        }, 
+        {
+            "name": "Mackenzie Braden", 
+            "pos": "5", 
+            "school": "Holy Family", 
+            "time": "1:55.76"
+        }, 
+        {
+            "name": "Marcela Sanchez-Aizcorbe", 
+            "pos": "6", 
+            "school": "Marshall", 
+            "time": "1:55.78"
+        }, 
+        {
+            "name": "Steph Frey", 
+            "pos": "7", 
+            "school": "Bemidji", 
+            "time": "1:56.04"
+        }, 
+        {
+            "name": "McKenna Jones", 
+            "pos": "8", 
+            "school": "Northfield", 
+            "time": "1:56.30"
+        }, 
+        {
+            "name": "Maddy Holker", 
+            "pos": "9", 
+            "school": "Breck School", 
+            "time": "1:57.36"
+        }, 
+        {
+            "name": "Thomasin Lee", 
+            "pos": "10", 
+            "school": "Chisago Lakes", 
+            "time": "1:57.70"
+        }, 
+        {
+            "name": "Katie Schmitz", 
+            "pos": "11", 
+            "school": "St. Michael-Alb.", 
+            "time": "1:57.87"
+        }, 
+        {
+            "name": "Emily Anderson", 
+            "pos": "12", 
+            "school": "Mahtomedi", 
+            "time": "1:58.68"
+        }, 
+        {
+            "name": "Emily Egge", 
+            "pos": "13", 
+            "school": "Benild-St Mar", 
+            "time": "2:00.30"
+        }, 
+        {
+            "name": "Amanda Semler", 
+            "pos": "14", 
+            "school": "Benild-St Mar", 
+            "time": "2:00.45"
+        }, 
+        {
+            "name": "Taylor Pehrson", 
+            "pos": "15", 
+            "school": "St. Michael-Alb.", 
+            "time": "2:00.49"
+        }, 
+        {
+            "name": "Emma Koller", 
+            "pos": "16", 
+            "school": "Hill-MurraySc", 
+            "time": "2:01.22"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "Sartell-St. Stephen", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:37.41"
+        }, 
+        {
+            "name": "Northfield 1:38.74", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:37.69"
+        }, 
+        {
+            "name": "Hutchinson Tigers", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:38.50"
+        }, 
+        {
+            "name": "Visitation, Mendota", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:39.27"
+        }, 
+        {
+            "name": "Mankato West", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:39.80"
+        }, 
+        {
+            "name": "St. Peter", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:40.52"
+        }, 
+        {
+            "name": "Breck School,", 
+            "pos": "7", 
+            "school": "Valley", 
+            "time": "1:40.70"
+        }, 
+        {
+            "name": "Benilde-St.Margaret's, St.", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:40.82"
+        }, 
+        {
+            "name": "Marshall 1:41.53", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:41.79"
+        }, 
+        {
+            "name": "St. Michael-Albertville", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:42.68"
+        }, 
+        {
+            "name": "Fergus Falls", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:42.81"
+        }, 
+        {
+            "name": "Chisago Lakes", 
+            "pos": "13", 
+            "school": "Lindstrom", 
+            "time": "1:43.24"
+        }, 
+        {
+            "name": "Orono 1:42.57", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:43.38"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "Caley Oquist", 
+            "pos": "1", 
+            "school": "Monticello", 
+            "time": "2:03.65#"
+        }, 
+        {
+            "name": "Audrey Kumm", 
+            "pos": "2", 
+            "school": "Hutchinson", 
+            "time": "2:06.29"
+        }, 
+        {
+            "name": "Ellen Bloom", 
+            "pos": "3", 
+            "school": "Sart St Steph", 
+            "time": "2:08.61"
+        }, 
+        {
+            "name": "Melissa Paakh", 
+            "pos": "4", 
+            "school": "Detroit Lakes", 
+            "time": "2:11.00"
+        }, 
+        {
+            "name": "Abby Erdmann", 
+            "pos": "5", 
+            "school": "Breck School", 
+            "time": "2:11.19"
+        }, 
+        {
+            "name": "Kasey Roberts", 
+            "pos": "6", 
+            "school": "St. Michael-Alb.", 
+            "time": "2:11.57"
+        }, 
+        {
+            "name": "Sarah Pospisil", 
+            "pos": "7", 
+            "school": "Richfield", 
+            "time": "2:12.58"
+        }, 
+        {
+            "name": "Laine Higgins", 
+            "pos": "8", 
+            "school": "BlakeSchool", 
+            "time": "2:13.98"
+        }, 
+        {
+            "name": "Megan Gaylord", 
+            "pos": "9", 
+            "school": "Visitation", 
+            "time": "2:13.01"
+        }, 
+        {
+            "name": "Meg Foster", 
+            "pos": "10", 
+            "school": "Visitation", 
+            "time": "2:13.36"
+        }, 
+        {
+            "name": "Kathryn Ostrom", 
+            "pos": "11", 
+            "school": "St Louis Park", 
+            "time": "2:13.89"
+        }, 
+        {
+            "name": "Maddy Pesch", 
+            "pos": "12", 
+            "school": "SC Cath/SJP", 
+            "time": "2:14.77"
+        }, 
+        {
+            "name": "Heather Rothstein", 
+            "pos": "13", 
+            "school": "Hutchinson", 
+            "time": "2:15.23"
+        }, 
+        {
+            "name": "Rebecca Miller", 
+            "pos": "14", 
+            "school": "St. Cloud Apol", 
+            "time": "2:16.12"
+        }, 
+        {
+            "name": "Maggie Smith", 
+            "pos": "15", 
+            "school": "Mahtomedi", 
+            "time": "2:16.18"
+        }, 
+        {
+            "name": "Maddie Lee", 
+            "pos": "16", 
+            "school": "Hill-MurraySc", 
+            "time": "2:16.26"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "Monticello 1:48.50", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:46.68#"
+        }, 
+        {
+            "name": "Hutchinson Tigers", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:47.71"
+        }, 
+        {
+            "name": "Fergus Falls", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:49.89"
+        }, 
+        {
+            "name": "Sartell-St. Stephen", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:50.61"
+        }, 
+        {
+            "name": "Breck School,", 
+            "pos": "5", 
+            "school": "Valley", 
+            "time": "1:52.17"
+        }, 
+        {
+            "name": "Austin 1:53.03", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:53.36"
+        }, 
+        {
+            "name": "St. Louis", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:54.31"
+        }, 
+        {
+            "name": "Northfield 1:53.88", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:54.38"
+        }, 
+        {
+            "name": "Orono 1:54.74", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:54.88"
+        }, 
+        {
+            "name": "St. Peter", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:54.96"
+        }, 
+        {
+            "name": "Hibbing 1:54.70", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:55.60"
+        }, 
+        {
+            "name": "Benilde-St.Margaret's, St.", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:55.81"
+        }, 
+        {
+            "name": "Litchfield 1:54.70", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:56.04"
+        }, 
+        {
+            "name": "Big Lake", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:56.82"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "Hutchinson Tigers", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:30.44#"
+        }, 
+        {
+            "name": "Monticello 3:37.26", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:31.19#"
+        }, 
+        {
+            "name": "Sartell-St. Stephen", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:33.30"
+        }, 
+        {
+            "name": "Visitation, Mendota", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:38.78"
+        }, 
+        {
+            "name": "The Blake", 
+            "pos": "5", 
+            "school": "Minneapolis", 
+            "time": "3:38.84"
+        }, 
+        {
+            "name": "Fergus Falls", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:38.92"
+        }, 
+        {
+            "name": "Breck School,", 
+            "pos": "7", 
+            "school": "Valley", 
+            "time": "3:40.37"
+        }, 
+        {
+            "name": "Mankato West", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:42.04"
+        }, 
+        {
+            "name": "Northfield 3:42.37", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:41.90"
+        }, 
+        {
+            "name": "St. Michael-Albertville", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:42.60"
+        }, 
+        {
+            "name": "Marshall 3:42.97", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:45.21"
+        }, 
+        {
+            "name": "Foley 3:45.07", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:45.41"
+        }, 
+        {
+            "name": "St. Cloud", 
+            "pos": "13", 
+            "school": "Johns", 
+            "time": "3:46.10"
+        }, 
+        {
+            "name": "St. Louis", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:46.74"
+        }, 
+        {
+            "name": "Orono 3:48.11", 
+            "pos": "15", 
+            "school": "", 
+            "time": "3:47.13"
+        }, 
+        {
+            "name": "Chisago Lakes", 
+            "pos": "16", 
+            "school": "Lindstrom", 
+            "time": "3:48.63"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "Marisa Wood", 
+            "pos": "1", 
+            "school": "Sart St Steph", 
+            "time": "4:55.44#"
+        }, 
+        {
+            "name": "Danielle Nack", 
+            "pos": "2", 
+            "school": "Mankato West", 
+            "time": "4:58.82"
+        }, 
+        {
+            "name": "Brogan Lee", 
+            "pos": "3", 
+            "school": "Chisago Lakes", 
+            "time": "4:59.42"
+        }, 
+        {
+            "name": "Ashley Drazkowski", 
+            "pos": "4", 
+            "school": "Monticello", 
+            "time": "5:04.76"
+        }, 
+        {
+            "name": "Abby Erdmann", 
+            "pos": "5", 
+            "school": "Breck School", 
+            "time": "5:07.27"
+        }, 
+        {
+            "name": "Mackenzie Braden", 
+            "pos": "6", 
+            "school": "Holy Family", 
+            "time": "5:11.20"
+        }, 
+        {
+            "name": "Thomasin Lee", 
+            "pos": "7", 
+            "school": "Chisago Lakes", 
+            "time": "5:12.36"
+        }, 
+        {
+            "name": "Taylor Pehrson", 
+            "pos": "8", 
+            "school": "St. Michael-Alb.", 
+            "time": "5:16.78"
+        }, 
+        {
+            "name": "McKenna Jones", 
+            "pos": "9", 
+            "school": "Northfield", 
+            "time": "5:10.95"
+        }, 
+        {
+            "name": "Katie Schmitz", 
+            "pos": "10", 
+            "school": "St. Michael-Alb.", 
+            "time": "5:16.38"
+        }, 
+        {
+            "name": "McKenzie Vermeire", 
+            "pos": "11", 
+            "school": "Marshall", 
+            "time": "5:18.21"
+        }, 
+        {
+            "name": "Emily Anderson", 
+            "pos": "12", 
+            "school": "Mahtomedi", 
+            "time": "5:18.74"
+        }, 
+        {
+            "name": "Mackenzie Maki", 
+            "pos": "13", 
+            "school": "Orono", 
+            "time": "5:21.93"
+        }, 
+        {
+            "name": "Kylie Vermeire", 
+            "pos": "14", 
+            "school": "Marshall", 
+            "time": "5:23.24"
+        }, 
+        {
+            "name": "Amanda Semler", 
+            "pos": "15", 
+            "school": "Benild-St Mar", 
+            "time": "5:26.62"
+        }, 
+        {
+            "name": "Sidney Fairbrother", 
+            "pos": "16", 
+            "school": "Orono", 
+            "time": "5:26.93"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "Amanda Paulson", 
+            "pos": "1", 
+            "school": "Monticello", 
+            "time": "22.97#"
+        }, 
+        {
+            "name": "Heidi Busack", 
+            "pos": "2", 
+            "school": "Fergus Falls", 
+            "time": "23.10"
+        }, 
+        {
+            "name": "Kaitlin Kamm", 
+            "pos": "3", 
+            "school": "St. Peter", 
+            "time": "23.89"
+        }, 
+        {
+            "name": "Solveig Viren", 
+            "pos": "4", 
+            "school": "Grand Rapids", 
+            "time": "23.91"
+        }, 
+        {
+            "name": "Abbey Schnaith", 
+            "pos": "5", 
+            "school": "Red Wing", 
+            "time": "24.06"
+        }, 
+        {
+            "name": "Whitney Weisz", 
+            "pos": "6", 
+            "school": "Little Falls", 
+            "time": "24.11"
+        }, 
+        {
+            "name": "Elizabeth Moline", 
+            "pos": "7", 
+            "school": "SaukRapidsRic", 
+            "time": "24.42"
+        }, 
+        {
+            "name": "Rosey Erickson", 
+            "pos": "8", 
+            "school": "Alexandria", 
+            "time": "24.43"
+        }, 
+        {
+            "name": "Chandra Yueh", 
+            "pos": "9", 
+            "school": "Breck School", 
+            "time": "24.51"
+        }, 
+        {
+            "name": "Marla Thomforde", 
+            "pos": "10", 
+            "school": "Northfield", 
+            "time": "24.66"
+        }, 
+        {
+            "name": "Sutton Higgins", 
+            "pos": "11", 
+            "school": "BlakeSchool", 
+            "time": "24.81"
+        }, 
+        {
+            "name": "Naja Harvey", 
+            "pos": "12", 
+            "school": "Orono", 
+            "time": "24.87"
+        }, 
+        {
+            "name": "Kiah Dahlquist", 
+            "pos": "13", 
+            "school": "Foley", 
+            "time": "24.94"
+        }, 
+        {
+            "name": "Katie Cook", 
+            "pos": "14", 
+            "school": "SaukRapidsRic", 
+            "time": "25.06"
+        }, 
+        {
+            "name": "Rebecca Lauer", 
+            "pos": "15", 
+            "school": "Hutchinson", 
+            "time": "25.23"
+        }, 
+        {
+            "name": "Takina Kindle", 
+            "pos": "16", 
+            "school": "Breck School", 
+            "time": "25.24"
+        }
+    ]
+}

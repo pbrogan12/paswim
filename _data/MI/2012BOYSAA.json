@@ -1,0 +1,1172 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "Noah Busch", 
+            "pos": "1", 
+            "school": "Minnetonka", 
+            "time": "50.44"
+        }, 
+        {
+            "name": "Kyle Robrock", 
+            "pos": "2", 
+            "school": "Prior Lake", 
+            "time": "50.60"
+        }, 
+        {
+            "name": "Braden McCormack", 
+            "pos": "3", 
+            "school": "Rosemount", 
+            "time": "51.46"
+        }, 
+        {
+            "name": "Sean Wegerson", 
+            "pos": "4", 
+            "school": "Maple Grove", 
+            "time": "52.10"
+        }, 
+        {
+            "name": "Nikita Dolin", 
+            "pos": "5", 
+            "school": "Roch Century", 
+            "time": "52.60"
+        }, 
+        {
+            "name": "Dan Bielski", 
+            "pos": "6", 
+            "school": "Minnetonka", 
+            "time": "52.63"
+        }, 
+        {
+            "name": "Alex Jenness", 
+            "pos": "7", 
+            "school": "Prior Lake", 
+            "time": "52.79"
+        }, 
+        {
+            "name": "Austin Davidson", 
+            "pos": "8", 
+            "school": "East Ridge", 
+            "time": "53.24"
+        }, 
+        {
+            "name": "Sam Hansen", 
+            "pos": "9", 
+            "school": "Eden Prairie", 
+            "time": "53.05"
+        }, 
+        {
+            "name": "Jackson Lindell", 
+            "pos": "10", 
+            "school": "Edina", 
+            "time": "53.40"
+        }, 
+        {
+            "name": "Tristan Plante", 
+            "pos": "11", 
+            "school": "Maple Grove", 
+            "time": "53.64"
+        }, 
+        {
+            "name": "Aaron Schwab", 
+            "pos": "12", 
+            "school": "Elk River", 
+            "time": "53.66"
+        }, 
+        {
+            "name": "Ryan Young", 
+            "pos": "13", 
+            "school": "Lakeville No", 
+            "time": "54.59"
+        }, 
+        {
+            "name": "Charlie Kollasch", 
+            "pos": "14", 
+            "school": "Burnsville", 
+            "time": "54.65"
+        }, 
+        {
+            "name": "Matthew McCormack", 
+            "pos": "15", 
+            "school": "Rosemount", 
+            "time": "54.80"
+        }, 
+        {
+            "name": "Dima Foster", 
+            "pos": "16", 
+            "school": "Eden Prairie", 
+            "time": "54.98"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "Jacob Stern", 
+            "pos": "1", 
+            "school": "Rosemount", 
+            "time": "57.46"
+        }, 
+        {
+            "name": "Ben Albert", 
+            "pos": "2", 
+            "school": "Burnsville", 
+            "time": "58.46"
+        }, 
+        {
+            "name": "Kendall Dunn", 
+            "pos": "3", 
+            "school": "Minnetonka", 
+            "time": "58.75"
+        }, 
+        {
+            "name": "Kirk Youngdahl", 
+            "pos": "4", 
+            "school": "Maple Grove", 
+            "time": "59.22"
+        }, 
+        {
+            "name": "Cody Erickson", 
+            "pos": "5", 
+            "school": "Mounds View", 
+            "time": "1:00.20"
+        }, 
+        {
+            "name": "Taylor Dubois", 
+            "pos": "6", 
+            "school": "Anoka", 
+            "time": "1:00.71"
+        }, 
+        {
+            "name": "Griffin Back", 
+            "pos": "6", 
+            "school": "Eden Prairie", 
+            "time": "1:00.71"
+        }, 
+        {
+            "name": "Corey Lau", 
+            "pos": "8", 
+            "school": "Hopkins", 
+            "time": "1:01.31"
+        }, 
+        {
+            "name": "Ryan Thompson", 
+            "pos": "9", 
+            "school": "Eastview", 
+            "time": "59.95"
+        }, 
+        {
+            "name": "Eric Schuld", 
+            "pos": "10", 
+            "school": "Cre-Der Hall", 
+            "time": "1:01.16"
+        }, 
+        {
+            "name": "Brenner Hohenstein", 
+            "pos": "11", 
+            "school": "Maple Grove", 
+            "time": "1:01.20"
+        }, 
+        {
+            "name": "Erik Rehnberg", 
+            "pos": "12", 
+            "school": "Edina", 
+            "time": "1:01.21"
+        }, 
+        {
+            "name": "Andrew Petersen", 
+            "pos": "13", 
+            "school": "Edina", 
+            "time": "1:02.01"
+        }, 
+        {
+            "name": "Joe Vecchi", 
+            "pos": "14", 
+            "school": "East", 
+            "time": "1:02.02"
+        }, 
+        {
+            "name": "Justin Kong", 
+            "pos": "15", 
+            "school": "East Ridge", 
+            "time": "1:03.52"
+        }, 
+        {
+            "name": "Ian Conery", 
+            "pos": "16", 
+            "school": "StPaul Centra", 
+            "time": "1:03.80"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "Maverick Hovey", 
+            "pos": "1", 
+            "school": "Eden Prairie", 
+            "time": "49.52"
+        }, 
+        {
+            "name": "Mike Lanz", 
+            "pos": "2", 
+            "school": "Maple Grove", 
+            "time": "50.09"
+        }, 
+        {
+            "name": "Bryce Boston", 
+            "pos": "3", 
+            "school": "Eden Prairie", 
+            "time": "50.44"
+        }, 
+        {
+            "name": "Matt Koken", 
+            "pos": "4", 
+            "school": "East Ridge", 
+            "time": "50.85"
+        }, 
+        {
+            "name": "Colby Smith", 
+            "pos": "5", 
+            "school": "Hastings", 
+            "time": "51.14"
+        }, 
+        {
+            "name": "Jenia Foster", 
+            "pos": "6", 
+            "school": "Eden Prairie", 
+            "time": "51.87"
+        }, 
+        {
+            "name": "Ben Pearthree", 
+            "pos": "7", 
+            "school": "Mpls Swest", 
+            "time": "52.29"
+        }, 
+        {
+            "name": "Marshall Heskin", 
+            "pos": "8", 
+            "school": "Prior Lake", 
+            "time": "52.34"
+        }, 
+        {
+            "name": "Mitch Lentz", 
+            "pos": "9", 
+            "school": "Edina", 
+            "time": "52.30"
+        }, 
+        {
+            "name": "Dan Bielski", 
+            "pos": "10", 
+            "school": "Minnetonka", 
+            "time": "52.45"
+        }, 
+        {
+            "name": "Luke Dowell", 
+            "pos": "11", 
+            "school": "Rosemount", 
+            "time": "52.57"
+        }, 
+        {
+            "name": "Michael Wegerson", 
+            "pos": "12", 
+            "school": "Maple Grove", 
+            "time": "52.79"
+        }, 
+        {
+            "name": "Jack Elliott", 
+            "pos": "13", 
+            "school": "Buffalo", 
+            "time": "52.87"
+        }, 
+        {
+            "name": "Christopher Carlstrom", 
+            "pos": "14", 
+            "school": "Wayzata", 
+            "time": "53.39"
+        }, 
+        {
+            "name": "Brett Weicht", 
+            "pos": "15", 
+            "school": "Edina", 
+            "time": "53.62"
+        }, 
+        {
+            "name": "Josh McKeag", 
+            "pos": "16", 
+            "school": "Brainerd", 
+            "time": "53.69"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "Aaron Greenberg", 
+            "pos": "1", 
+            "school": "Eden Prairie", 
+            "time": "45.65"
+        }, 
+        {
+            "name": "Noah Busch", 
+            "pos": "2", 
+            "school": "Minnetonka", 
+            "time": "46.12"
+        }, 
+        {
+            "name": "Kyle Robrock", 
+            "pos": "3", 
+            "school": "Prior Lake", 
+            "time": "46.24"
+        }, 
+        {
+            "name": "Victor Lugg", 
+            "pos": "4", 
+            "school": "Woodbury", 
+            "time": "46.57"
+        }, 
+        {
+            "name": "Tanner Nimke", 
+            "pos": "5", 
+            "school": "Roch JohnMrshall", 
+            "time": "46.71"
+        }, 
+        {
+            "name": "Mike Solfelt", 
+            "pos": "6", 
+            "school": "Eden Prairie", 
+            "time": "47.10"
+        }, 
+        {
+            "name": "Sheldon Hatlen", 
+            "pos": "7", 
+            "school": "Rosemount", 
+            "time": "47.21"
+        }, 
+        {
+            "name": "Sean Wegerson", 
+            "pos": "8", 
+            "school": "Maple Grove", 
+            "time": "47.36"
+        }, 
+        {
+            "name": "Vince Radecke", 
+            "pos": "9", 
+            "school": "Stillwater", 
+            "time": "47.31"
+        }, 
+        {
+            "name": "Forrest Benson", 
+            "pos": "10", 
+            "school": "Henry Sibley", 
+            "time": "47.44"
+        }, 
+        {
+            "name": "Jeffrey Nelson", 
+            "pos": "11", 
+            "school": "Maple Grove", 
+            "time": "47.65"
+        }, 
+        {
+            "name": "Paul Knaak", 
+            "pos": "12", 
+            "school": "Stillwater", 
+            "time": "47.91"
+        }, 
+        {
+            "name": "Tim O'Brien", 
+            "pos": "13", 
+            "school": "Cre-Der Hall", 
+            "time": "48.09"
+        }, 
+        {
+            "name": "Erik McCague", 
+            "pos": "13", 
+            "school": "St. Louis Park", 
+            "time": "48.09"
+        }, 
+        {
+            "name": "Andrew France", 
+            "pos": "15", 
+            "school": "Apple Valley", 
+            "time": "48.51"
+        }, 
+        {
+            "name": "Brandon Underwood", 
+            "pos": "16", 
+            "school": "Hastings", 
+            "time": "49.26"
+        }
+    ], 
+    "1mtrDiving": [
+        {
+            "name": "Sean Leverton", 
+            "pos": "1", 
+            "school": "Bengals", 
+            "time": "431.80"
+        }, 
+        {
+            "name": "Dustin Gens", 
+            "pos": "2", 
+            "school": "W-M/Wac/Del", 
+            "time": "406.55"
+        }, 
+        {
+            "name": "Dylan Zoe", 
+            "pos": "3", 
+            "school": "Eastview", 
+            "time": "380.05"
+        }, 
+        {
+            "name": "Wyatt Johnson", 
+            "pos": "4", 
+            "school": "Moorhead", 
+            "time": "365.75"
+        }, 
+        {
+            "name": "Evan Ostendorf", 
+            "pos": "5", 
+            "school": "Lakeville So", 
+            "time": "361.75"
+        }, 
+        {
+            "name": "Brent Verke", 
+            "pos": "6", 
+            "school": "Anoka", 
+            "time": "359.00"
+        }, 
+        {
+            "name": "Keith Krawza", 
+            "pos": "7", 
+            "school": "Eagan", 
+            "time": "357.30"
+        }, 
+        {
+            "name": "Michael Roane", 
+            "pos": "8", 
+            "school": "W-M/Wac/Del", 
+            "time": "342.15"
+        }, 
+        {
+            "name": "Max Mason", 
+            "pos": "9", 
+            "school": "Armstrong", 
+            "time": "341.80"
+        }, 
+        {
+            "name": "Toby Heller", 
+            "pos": "10", 
+            "school": "Eagan", 
+            "time": "336.15"
+        }, 
+        {
+            "name": "Caleb Zarns", 
+            "pos": "11", 
+            "school": "Wayzata", 
+            "time": "323.85"
+        }, 
+        {
+            "name": "Dan Karnick", 
+            "pos": "12", 
+            "school": "Winona", 
+            "time": "322.05"
+        }, 
+        {
+            "name": "Eric Mitchell", 
+            "pos": "13", 
+            "school": "Wayzata", 
+            "time": "318.35"
+        }, 
+        {
+            "name": "Patrick Quarberg", 
+            "pos": "14", 
+            "school": "Minnetonka", 
+            "time": "312.35"
+        }, 
+        {
+            "name": "Seth Murrey", 
+            "pos": "15", 
+            "school": "Brainerd", 
+            "time": "308.70"
+        }, 
+        {
+            "name": "Kyle Winkelman", 
+            "pos": "16", 
+            "school": "St. MichaelAlbe", 
+            "time": "299.95"
+        }
+    ], 
+    "200YardFreestyle": [
+        {
+            "name": "Noah Lucas", 
+            "pos": "1", 
+            "school": "Mounds View", 
+            "time": "1:39.89"
+        }, 
+        {
+            "name": "Maverick Hovey", 
+            "pos": "2", 
+            "school": "Eden Prairie", 
+            "time": "1:41.64"
+        }, 
+        {
+            "name": "Jonathan Lieberman", 
+            "pos": "3", 
+            "school": "Eden Prairie", 
+            "time": "1:41.86"
+        }, 
+        {
+            "name": "Matt Koken", 
+            "pos": "4", 
+            "school": "East Ridge", 
+            "time": "1:42.30"
+        }, 
+        {
+            "name": "Vince Radecke", 
+            "pos": "5", 
+            "school": "Stillwater", 
+            "time": "1:43.26"
+        }, 
+        {
+            "name": "Michael Wegerson", 
+            "pos": "6", 
+            "school": "Maple Grove", 
+            "time": "1:43.50"
+        }, 
+        {
+            "name": "Chris Tri", 
+            "pos": "7", 
+            "school": "Roch Century", 
+            "time": "1:43.66"
+        }, 
+        {
+            "name": "Mike Solfelt", 
+            "pos": "8", 
+            "school": "Eden Prairie", 
+            "time": "1:44.07"
+        }, 
+        {
+            "name": "Tim O'Brien", 
+            "pos": "9", 
+            "school": "Cre-Der Hall", 
+            "time": "1:44.42"
+        }, 
+        {
+            "name": "Mitch Herrera", 
+            "pos": "10", 
+            "school": "Lakeville So", 
+            "time": "1:45.22"
+        }, 
+        {
+            "name": "Danny Wojta", 
+            "pos": "11", 
+            "school": "StPaul Hp/Spa", 
+            "time": "1:45.23"
+        }, 
+        {
+            "name": "Ryan Current", 
+            "pos": "12", 
+            "school": "Minnetonka", 
+            "time": "1:45.32"
+        }, 
+        {
+            "name": "Sean Satterthwaite", 
+            "pos": "13", 
+            "school": "Edina", 
+            "time": "1:45.36"
+        }, 
+        {
+            "name": "Trae Schindler", 
+            "pos": "14", 
+            "school": "Lakeville No", 
+            "time": "1:45.55"
+        }, 
+        {
+            "name": "Erik McCague", 
+            "pos": "15", 
+            "school": "St. Louis Park", 
+            "time": "1:45.56"
+        }, 
+        {
+            "name": "Andrew Urness", 
+            "pos": "16", 
+            "school": "Rosemount", 
+            "time": "1:45.89"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "Eden Prairie", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:23.90!"
+        }, 
+        {
+            "name": "Rosemount 1:26.56", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:26.20"
+        }, 
+        {
+            "name": "Maple Grove", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:27.08"
+        }, 
+        {
+            "name": "Stillwater 1:27.56", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:27.34"
+        }, 
+        {
+            "name": "Mounds View", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:27.38"
+        }, 
+        {
+            "name": "Edina 1:27.64", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:28.07"
+        }, 
+        {
+            "name": "Woodbury 1:28.39", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:28.56"
+        }, 
+        {
+            "name": "Rochester Century", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:29.14"
+        }, 
+        {
+            "name": "St. Michael/Albertville", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:27.37"
+        }, 
+        {
+            "name": "Lakeville North", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:28.50"
+        }, 
+        {
+            "name": "Minnetonka 1:29.36", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:28.92"
+        }, 
+        {
+            "name": "Apple Valley", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:29.37"
+        }, 
+        {
+            "name": "Eagan 1:30.25", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:30.09"
+        }, 
+        {
+            "name": "Rochester Mayo", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:30.13"
+        }, 
+        {
+            "name": "Lakeville South", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:30.97"
+        }, 
+        {
+            "name": "Anoka 1:30.94", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:31.71"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "Gregory Norsten", 
+            "pos": "1", 
+            "school": "Woodbury", 
+            "time": "1:49.76"
+        }, 
+        {
+            "name": "Jackson Lindell", 
+            "pos": "2", 
+            "school": "Edina", 
+            "time": "1:54.99"
+        }, 
+        {
+            "name": "Mike Lanz", 
+            "pos": "3", 
+            "school": "Maple Grove", 
+            "time": "1:55.78"
+        }, 
+        {
+            "name": "Kendall Dunn", 
+            "pos": "4", 
+            "school": "Minnetonka", 
+            "time": "1:56.37"
+        }, 
+        {
+            "name": "Austin Davidson", 
+            "pos": "5", 
+            "school": "East Ridge", 
+            "time": "1:56.44"
+        }, 
+        {
+            "name": "Nikita Dolin", 
+            "pos": "6", 
+            "school": "Roch Century", 
+            "time": "1:56.96"
+        }, 
+        {
+            "name": "Colby Smith", 
+            "pos": "7", 
+            "school": "Hastings", 
+            "time": "1:56.99"
+        }, 
+        {
+            "name": "Eric Sirjord", 
+            "pos": "8", 
+            "school": "Minnetonka", 
+            "time": "1:57.37"
+        }, 
+        {
+            "name": "Ben Albert", 
+            "pos": "9", 
+            "school": "Burnsville", 
+            "time": "1:57.30"
+        }, 
+        {
+            "name": "Alex Jenness", 
+            "pos": "10", 
+            "school": "Prior Lake", 
+            "time": "1:57.98"
+        }, 
+        {
+            "name": "Aaron Schwab", 
+            "pos": "11", 
+            "school": "Elk River", 
+            "time": "1:58.84"
+        }, 
+        {
+            "name": "Thomas Everson", 
+            "pos": "12", 
+            "school": "Hastings", 
+            "time": "1:59.58"
+        }, 
+        {
+            "name": "Jenia Foster", 
+            "pos": "13", 
+            "school": "Eden Prairie", 
+            "time": "1:59.78"
+        }, 
+        {
+            "name": "Jacob Stern", 
+            "pos": "14", 
+            "school": "Rosemount", 
+            "time": "1:59.88"
+        }, 
+        {
+            "name": "Dima Foster", 
+            "pos": "15", 
+            "school": "Eden Prairie", 
+            "time": "2:00.92"
+        }, 
+        {
+            "name": "Matt Hedman", 
+            "pos": "16", 
+            "school": "Anoka", 
+            "time": "2:02.10"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "Rosemount 1:33.99", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:33.37@"
+        }, 
+        {
+            "name": "Minnetonka 1:36.62", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:35.55"
+        }, 
+        {
+            "name": "Edina 1:36.71", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:36.50"
+        }, 
+        {
+            "name": "Maple Grove", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:37.38"
+        }, 
+        {
+            "name": "Eden Prairie", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:38.18"
+        }, 
+        {
+            "name": "East Ridge,", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:38.51"
+        }, 
+        {
+            "name": "Prior Lake", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:38.99"
+        }, 
+        {
+            "name": "Woodbury 1:39.52", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:39.97"
+        }, 
+        {
+            "name": "Brainerd 1:40.51", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:40.34"
+        }, 
+        {
+            "name": "Rochester Century", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:40.38"
+        }, 
+        {
+            "name": "Mounds View", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:40.53"
+        }, 
+        {
+            "name": "Lakeville North", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:40.72"
+        }, 
+        {
+            "name": "St. Cloud", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:40.76"
+        }, 
+        {
+            "name": "Cretin-Derham Hall,", 
+            "pos": "15", 
+            "school": "Paul", 
+            "time": "1:40.99"
+        }, 
+        {
+            "name": "St. Michael/Albertville", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:41.41"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "Eden Prairie", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:06.01"
+        }, 
+        {
+            "name": "Maple Grove", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:07.36"
+        }, 
+        {
+            "name": "Minnetonka 3:12.07", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:11.74"
+        }, 
+        {
+            "name": "Edina 3:12.68", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:11.98"
+        }, 
+        {
+            "name": "Stillwater 3:13.77", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:12.52"
+        }, 
+        {
+            "name": "Rosemount 3:14.33", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:13.27"
+        }, 
+        {
+            "name": "East Ridge,", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:13.80"
+        }, 
+        {
+            "name": "Hastings 3:14.59", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:14.53"
+        }, 
+        {
+            "name": "Prior Lake", 
+            "pos": "9", 
+            "school": "", 
+            "time": "3:14.73"
+        }, 
+        {
+            "name": "Mounds View", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:14.76"
+        }, 
+        {
+            "name": "Lakeville North", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:14.85"
+        }, 
+        {
+            "name": "Lakeville South", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:15.82"
+        }, 
+        {
+            "name": "Brainerd 3:17.95", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:19.22"
+        }, 
+        {
+            "name": "Farmington 3:19.78", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:19.68"
+        }, 
+        {
+            "name": "Cretin-Derham Hall,", 
+            "pos": "15", 
+            "school": "Paul", 
+            "time": "3:19.70"
+        }, 
+        {
+            "name": "Anoka 3:21.14", 
+            "pos": "16", 
+            "school": "", 
+            "time": "3:21.44"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "Noah Lucas", 
+            "pos": "1", 
+            "school": "Mounds View", 
+            "time": "4:33.14"
+        }, 
+        {
+            "name": "Jonathan Lieberman", 
+            "pos": "2", 
+            "school": "Eden Prairie", 
+            "time": "4:33.40"
+        }, 
+        {
+            "name": "Gregory Norsten", 
+            "pos": "3", 
+            "school": "Woodbury", 
+            "time": "4:34.10"
+        }, 
+        {
+            "name": "Mitch Herrera", 
+            "pos": "4", 
+            "school": "Lakeville So", 
+            "time": "4:39.96"
+        }, 
+        {
+            "name": "Chris Tri", 
+            "pos": "5", 
+            "school": "Roch Century", 
+            "time": "4:41.17"
+        }, 
+        {
+            "name": "Cole Birklid", 
+            "pos": "6", 
+            "school": "Anoka", 
+            "time": "4:41.37"
+        }, 
+        {
+            "name": "Eric Sirjord", 
+            "pos": "7", 
+            "school": "Minnetonka", 
+            "time": "4:43.77"
+        }, 
+        {
+            "name": "Matt Hedman", 
+            "pos": "8", 
+            "school": "Anoka", 
+            "time": "4:48.36"
+        }, 
+        {
+            "name": "John Seylar", 
+            "pos": "9", 
+            "school": "Minnetonka", 
+            "time": "4:46.17"
+        }, 
+        {
+            "name": "Sean Satterthwaite", 
+            "pos": "10", 
+            "school": "Edina", 
+            "time": "4:48.46"
+        }, 
+        {
+            "name": "Danny Wojta", 
+            "pos": "11", 
+            "school": "StPaul Hp/Spa", 
+            "time": "4:48.49"
+        }, 
+        {
+            "name": "Trae Schindler", 
+            "pos": "12", 
+            "school": "Lakeville No", 
+            "time": "4:51.25"
+        }, 
+        {
+            "name": "Andrew Urness", 
+            "pos": "13", 
+            "school": "Rosemount", 
+            "time": "4:51.90"
+        }, 
+        {
+            "name": "Jason Tri", 
+            "pos": "14", 
+            "school": "Roch Century", 
+            "time": "4:52.02"
+        }, 
+        {
+            "name": "Spencer Sathre", 
+            "pos": "15", 
+            "school": "Eden Prairie", 
+            "time": "4:52.55"
+        }, 
+        {
+            "name": "Nathan Regan", 
+            "pos": "16", 
+            "school": "Lakeville No", 
+            "time": "4:55.22"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "Aaron Greenberg", 
+            "pos": "1", 
+            "school": "Eden Prairie", 
+            "time": "20.93"
+        }, 
+        {
+            "name": "Victor Lugg", 
+            "pos": "2", 
+            "school": "Woodbury", 
+            "time": "20.99"
+        }, 
+        {
+            "name": "Buzz Rehnberg", 
+            "pos": "3", 
+            "school": "Edina", 
+            "time": "21.18"
+        }, 
+        {
+            "name": "Tanner Nimke", 
+            "pos": "4", 
+            "school": "Roch JohnMrshall", 
+            "time": "21.38"
+        }, 
+        {
+            "name": "Conor Manning", 
+            "pos": "5", 
+            "school": "Rosemount", 
+            "time": "21.52"
+        }, 
+        {
+            "name": "Bryce Boston", 
+            "pos": "6", 
+            "school": "Eden Prairie", 
+            "time": "21.54"
+        }, 
+        {
+            "name": "Andrew France", 
+            "pos": "7", 
+            "school": "Apple Valley", 
+            "time": "21.76"
+        }, 
+        {
+            "name": "Spencer Whyte", 
+            "pos": "8", 
+            "school": "North St. Paul", 
+            "time": "21.77"
+        }, 
+        {
+            "name": "Paul Knaak", 
+            "pos": "9", 
+            "school": "Stillwater", 
+            "time": "21.57"
+        }, 
+        {
+            "name": "Nick Cox", 
+            "pos": "10", 
+            "school": "Roch JohnMrshall", 
+            "time": "22.10"
+        }, 
+        {
+            "name": "Bill Leighton", 
+            "pos": "11", 
+            "school": "Eagan", 
+            "time": "22.12"
+        }, 
+        {
+            "name": "Noah Dalluge", 
+            "pos": "12", 
+            "school": "St. MichaelAlbe", 
+            "time": "22.14"
+        }, 
+        {
+            "name": "Derek Jones", 
+            "pos": "13", 
+            "school": "East", 
+            "time": "22.16"
+        }, 
+        {
+            "name": "Cody Erickson", 
+            "pos": "14", 
+            "school": "Mounds View", 
+            "time": "22.25"
+        }, 
+        {
+            "name": "Christopher Kirchmann", 
+            "pos": "15", 
+            "school": "Farmington", 
+            "time": "22.36"
+        }, 
+        {
+            "name": "Alex Dahlgren", 
+            "pos": "16", 
+            "school": "Lakeville No", 
+            "time": "22.37"
+        }
+    ]
+}

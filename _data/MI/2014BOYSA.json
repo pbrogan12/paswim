@@ -1,0 +1,1166 @@
+{
+    "100YardBackstroke": [
+        {
+            "name": "Sam Johanns", 
+            "pos": "1", 
+            "school": "St Thomas Acad", 
+            "time": "51.42"
+        }, 
+        {
+            "name": "Joe Kitzman", 
+            "pos": "2", 
+            "school": "Fergus Falls", 
+            "time": "53.67"
+        }, 
+        {
+            "name": "Jack Spaeth", 
+            "pos": "3", 
+            "school": "Montevideo", 
+            "time": "53.74"
+        }, 
+        {
+            "name": "Jon Najarian", 
+            "pos": "4", 
+            "school": "St Thomas Acad", 
+            "time": "54.75"
+        }, 
+        {
+            "name": "Matt Ruzicka", 
+            "pos": "4", 
+            "school": "St Thomas Acad", 
+            "time": "54.75"
+        }, 
+        {
+            "name": "Michael Ausen", 
+            "pos": "6", 
+            "school": "Simley", 
+            "time": "55.09"
+        }, 
+        {
+            "name": "Leo Galvin", 
+            "pos": "7", 
+            "school": "St Thomas Acad", 
+            "time": "55.12"
+        }, 
+        {
+            "name": "William Brenton", 
+            "pos": "8", 
+            "school": "ORNO", 
+            "time": "55.79"
+        }, 
+        {
+            "name": "Kyle Johnson", 
+            "pos": "9", 
+            "school": "Benilde", 
+            "time": "56.16"
+        }, 
+        {
+            "name": "Evan Kalb", 
+            "pos": "10", 
+            "school": "Mesabi East", 
+            "time": "56.38"
+        }, 
+        {
+            "name": "Mitchell Dockendorf", 
+            "pos": "11", 
+            "school": "Sartell", 
+            "time": "56.49"
+        }, 
+        {
+            "name": "Joshua Wuflestad", 
+            "pos": "12", 
+            "school": "Chaska", 
+            "time": "56.52"
+        }, 
+        {
+            "name": "Mark Malinovskiy", 
+            "pos": "13", 
+            "school": "Spring Lake Park", 
+            "time": "56.82"
+        }, 
+        {
+            "name": "Connor Smythe", 
+            "pos": "14", 
+            "school": "Park Rapids", 
+            "time": "57.15"
+        }, 
+        {
+            "name": "Sam Meyer", 
+            "pos": "15", 
+            "school": "Rocori", 
+            "time": "57.60"
+        }, 
+        {
+            "name": "Davin Sang", 
+            "pos": "16", 
+            "school": "Spring Lake Park", 
+            "time": "57.67"
+        }
+    ], 
+    "100YardBreaststroke": [
+        {
+            "name": "Humphrey Pruett", 
+            "pos": "1", 
+            "school": "BRBL", 
+            "time": "56.90"
+        }, 
+        {
+            "name": "Sean Donnelly", 
+            "pos": "2", 
+            "school": "Chaska", 
+            "time": "58.65"
+        }, 
+        {
+            "name": "Elliot Jacobson", 
+            "pos": "3", 
+            "school": "Alexandria", 
+            "time": "59.11"
+        }, 
+        {
+            "name": "Tiernan Foster-Smith", 
+            "pos": "4", 
+            "school": "BRBL", 
+            "time": "59.41"
+        }, 
+        {
+            "name": "Tanner Sonnek", 
+            "pos": "5", 
+            "school": "Mankato West", 
+            "time": "59.46"
+        }, 
+        {
+            "name": "Zach Litwin", 
+            "pos": "6", 
+            "school": "St Thomas Acad", 
+            "time": "59.48"
+        }, 
+        {
+            "name": "Michael Richter", 
+            "pos": "7", 
+            "school": "Detroit Lakes", 
+            "time": "1:00.79"
+        }, 
+        {
+            "name": "Riley Fairbanks", 
+            "pos": "8", 
+            "school": "Hutchinson", 
+            "time": "1:01.80"
+        }, 
+        {
+            "name": "Tyler Hemp", 
+            "pos": "9", 
+            "school": "Bemidji", 
+            "time": "1:00.52"
+        }, 
+        {
+            "name": "William Mayleben", 
+            "pos": "10", 
+            "school": "St Thomas Acad", 
+            "time": "1:01.71"
+        }, 
+        {
+            "name": "Ian Lawson", 
+            "pos": "11", 
+            "school": "Sartell", 
+            "time": "1:01.77"
+        }, 
+        {
+            "name": "Colin Glass", 
+            "pos": "12", 
+            "school": "St Thomas Acad", 
+            "time": "1:01.91"
+        }, 
+        {
+            "name": "Michael Greene", 
+            "pos": "13", 
+            "school": "Simley", 
+            "time": "1:02.03"
+        }, 
+        {
+            "name": "Samuel Roden", 
+            "pos": "14", 
+            "school": "Spring Lake Park", 
+            "time": "1:02.09"
+        }, 
+        {
+            "name": "James Falkowski", 
+            "pos": "15", 
+            "school": "Chisago Lakes", 
+            "time": "1:02.42"
+        }, 
+        {
+            "name": "Charles Krenzel", 
+            "pos": "16", 
+            "school": "Northfield", 
+            "time": "1:02.87"
+        }
+    ], 
+    "100YardButterfly": [
+        {
+            "name": "Colter Allen", 
+            "pos": "1", 
+            "school": "Fridley", 
+            "time": "49.74"
+        }, 
+        {
+            "name": "Paul Sadergaski", 
+            "pos": "2", 
+            "school": "Faribault", 
+            "time": "50.66"
+        }, 
+        {
+            "name": "Joe Kitzman", 
+            "pos": "3", 
+            "school": "Fergus Falls", 
+            "time": "51.71"
+        }, 
+        {
+            "name": "Is Erickson", 
+            "pos": "4", 
+            "school": "Virginia", 
+            "time": "51.88"
+        }, 
+        {
+            "name": "Tommy Weiss", 
+            "pos": "5", 
+            "school": "St Thomas Acad", 
+            "time": "51.95"
+        }, 
+        {
+            "name": "Evan Kalb", 
+            "pos": "6", 
+            "school": "Mesabi East", 
+            "time": "52.35"
+        }, 
+        {
+            "name": "Zachary Holman", 
+            "pos": "7", 
+            "school": "WatertownMayrDel", 
+            "time": "53.00"
+        }, 
+        {
+            "name": "David Sadergaski", 
+            "pos": "8", 
+            "school": "Faribault", 
+            "time": "54.22"
+        }, 
+        {
+            "name": "Jack Foster", 
+            "pos": "9", 
+            "school": "St Thomas Acad", 
+            "time": "53.59"
+        }, 
+        {
+            "name": "Chris Walker", 
+            "pos": "10", 
+            "school": "BRBL", 
+            "time": "53.93"
+        }, 
+        {
+            "name": "Preston Smith", 
+            "pos": "11", 
+            "school": "Albert Lea", 
+            "time": "53.95"
+        }, 
+        {
+            "name": "Riley Darling", 
+            "pos": "12", 
+            "school": "Chisago Lakes", 
+            "time": "54.84"
+        }, 
+        {
+            "name": "Ben Walker", 
+            "pos": "13", 
+            "school": "Austin", 
+            "time": "54.89"
+        }, 
+        {
+            "name": "Marcel Pfeifer", 
+            "pos": "14", 
+            "school": "Dass-Cok / Litch", 
+            "time": "55.15"
+        }, 
+        {
+            "name": "Keanan Allen", 
+            "pos": "15", 
+            "school": "Fridley", 
+            "time": "55.27"
+        }
+    ], 
+    "100YardFreestyle": [
+        {
+            "name": "Cal Mouritsen", 
+            "pos": "1", 
+            "school": "Fergus Falls", 
+            "time": "46.15"
+        }, 
+        {
+            "name": "Brady Bresnahan", 
+            "pos": "2", 
+            "school": "Faribault", 
+            "time": "47.06"
+        }, 
+        {
+            "name": "Richard Kepner", 
+            "pos": "3", 
+            "school": "Spring Lake Park", 
+            "time": "47.54"
+        }, 
+        {
+            "name": "Hunter Nielsen", 
+            "pos": "4", 
+            "school": "St Thomas Acad", 
+            "time": "48.02"
+        }, 
+        {
+            "name": "Jon Jensen", 
+            "pos": "5", 
+            "school": "Northfield", 
+            "time": "48.48"
+        }, 
+        {
+            "name": "MAC Brown", 
+            "pos": "6", 
+            "school": "St Thomas Acad", 
+            "time": "48.51"
+        }, 
+        {
+            "name": "Matt Allison", 
+            "pos": "7", 
+            "school": "Grand Rapids", 
+            "time": "48.68"
+        }, 
+        {
+            "name": "Craig Heimark", 
+            "pos": "8", 
+            "school": "Austin", 
+            "time": "49.16"
+        }, 
+        {
+            "name": "Matt Trettin", 
+            "pos": "9", 
+            "school": "Hutchinson", 
+            "time": "48.80"
+        }, 
+        {
+            "name": "Logan Erickson", 
+            "pos": "10", 
+            "school": "Dass-Cok / Litch", 
+            "time": "49.76"
+        }, 
+        {
+            "name": "Connor Smythe", 
+            "pos": "11", 
+            "school": "Park Rapids", 
+            "time": "49.83"
+        }, 
+        {
+            "name": "Tiernan Foster-Smith", 
+            "pos": "12", 
+            "school": "BRBL", 
+            "time": "49.85"
+        }, 
+        {
+            "name": "Blaise Nyberg", 
+            "pos": "13", 
+            "school": "Monticello", 
+            "time": "50.03"
+        }, 
+        {
+            "name": "Nicholas Johnson", 
+            "pos": "14", 
+            "school": "Princeton", 
+            "time": "50.11"
+        }, 
+        {
+            "name": "Max Jacobson", 
+            "pos": "15", 
+            "school": "Alexandria", 
+            "time": "50.21"
+        }, 
+        {
+            "name": "Spencer Yurrick", 
+            "pos": "16", 
+            "school": "Grand Rapids", 
+            "time": "50.92"
+        }
+    ], 
+    "1mtrDiving": [
+        {
+            "name": "Brandon Pearson", 
+            "pos": "1", 
+            "school": "BRBL", 
+            "time": "410.00"
+        }, 
+        {
+            "name": "Austin Ferris", 
+            "pos": "2", 
+            "school": "Faribault", 
+            "time": "392.90"
+        }, 
+        {
+            "name": "Sam Howard", 
+            "pos": "3", 
+            "school": "Bemidji", 
+            "time": "375.85"
+        }, 
+        {
+            "name": "Mitch Raihle", 
+            "pos": "4", 
+            "school": "Spring Lake Park", 
+            "time": "371.15"
+        }, 
+        {
+            "name": "Mathew Bethke", 
+            "pos": "5", 
+            "school": "Sauk Rapids", 
+            "time": "363.25"
+        }, 
+        {
+            "name": "Nathan Stone", 
+            "pos": "6", 
+            "school": "Simley", 
+            "time": "358.45"
+        }, 
+        {
+            "name": "Reid Magnuson", 
+            "pos": "7", 
+            "school": "Fergus Falls", 
+            "time": "337.05"
+        }, 
+        {
+            "name": "Jacob Doble", 
+            "pos": "8", 
+            "school": "Chisago Lakes", 
+            "time": "332.90"
+        }, 
+        {
+            "name": "Jacob Carlson", 
+            "pos": "9", 
+            "school": "Chisago Lakes", 
+            "time": "331.85"
+        }, 
+        {
+            "name": "Alec Anderson", 
+            "pos": "10", 
+            "school": "Austin", 
+            "time": "328.80"
+        }, 
+        {
+            "name": "Collin Larson", 
+            "pos": "11", 
+            "school": "Holy Angels", 
+            "time": "327.75"
+        }, 
+        {
+            "name": "Taylor LaZarre", 
+            "pos": "12", 
+            "school": "Dass-Cok / Litch", 
+            "time": "287.60"
+        }, 
+        {
+            "name": "Tristan Gens", 
+            "pos": "13", 
+            "school": "WatertownMayrDel", 
+            "time": "281.45"
+        }, 
+        {
+            "name": "Zane Freeman", 
+            "pos": "14", 
+            "school": "Detroit Lakes", 
+            "time": "275.45"
+        }, 
+        {
+            "name": "Logan Bican", 
+            "pos": "15", 
+            "school": "Monticello", 
+            "time": "266.95"
+        }, 
+        {
+            "name": "Wil Kangas-Olson", 
+            "pos": "16", 
+            "school": "Grand Rapids", 
+            "time": "237.10"
+        }
+    ], 
+    "200YardFreestyle": [
+        {
+            "name": "Tanner Alms", 
+            "pos": "1", 
+            "school": "Red Wing", 
+            "time": "1:41.28"
+        }, 
+        {
+            "name": "Cal Mouritsen", 
+            "pos": "2", 
+            "school": "Fergus Falls", 
+            "time": "1:43.70"
+        }, 
+        {
+            "name": "Alberto Orejuela", 
+            "pos": "3", 
+            "school": "Fridley", 
+            "time": "1:44.36"
+        }, 
+        {
+            "name": "Tommy Weiss", 
+            "pos": "4", 
+            "school": "St Thomas Acad", 
+            "time": "1:44.93"
+        }, 
+        {
+            "name": "Evan Stafford", 
+            "pos": "5", 
+            "school": "BRBL", 
+            "time": "1:45.18"
+        }, 
+        {
+            "name": "Jeremy Conners", 
+            "pos": "6", 
+            "school": "St Thomas Acad", 
+            "time": "1:45.84"
+        }, 
+        {
+            "name": "Nic van", 
+            "pos": "7", 
+            "school": "11 BRBL", 
+            "time": "1:46.73"
+        }, 
+        {
+            "name": "Matt Ruzicka", 
+            "pos": "8", 
+            "school": "St Thomas Acad", 
+            "time": "1:47.61"
+        }, 
+        {
+            "name": "Michael Modica", 
+            "pos": "9", 
+            "school": "Simley", 
+            "time": "1:46.84"
+        }, 
+        {
+            "name": "Matt Allison", 
+            "pos": "10", 
+            "school": "Grand Rapids", 
+            "time": "1:47.53"
+        }, 
+        {
+            "name": "Adam Boerner", 
+            "pos": "11", 
+            "school": "Chaska", 
+            "time": "1:49.67"
+        }, 
+        {
+            "name": "Richard Kepner", 
+            "pos": "12", 
+            "school": "Spring Lake Park", 
+            "time": "1:49.99"
+        }, 
+        {
+            "name": "Kyle Johnson", 
+            "pos": "13", 
+            "school": "Benilde", 
+            "time": "1:50.26"
+        }, 
+        {
+            "name": "Andrew Peters", 
+            "pos": "14", 
+            "school": "Montevideo", 
+            "time": "1:50.46"
+        }, 
+        {
+            "name": "Justin Hoppe", 
+            "pos": "15", 
+            "school": "Melrose/SC", 
+            "time": "1:52.07"
+        }, 
+        {
+            "name": "Craig Heimark", 
+            "pos": "16", 
+            "school": "Austin", 
+            "time": "1:57.05"
+        }
+    ], 
+    "200YardFreestyleRelay": [
+        {
+            "name": "St Thomas", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:27.23"
+        }, 
+        {
+            "name": "Faribault 1:28.76", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:27.37"
+        }, 
+        {
+            "name": "Austin 1:29.19", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:28.08"
+        }, 
+        {
+            "name": "Fridley 1:28.86", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:28.64"
+        }, 
+        {
+            "name": "Red Wing", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:29.06"
+        }, 
+        {
+            "name": "Breck/Blake 1:29.74", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:29.74"
+        }, 
+        {
+            "name": "Northfield 1:29.91", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:29.83"
+        }, 
+        {
+            "name": "Sartell -", 
+            "pos": "8", 
+            "school": "Stephen", 
+            "time": "1:31.69"
+        }, 
+        {
+            "name": "Mankato West", 
+            "pos": "9", 
+            "school": "", 
+            "time": "1:28.91"
+        }, 
+        {
+            "name": "Grand Rapids", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:29.73"
+        }, 
+        {
+            "name": "Spring Lake", 
+            "pos": "11", 
+            "school": "", 
+            "time": "1:31.35"
+        }, 
+        {
+            "name": "Monticello 1:30.53", 
+            "pos": "12", 
+            "school": "", 
+            "time": "1:31.36"
+        }, 
+        {
+            "name": "Dassel Cokato", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:31.79"
+        }, 
+        {
+            "name": "Melrose Sauk", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:32.45"
+        }, 
+        {
+            "name": "Fergus Falls", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:33.15"
+        }, 
+        {
+            "name": "Hutchinson 1:32.66", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:33.39"
+        }
+    ], 
+    "200YardIM": [
+        {
+            "name": "Colter Allen", 
+            "pos": "1", 
+            "school": "Fridley", 
+            "time": "1:52.95"
+        }, 
+        {
+            "name": "Humphrey Pruett", 
+            "pos": "2", 
+            "school": "BRBL", 
+            "time": "1:56.76"
+        }, 
+        {
+            "name": "Zach Litwin", 
+            "pos": "3", 
+            "school": "St Thomas Acad", 
+            "time": "1:59.52"
+        }, 
+        {
+            "name": "Jon Jensen", 
+            "pos": "4", 
+            "school": "Northfield", 
+            "time": "2:00.08"
+        }, 
+        {
+            "name": "Tanner Sonnek", 
+            "pos": "5", 
+            "school": "Mankato West", 
+            "time": "2:00.74"
+        }, 
+        {
+            "name": "Riley Fairbanks", 
+            "pos": "6", 
+            "school": "Hutchinson", 
+            "time": "2:00.81"
+        }, 
+        {
+            "name": "Chris Walker", 
+            "pos": "7", 
+            "school": "BRBL", 
+            "time": "2:02.16"
+        }, 
+        {
+            "name": "Ian Lawson", 
+            "pos": "8", 
+            "school": "Sartell", 
+            "time": "2:03.68"
+        }, 
+        {
+            "name": "Jon Najarian", 
+            "pos": "9", 
+            "school": "St Thomas Acad", 
+            "time": "2:02.71"
+        }, 
+        {
+            "name": "Max Sternberg", 
+            "pos": "10", 
+            "school": "BRBL", 
+            "time": "2:04.67"
+        }, 
+        {
+            "name": "Andrew Kileen", 
+            "pos": "11", 
+            "school": "ORNO", 
+            "time": "2:05.02"
+        }, 
+        {
+            "name": "Sawyer Myers", 
+            "pos": "12", 
+            "school": "Austin", 
+            "time": "2:05.09"
+        }, 
+        {
+            "name": "Trever Nordlund", 
+            "pos": "13", 
+            "school": "Sartell", 
+            "time": "2:05.87"
+        }, 
+        {
+            "name": "Mark Kallevig", 
+            "pos": "14", 
+            "school": "Alexandria", 
+            "time": "2:06.19"
+        }, 
+        {
+            "name": "Davin Sang", 
+            "pos": "15", 
+            "school": "Spring Lake Park", 
+            "time": "2:06.79"
+        }, 
+        {
+            "name": "Lawrence Krause", 
+            "pos": "16", 
+            "school": "Monticello", 
+            "time": "2:07.59"
+        }
+    ], 
+    "200YardMedleyRelay": [
+        {
+            "name": "St Thomas", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:36.03"
+        }, 
+        {
+            "name": "Fergus Falls", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:38.98"
+        }, 
+        {
+            "name": "Breck/Blake 1:39.07", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:39.34"
+        }, 
+        {
+            "name": "Spring Lake", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:39.80"
+        }, 
+        {
+            "name": "Sartell -", 
+            "pos": "5", 
+            "school": "Stephen", 
+            "time": "1:40.09"
+        }, 
+        {
+            "name": "Chaska 1:40.64", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:40.25"
+        }, 
+        {
+            "name": "Alexandria 1:40.20", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:41.22"
+        }, 
+        {
+            "name": "Northfield 1:40.92", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:42.71"
+        }, 
+        {
+            "name": "Simley, Inver", 
+            "pos": "9", 
+            "school": "Heights", 
+            "time": "1:40.93"
+        }, 
+        {
+            "name": "Montevideo 1:41.90", 
+            "pos": "10", 
+            "school": "", 
+            "time": "1:42.38"
+        }, 
+        {
+            "name": "Mankato East", 
+            "pos": "11", 
+            "school": "Loyola", 
+            "time": "1:43.30"
+        }, 
+        {
+            "name": "Chisago Lakes", 
+            "pos": "12", 
+            "school": "Lindstrom", 
+            "time": "1:43.61"
+        }, 
+        {
+            "name": "Bemidji 1:43.99", 
+            "pos": "13", 
+            "school": "", 
+            "time": "1:44.16"
+        }, 
+        {
+            "name": "Detroit Lakes", 
+            "pos": "14", 
+            "school": "", 
+            "time": "1:45.31"
+        }, 
+        {
+            "name": "Monticello 1:44.02", 
+            "pos": "15", 
+            "school": "", 
+            "time": "1:45.41"
+        }, 
+        {
+            "name": "Orono 1:45.13", 
+            "pos": "16", 
+            "school": "", 
+            "time": "1:45.42"
+        }
+    ], 
+    "400YardFreestyleRelay": [
+        {
+            "name": "St Thomas", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:10.19"
+        }, 
+        {
+            "name": "Faribault 3:15.79", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:13.38"
+        }, 
+        {
+            "name": "Breck/Blake 3:16.38", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:15.07"
+        }, 
+        {
+            "name": "Fergus Falls", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:17.39"
+        }, 
+        {
+            "name": "Austin 3:19.90", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:17.66"
+        }, 
+        {
+            "name": "Chaska 3:19.18", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:17.69"
+        }, 
+        {
+            "name": "Fridley 3:18.31", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:17.96"
+        }, 
+        {
+            "name": "Spring Lake", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:18.42"
+        }, 
+        {
+            "name": "Simley, Inver", 
+            "pos": "9", 
+            "school": "Heights", 
+            "time": "3:20.36"
+        }, 
+        {
+            "name": "Detroit Lakes", 
+            "pos": "10", 
+            "school": "", 
+            "time": "3:21.45"
+        }, 
+        {
+            "name": "Montevideo 3:22.31", 
+            "pos": "11", 
+            "school": "", 
+            "time": "3:21.81"
+        }, 
+        {
+            "name": "Dassel Cokato", 
+            "pos": "12", 
+            "school": "", 
+            "time": "3:23.25"
+        }, 
+        {
+            "name": "Monticello 3:21.15", 
+            "pos": "13", 
+            "school": "", 
+            "time": "3:24.05"
+        }, 
+        {
+            "name": "Melrose Sauk", 
+            "pos": "14", 
+            "school": "", 
+            "time": "3:24.67"
+        }, 
+        {
+            "name": "Chisago Lakes", 
+            "pos": "15", 
+            "school": "Lindstrom", 
+            "time": "3:24.97"
+        }, 
+        {
+            "name": "Red Wing", 
+            "pos": "16", 
+            "school": "", 
+            "time": "3:25.59"
+        }
+    ], 
+    "500YardFreestyle": [
+        {
+            "name": "Tanner Alms", 
+            "pos": "1", 
+            "school": "Red Wing", 
+            "time": "4:37.26"
+        }, 
+        {
+            "name": "Alberto Orejuela", 
+            "pos": "2", 
+            "school": "Fridley", 
+            "time": "4:42.19"
+        }, 
+        {
+            "name": "Warren Sexson", 
+            "pos": "3", 
+            "school": "St Thomas Acad", 
+            "time": "4:44.24"
+        }, 
+        {
+            "name": "Michael Modica", 
+            "pos": "4", 
+            "school": "Simley", 
+            "time": "4:45.70"
+        }, 
+        {
+            "name": "Jake Pursley", 
+            "pos": "5", 
+            "school": "St Thomas Acad", 
+            "time": "4:48.40"
+        }, 
+        {
+            "name": "Eric Ruzicka", 
+            "pos": "6", 
+            "school": "St Thomas Acad", 
+            "time": "4:48.99"
+        }, 
+        {
+            "name": "Jeremy Conners", 
+            "pos": "7", 
+            "school": "St Thomas Acad", 
+            "time": "4:53.87"
+        }, 
+        {
+            "name": "Adam Boerner", 
+            "pos": "8", 
+            "school": "Chaska", 
+            "time": "4:54.15"
+        }, 
+        {
+            "name": "Evan Stafford", 
+            "pos": "9", 
+            "school": "BRBL", 
+            "time": "4:52.85"
+        }, 
+        {
+            "name": "Nic van", 
+            "pos": "10", 
+            "school": "11 BRBL", 
+            "time": "4:55.93"
+        }, 
+        {
+            "name": "Peter Augdahl", 
+            "pos": "11", 
+            "school": "Chaska", 
+            "time": "4:57.56"
+        }, 
+        {
+            "name": "Sawyer Myers", 
+            "pos": "12", 
+            "school": "Austin", 
+            "time": "4:58.26"
+        }, 
+        {
+            "name": "Tommy McGinn", 
+            "pos": "13", 
+            "school": "Benilde", 
+            "time": "5:02.96"
+        }, 
+        {
+            "name": "Erik Skoe", 
+            "pos": "14", 
+            "school": "Sartell", 
+            "time": "5:04.72"
+        }, 
+        {
+            "name": "Zach Ross", 
+            "pos": "15", 
+            "school": "Hutchinson", 
+            "time": "5:05.10"
+        }
+    ], 
+    "50YardFreestyle": [
+        {
+            "name": "Is Erickson", 
+            "pos": "1", 
+            "school": "Virginia", 
+            "time": "21.27"
+        }, 
+        {
+            "name": "Brady Bresnahan", 
+            "pos": "2", 
+            "school": "Faribault", 
+            "time": "21.31"
+        }, 
+        {
+            "name": "Sean Donnelly", 
+            "pos": "3", 
+            "school": "Chaska", 
+            "time": "21.36"
+        }, 
+        {
+            "name": "Sam Johanns", 
+            "pos": "4", 
+            "school": "St Thomas Acad", 
+            "time": "21.49"
+        }, 
+        {
+            "name": "Hunter Nielsen", 
+            "pos": "5", 
+            "school": "St Thomas Acad", 
+            "time": "21.86"
+        }, 
+        {
+            "name": "Ian Christopherson", 
+            "pos": "6", 
+            "school": "Austin", 
+            "time": "21.89"
+        }, 
+        {
+            "name": "MAC Brown", 
+            "pos": "7", 
+            "school": "St Thomas Acad", 
+            "time": "21.95"
+        }, 
+        {
+            "name": "Matt Trettin", 
+            "pos": "8", 
+            "school": "Hutchinson", 
+            "time": "22.19"
+        }, 
+        {
+            "name": "Nicholas Johnson", 
+            "pos": "9", 
+            "school": "Princeton", 
+            "time": "22.35"
+        }, 
+        {
+            "name": "Blaise Nyberg", 
+            "pos": "10", 
+            "school": "Monticello", 
+            "time": "22.53"
+        }, 
+        {
+            "name": "Max Jacobson", 
+            "pos": "11", 
+            "school": "Alexandria", 
+            "time": "22.58"
+        }, 
+        {
+            "name": "Austin McCullough", 
+            "pos": "12", 
+            "school": "Detroit Lakes", 
+            "time": "22.76"
+        }, 
+        {
+            "name": "Andy Carlisle", 
+            "pos": "13", 
+            "school": "Grand Rapids", 
+            "time": "22.90"
+        }, 
+        {
+            "name": "Logan Erickson", 
+            "pos": "13", 
+            "school": "Dass-Cok / Litch", 
+            "time": "22.90"
+        }, 
+        {
+            "name": "Is Clem", 
+            "pos": "13", 
+            "school": "Detroit Lakes", 
+            "time": "22.90"
+        }, 
+        {
+            "name": "Riley Darling", 
+            "pos": "16", 
+            "school": "Chisago Lakes", 
+            "time": "23.10"
+        }
+    ]
+}
