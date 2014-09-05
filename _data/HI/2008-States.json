@@ -1,0 +1,1197 @@
+{
+    "Boys100YardBackstroke": [
+        {
+            "name": "Chong, Mitchell", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "51.35"
+        }, 
+        {
+            "name": "Simoes, Geramiah", 
+            "pos": "2", 
+            "school": "Iolani", 
+            "time": "53.54"
+        }, 
+        {
+            "name": "YI, Thomas", 
+            "pos": "3", 
+            "school": "Kalani", 
+            "time": "53.71"
+        }, 
+        {
+            "name": "Parker, Keahi", 
+            "pos": "4", 
+            "school": "HPA", 
+            "time": "54.23"
+        }, 
+        {
+            "name": "Hamilton-Cave, Matthew", 
+            "pos": "5", 
+            "school": "KEAL", 
+            "time": "56.46"
+        }, 
+        {
+            "name": "Ikeda, Dustin", 
+            "pos": "6", 
+            "school": "Punahou", 
+            "time": "57.62"
+        }, 
+        {
+            "name": "Kakalia, Caelan", 
+            "pos": "7", 
+            "school": "Kaiser", 
+            "time": "57.74"
+        }, 
+        {
+            "name": "Altman, Ridge", 
+            "pos": "8", 
+            "school": "Seabury", 
+            "time": "58.23"
+        }
+    ], 
+    "Boys100YardBreaststroke": [
+        {
+            "name": "Taparra, Kekoa", 
+            "pos": "1", 
+            "school": "Ks-Kapalama", 
+            "time": "57.66"
+        }, 
+        {
+            "name": "Yamada, Kent", 
+            "pos": "2", 
+            "school": "MILI", 
+            "time": "1:00.20"
+        }, 
+        {
+            "name": "Chi, Peter", 
+            "pos": "3", 
+            "school": "WAIK", 
+            "time": "1:00.85"
+        }, 
+        {
+            "name": "Okimura, Marc", 
+            "pos": "4", 
+            "school": "Kaiser", 
+            "time": "1:00.98"
+        }, 
+        {
+            "name": "Jacobs, Adrian", 
+            "pos": "5", 
+            "school": "HPA", 
+            "time": "1:01.18"
+        }, 
+        {
+            "name": "Pickering, Kila", 
+            "pos": "6", 
+            "school": "Ks-Kapalama", 
+            "time": "1:01.37"
+        }, 
+        {
+            "name": "Borowski, Logan", 
+            "pos": "7", 
+            "school": "HPA", 
+            "time": "1:01.84"
+        }, 
+        {
+            "name": "Dung, Spencer", 
+            "pos": "8", 
+            "school": "Punahou", 
+            "time": "1:02.81"
+        }
+    ], 
+    "Boys100YardButterfly": [
+        {
+            "name": "Simoes, Geramiah", 
+            "pos": "1", 
+            "school": "Iolani", 
+            "time": "50.53"
+        }, 
+        {
+            "name": "Jernaill, Jasmeet", 
+            "pos": "2", 
+            "school": "King Kekaulike", 
+            "time": "52.47"
+        }, 
+        {
+            "name": "Kim, Kevin", 
+            "pos": "3", 
+            "school": "Bears", 
+            "time": "52.87"
+        }, 
+        {
+            "name": "Ching, Brandon", 
+            "pos": "4", 
+            "school": "Punahou", 
+            "time": "53.24"
+        }, 
+        {
+            "name": "Penny, Nick", 
+            "pos": "5", 
+            "school": "HPA", 
+            "time": "53.74"
+        }, 
+        {
+            "name": "Chern, Avery", 
+            "pos": "6", 
+            "school": "Punahou", 
+            "time": "53.76"
+        }, 
+        {
+            "name": "Hill, Bryan", 
+            "pos": "7", 
+            "school": "RAD", 
+            "time": "54.17"
+        }, 
+        {
+            "name": "Frifeldt, Jason", 
+            "pos": "8", 
+            "school": "Punahou", 
+            "time": "54.45"
+        }
+    ], 
+    "Boys100YardFreestyle": [
+        {
+            "name": "Gomes, Brett", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "47.27"
+        }, 
+        {
+            "name": "Mokulehua, Haku", 
+            "pos": "2", 
+            "school": "LHS", 
+            "time": "48.52"
+        }, 
+        {
+            "name": "Kiessling, Ruddy", 
+            "pos": "3", 
+            "school": "Punahou", 
+            "time": "48.93"
+        }, 
+        {
+            "name": "Roth, Eric", 
+            "pos": "4", 
+            "school": "MILI", 
+            "time": "49.48"
+        }, 
+        {
+            "name": "Gaspar-Asaoka, Rayfe", 
+            "pos": "5", 
+            "school": "Iolani", 
+            "time": "49.60"
+        }, 
+        {
+            "name": "Deer, Eric", 
+            "pos": "6", 
+            "school": "Punahou", 
+            "time": "50.05"
+        }, 
+        {
+            "name": "Pasouen, Aaron", 
+            "pos": "7", 
+            "school": "Lhs", 
+            "time": "50.11"
+        }, 
+        {
+            "name": "Murray, Noah", 
+            "pos": "8", 
+            "school": "HPA", 
+            "time": "51.57"
+        }
+    ], 
+    "Boys1mtrDiving": [
+        {
+            "name": "Jude, Dylan", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "374.90"
+        }, 
+        {
+            "name": "Keawe, James", 
+            "pos": "2", 
+            "school": "Ks-Kapalama", 
+            "time": "374.20"
+        }, 
+        {
+            "name": "Tavares, Joshua", 
+            "pos": "3", 
+            "school": "Ks-Kapalama", 
+            "time": "366.85"
+        }, 
+        {
+            "name": "Lopes, Kainoa", 
+            "pos": "4", 
+            "school": "Kaiser", 
+            "time": "297.75"
+        }, 
+        {
+            "name": "Logsdon, Connor", 
+            "pos": "5", 
+            "school": "Bears", 
+            "time": "276.15"
+        }, 
+        {
+            "name": "Brem, Ryan", 
+            "pos": "6", 
+            "school": "Bears", 
+            "time": "265.50"
+        }, 
+        {
+            "name": "Brians, Beau", 
+            "pos": "7", 
+            "school": "Kaiser", 
+            "time": "265.25"
+        }, 
+        {
+            "name": "Brians, Mark", 
+            "pos": "8", 
+            "school": "Kaiser", 
+            "time": "217.60"
+        }
+    ], 
+    "Boys200YardFreestyle": [
+        {
+            "name": "Pope, Jack", 
+            "pos": "1", 
+            "school": "Lunas", 
+            "time": "1:42.75"
+        }, 
+        {
+            "name": "Penny, Nick", 
+            "pos": "2", 
+            "school": "HPA", 
+            "time": "1:47.50"
+        }, 
+        {
+            "name": "Fife, Taylor", 
+            "pos": "3", 
+            "school": "IPA", 
+            "time": "1:48.07"
+        }, 
+        {
+            "name": "Hagi, Jayson", 
+            "pos": "4", 
+            "school": "Kapolei", 
+            "time": "1:48.97"
+        }, 
+        {
+            "name": "Fee, Thomas", 
+            "pos": "5", 
+            "school": "Punahou", 
+            "time": "1:49.30"
+        }, 
+        {
+            "name": "McCaulley, Sean", 
+            "pos": "6", 
+            "school": "Lhs", 
+            "time": "1:49.74"
+        }, 
+        {
+            "name": "Schmaltz, Aaron", 
+            "pos": "7", 
+            "school": "Punahou", 
+            "time": "1:50.65"
+        }, 
+        {
+            "name": "Ross, Ryan", 
+            "pos": "8", 
+            "school": "HPA", 
+            "time": "1:53.34"
+        }
+    ], 
+    "Boys200YardFreestyleRelay": [
+        {
+            "name": "Punahou School", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:27.69"
+        }, 
+        {
+            "name": "Kamehameha Schools", 
+            "pos": "2", 
+            "school": "Kapalama", 
+            "time": "1:31.11"
+        }, 
+        {
+            "name": "Iolani School", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:31.13"
+        }, 
+        {
+            "name": "Hawaii Prep", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:31.50"
+        }, 
+        {
+            "name": "Le Jardin", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:32.65"
+        }, 
+        {
+            "name": "Waiakea High", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:34.89"
+        }, 
+        {
+            "name": "Mililani High", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:35.47"
+        }, 
+        {
+            "name": "Leilehua High", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:35.60"
+        }
+    ], 
+    "Boys200YardIM": [
+        {
+            "name": "Taparra, Kekoa", 
+            "pos": "1", 
+            "school": "Ks-Kapalama", 
+            "time": "1:54.31"
+        }, 
+        {
+            "name": "Chong, Mitchell", 
+            "pos": "2", 
+            "school": "Punahou", 
+            "time": "1:57.03"
+        }, 
+        {
+            "name": "YI, Thomas", 
+            "pos": "3", 
+            "school": "Kalani", 
+            "time": "1:57.66"
+        }, 
+        {
+            "name": "Pickering, Kila", 
+            "pos": "4", 
+            "school": "Ks-Kapalama", 
+            "time": "1:58.39"
+        }, 
+        {
+            "name": "Johnson, Zach", 
+            "pos": "5", 
+            "school": "Seabury", 
+            "time": "1:59.97"
+        }, 
+        {
+            "name": "Srock, Ashton", 
+            "pos": "6", 
+            "school": "Kapolei", 
+            "time": "2:00.90"
+        }, 
+        {
+            "name": "Borowski, Logan", 
+            "pos": "7", 
+            "school": "HPA", 
+            "time": "2:02.14"
+        }, 
+        {
+            "name": "Ching, Brandon", 
+            "pos": "8", 
+            "school": "Punahou", 
+            "time": "2:03.45"
+        }
+    ], 
+    "Boys200YardMedleyRelay": [
+        {
+            "name": "Punahou School", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:38.28"
+        }, 
+        {
+            "name": "Hawaii Prep", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:40.46"
+        }, 
+        {
+            "name": "Mililani High", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:41.35"
+        }, 
+        {
+            "name": "Kamehameha Schools", 
+            "pos": "4", 
+            "school": "Kapalama", 
+            "time": "1:42.33"
+        }, 
+        {
+            "name": "Seabury Hall", 
+            "pos": "5", 
+            "school": "Team", 
+            "time": "1:45.53"
+        }, 
+        {
+            "name": "Kaiser High", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:45.67"
+        }, 
+        {
+            "name": "Kalani 1:45.80", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:47.08"
+        }, 
+        {
+            "name": "Kealakehe High", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:49.31"
+        }
+    ], 
+    "Boys400YardFreestyleRelay": [
+        {
+            "name": "Punahou School", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:13.71"
+        }, 
+        {
+            "name": "Hawaii Prep", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:20.69"
+        }, 
+        {
+            "name": "Mililani High", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:20.94"
+        }, 
+        {
+            "name": "Iolani School", 
+            "pos": "4", 
+            "school": "", 
+            "time": "3:21.43"
+        }, 
+        {
+            "name": "Kaiser High", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:27.60"
+        }, 
+        {
+            "name": "Leilehua High", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:28.98"
+        }, 
+        {
+            "name": "Waiakea High", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:29.89"
+        }, 
+        {
+            "name": "Le Jardin", 
+            "pos": "8", 
+            "school": "", 
+            "time": "3:30.55"
+        }
+    ], 
+    "Boys500YardFreestyle": [
+        {
+            "name": "Pope, Jack", 
+            "pos": "1", 
+            "school": "Lunas", 
+            "time": "4:41.23"
+        }, 
+        {
+            "name": "Hagi, Jayson", 
+            "pos": "2", 
+            "school": "Kapolei", 
+            "time": "4:47.35"
+        }, 
+        {
+            "name": "Srock, Ashton", 
+            "pos": "3", 
+            "school": "Kapolei", 
+            "time": "4:49.46"
+        }, 
+        {
+            "name": "Johnson, Zach", 
+            "pos": "4", 
+            "school": "Seabury", 
+            "time": "4:52.21"
+        }, 
+        {
+            "name": "Fife, Taylor", 
+            "pos": "5", 
+            "school": "IPA", 
+            "time": "4:56.96"
+        }, 
+        {
+            "name": "Moy, Kevin", 
+            "pos": "6", 
+            "school": "Punahou", 
+            "time": "5:00.23"
+        }, 
+        {
+            "name": "McCaulley, Sean", 
+            "pos": "7", 
+            "school": "Lhs", 
+            "time": "5:02.70"
+        }, 
+        {
+            "name": "Saunders, Ryan", 
+            "pos": "8", 
+            "school": "Punahou", 
+            "time": "5:03.52"
+        }
+    ], 
+    "Boys50YardFreestyle": [
+        {
+            "name": "Gomes, Brett", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "21.26"
+        }, 
+        {
+            "name": "Kim, Kevin", 
+            "pos": "2", 
+            "school": "Bears", 
+            "time": "22.13"
+        }, 
+        {
+            "name": "Mokulehua, Haku", 
+            "pos": "3", 
+            "school": "LHS", 
+            "time": "22.19"
+        }, 
+        {
+            "name": "Kiessling, Ruddy", 
+            "pos": "4", 
+            "school": "Punahou", 
+            "time": "22.34"
+        }, 
+        {
+            "name": "Zandee Van", 
+            "pos": "5", 
+            "school": "Eddi SR Punahou", 
+            "time": "22.41"
+        }, 
+        {
+            "name": "Deer, Eric", 
+            "pos": "6", 
+            "school": "Punahou", 
+            "time": "22.60"
+        }, 
+        {
+            "name": "Gaspar-Asaoka, Rayfe", 
+            "pos": "7", 
+            "school": "Iolani", 
+            "time": "22.75"
+        }, 
+        {
+            "name": "Pasouen, Aaron", 
+            "pos": "8", 
+            "school": "Lhs", 
+            "time": "22.95"
+        }
+    ], 
+    "Girls100YardBackstroke": [
+        {
+            "name": "Cote, Rachel", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "56.51#"
+        }, 
+        {
+            "name": "Vargas, Noe", 
+            "pos": "2", 
+            "school": "HPA", 
+            "time": "1:00.64"
+        }, 
+        {
+            "name": "Nakamura, Catherine", 
+            "pos": "3", 
+            "school": "HBA", 
+            "time": "1:00.72"
+        }, 
+        {
+            "name": "Billiamosa, Sarah", 
+            "pos": "4", 
+            "school": "PCHS", 
+            "time": "1:00.79"
+        }, 
+        {
+            "name": "Foo, Alyssa", 
+            "pos": "5", 
+            "school": "KEAL", 
+            "time": "1:01.68"
+        }, 
+        {
+            "name": "Yamamoto, Marissa", 
+            "pos": "6", 
+            "school": "Punahou", 
+            "time": "1:01.70"
+        }, 
+        {
+            "name": "Hirai, Remy", 
+            "pos": "7", 
+            "school": "Ks-Kapalama", 
+            "time": "1:03.12"
+        }, 
+        {
+            "name": "Alboro, Kamaehu", 
+            "pos": "8", 
+            "school": "Lunas", 
+            "time": "1:04.75"
+        }
+    ], 
+    "Girls100YardBreaststroke": [
+        {
+            "name": "Matthews, Elizabeth", 
+            "pos": "1", 
+            "school": "Seabury", 
+            "time": "1:08.23"
+        }, 
+        {
+            "name": "White, Kiana", 
+            "pos": "2", 
+            "school": "MILI", 
+            "time": "1:08.48"
+        }, 
+        {
+            "name": "Calvet, Marie", 
+            "pos": "3", 
+            "school": "Iolani", 
+            "time": "1:10.51"
+        }, 
+        {
+            "name": "Moy, Kelli", 
+            "pos": "4", 
+            "school": "Punahou", 
+            "time": "1:11.00"
+        }, 
+        {
+            "name": "Ho, Brittany", 
+            "pos": "5", 
+            "school": "SHA", 
+            "time": "1:11.26"
+        }, 
+        {
+            "name": "Faust, Kaili", 
+            "pos": "6", 
+            "school": "Lunas", 
+            "time": "1:11.91"
+        }, 
+        {
+            "name": "Halemano, Brandi", 
+            "pos": "7", 
+            "school": "SHA", 
+            "time": "1:12.65"
+        }, 
+        {
+            "name": "Boeckmann, Stephanie", 
+            "pos": "8", 
+            "school": "KEAL", 
+            "time": "1:12.87"
+        }
+    ], 
+    "Girls100YardButterfly": [
+        {
+            "name": "Simms, Christel", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "56.83"
+        }, 
+        {
+            "name": "Yamamoto, Marissa", 
+            "pos": "2", 
+            "school": "Punahou", 
+            "time": "59.43"
+        }, 
+        {
+            "name": "Choi, Shanelle", 
+            "pos": "3", 
+            "school": "PCHS", 
+            "time": "59.71"
+        }, 
+        {
+            "name": "Nakamura, Catherine", 
+            "pos": "4", 
+            "school": "HBA", 
+            "time": "1:00.60"
+        }, 
+        {
+            "name": "Cline, Jourdan", 
+            "pos": "5", 
+            "school": "KEAL", 
+            "time": "1:00.64"
+        }, 
+        {
+            "name": "Li, Carolyn", 
+            "pos": "6", 
+            "school": "Iolani", 
+            "time": "1:01.32"
+        }, 
+        {
+            "name": "Sasaki, Kira", 
+            "pos": "7", 
+            "school": "Iolani", 
+            "time": "1:02.53"
+        }, 
+        {
+            "name": "Lee, Sarah", 
+            "pos": "8", 
+            "school": "KEAL", 
+            "time": "1:03.10"
+        }
+    ], 
+    "Girls100YardFreestyle": [
+        {
+            "name": "Yoshida, Michelle", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "52.19"
+        }, 
+        {
+            "name": "Krochka, Jaymee", 
+            "pos": "2", 
+            "school": "HPA", 
+            "time": "52.97"
+        }, 
+        {
+            "name": "Randall, Rachel", 
+            "pos": "3", 
+            "school": "LJA", 
+            "time": "55.51"
+        }, 
+        {
+            "name": "Morton, Jade", 
+            "pos": "4", 
+            "school": "KEAL", 
+            "time": "55.52"
+        }, 
+        {
+            "name": "Deer, LillyBelle", 
+            "pos": "5", 
+            "school": "Punahou", 
+            "time": "55.78"
+        }, 
+        {
+            "name": "Kimura, Kelcie", 
+            "pos": "6", 
+            "school": "MILI", 
+            "time": "55.97"
+        }, 
+        {
+            "name": "Chun, Stephanie", 
+            "pos": "7", 
+            "school": "Iolani", 
+            "time": "56.04"
+        }, 
+        {
+            "name": "Jamora, Alexandra", 
+            "pos": "8", 
+            "school": "Kapolei", 
+            "time": "56.69"
+        }
+    ], 
+    "Girls1mtrDiving": [
+        {
+            "name": "Chinn, Kathryn", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "355.65"
+        }, 
+        {
+            "name": "Machida, Sheyenne", 
+            "pos": "2", 
+            "school": "MAUI", 
+            "time": "340.70"
+        }, 
+        {
+            "name": "Kumura, Nicki", 
+            "pos": "3", 
+            "school": "Punahou", 
+            "time": "330.70"
+        }, 
+        {
+            "name": "Maginot, Ashley", 
+            "pos": "4", 
+            "school": "IPA", 
+            "time": "316.80"
+        }, 
+        {
+            "name": "Eliazar, Chelaine", 
+            "pos": "5", 
+            "school": "Punahou", 
+            "time": "309.80"
+        }, 
+        {
+            "name": "Durocher, Cecilia", 
+            "pos": "6", 
+            "school": "PCHS", 
+            "time": "291.55"
+        }, 
+        {
+            "name": "Lim, Cristin", 
+            "pos": "7", 
+            "school": "Iolani", 
+            "time": "279.20"
+        }, 
+        {
+            "name": "Currameng, Cailtin", 
+            "pos": "8", 
+            "school": "Bears", 
+            "time": "267.15"
+        }
+    ], 
+    "Girls200YardFreestyle": [
+        {
+            "name": "Simms, Christel", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "1:49.72"
+        }, 
+        {
+            "name": "Maier, Krista", 
+            "pos": "2", 
+            "school": "KEAL", 
+            "time": "1:53.35"
+        }, 
+        {
+            "name": "Cahill, Jennifer", 
+            "pos": "3", 
+            "school": "Bears", 
+            "time": "1:56.35"
+        }, 
+        {
+            "name": "Sasaki, Kira", 
+            "pos": "4", 
+            "school": "Iolani", 
+            "time": "2:01.41"
+        }, 
+        {
+            "name": "Kimura, Kelcie", 
+            "pos": "5", 
+            "school": "MILI", 
+            "time": "2:02.40"
+        }, 
+        {
+            "name": "Chun, Stephanie", 
+            "pos": "6", 
+            "school": "Iolani", 
+            "time": "2:02.42"
+        }, 
+        {
+            "name": "Torkildson, Kristi", 
+            "pos": "7", 
+            "school": "Punahou", 
+            "time": "2:02.89"
+        }, 
+        {
+            "name": "Van Heukelem,", 
+            "pos": "8", 
+            "school": "SR HILO", 
+            "time": "2:05.00"
+        }
+    ], 
+    "Girls200YardFreestyleRelay": [
+        {
+            "name": "Punahou School", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:37.19"
+        }, 
+        {
+            "name": "Iolani School", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:42.64"
+        }, 
+        {
+            "name": "Hawaii Prep", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:43.18"
+        }, 
+        {
+            "name": "Lahainaluna High", 
+            "pos": "4", 
+            "school": "", 
+            "time": "1:43.86"
+        }, 
+        {
+            "name": "Kealakehe High", 
+            "pos": "5", 
+            "school": "", 
+            "time": "1:44.56"
+        }, 
+        {
+            "name": "Kamehameha Schools", 
+            "pos": "6", 
+            "school": "Kapalama", 
+            "time": "1:44.66"
+        }, 
+        {
+            "name": "Baldwin High", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:45.56"
+        }, 
+        {
+            "name": "Kamehameha Schools", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:47.82"
+        }
+    ], 
+    "Girls200YardIM": [
+        {
+            "name": "Matthews, Elizabeth", 
+            "pos": "1", 
+            "school": "Seabury", 
+            "time": "2:08.76"
+        }, 
+        {
+            "name": "Cote, Rachel", 
+            "pos": "2", 
+            "school": "Punahou", 
+            "time": "2:09.20"
+        }, 
+        {
+            "name": "Billiamosa, Sarah", 
+            "pos": "3", 
+            "school": "PCHS", 
+            "time": "2:12.04"
+        }, 
+        {
+            "name": "Morton, Jade", 
+            "pos": "4", 
+            "school": "KEAL", 
+            "time": "2:14.46"
+        }, 
+        {
+            "name": "White, Kiana", 
+            "pos": "5", 
+            "school": "MILI", 
+            "time": "2:14.80"
+        }, 
+        {
+            "name": "Foo, Alyssa", 
+            "pos": "6", 
+            "school": "KEAL", 
+            "time": "2:17.21"
+        }, 
+        {
+            "name": "Gill, Koral", 
+            "pos": "7", 
+            "school": "Lunas", 
+            "time": "2:17.76"
+        }, 
+        {
+            "name": "Baker, Elise", 
+            "pos": "8", 
+            "school": "Punahou", 
+            "time": "2:18.88"
+        }
+    ], 
+    "Girls200YardMedleyRelay": [
+        {
+            "name": "Punahou School", 
+            "pos": "1", 
+            "school": "", 
+            "time": "1:51.17"
+        }, 
+        {
+            "name": "Iolani School", 
+            "pos": "2", 
+            "school": "", 
+            "time": "1:55.17"
+        }, 
+        {
+            "name": "Lahainaluna High", 
+            "pos": "3", 
+            "school": "", 
+            "time": "1:55.42"
+        }, 
+        {
+            "name": "Pearl City", 
+            "pos": "4", 
+            "school": "School", 
+            "time": "1:56.75"
+        }, 
+        {
+            "name": "Kamehameha Schools", 
+            "pos": "5", 
+            "school": "Kapalama", 
+            "time": "1:57.47"
+        }, 
+        {
+            "name": "Hawaii Prep", 
+            "pos": "6", 
+            "school": "", 
+            "time": "1:58.03"
+        }, 
+        {
+            "name": "Kapolei High", 
+            "pos": "7", 
+            "school": "", 
+            "time": "1:59.22"
+        }, 
+        {
+            "name": "Mililani High", 
+            "pos": "8", 
+            "school": "", 
+            "time": "1:59.35"
+        }
+    ], 
+    "Girls400YardFreestyleRelay": [
+        {
+            "name": "Punahou School", 
+            "pos": "1", 
+            "school": "", 
+            "time": "3:33.80"
+        }, 
+        {
+            "name": "Kealakehe High", 
+            "pos": "2", 
+            "school": "", 
+            "time": "3:43.27"
+        }, 
+        {
+            "name": "Iolani School", 
+            "pos": "3", 
+            "school": "", 
+            "time": "3:44.69"
+        }, 
+        {
+            "name": "Pearl City", 
+            "pos": "4", 
+            "school": "School", 
+            "time": "3:44.75"
+        }, 
+        {
+            "name": "Lahainaluna High", 
+            "pos": "5", 
+            "school": "", 
+            "time": "3:49.00"
+        }, 
+        {
+            "name": "Le Jardin", 
+            "pos": "6", 
+            "school": "", 
+            "time": "3:50.20"
+        }, 
+        {
+            "name": "Baldwin High", 
+            "pos": "7", 
+            "school": "", 
+            "time": "3:54.72"
+        }
+    ], 
+    "Girls500YardFreestyle": [
+        {
+            "name": "Maier, Krista", 
+            "pos": "1", 
+            "school": "KEAL", 
+            "time": "5:01.58"
+        }, 
+        {
+            "name": "Cahill, Jennifer", 
+            "pos": "2", 
+            "school": "Bears", 
+            "time": "5:10.69"
+        }, 
+        {
+            "name": "Cadell, Kimberlee", 
+            "pos": "3", 
+            "school": "Ks-Kapalama", 
+            "time": "5:19.64"
+        }, 
+        {
+            "name": "Baker, Elise", 
+            "pos": "4", 
+            "school": "Punahou", 
+            "time": "5:23.36"
+        }, 
+        {
+            "name": "Torkildson, Kristi", 
+            "pos": "5", 
+            "school": "Punahou", 
+            "time": "5:25.70"
+        }, 
+        {
+            "name": "Dudley, Michelle", 
+            "pos": "6", 
+            "school": "PCHS", 
+            "time": "5:32.41"
+        }, 
+        {
+            "name": "Rask, Kendra", 
+            "pos": "7", 
+            "school": "Punahou", 
+            "time": "5:35.76"
+        }, 
+        {
+            "name": "Mazzone, Desiree", 
+            "pos": "8", 
+            "school": "Kapolei", 
+            "time": "5:41.90"
+        }
+    ], 
+    "Girls50YardFreestyle": [
+        {
+            "name": "Yoshida, Michelle", 
+            "pos": "1", 
+            "school": "Punahou", 
+            "time": "24.02"
+        }, 
+        {
+            "name": "Krochka, Jaymee", 
+            "pos": "2", 
+            "school": "HPA", 
+            "time": "24.57"
+        }, 
+        {
+            "name": "Moy, Kelli", 
+            "pos": "3", 
+            "school": "Punahou", 
+            "time": "24.74"
+        }, 
+        {
+            "name": "Choi, Shanelle", 
+            "pos": "4", 
+            "school": "PCHS", 
+            "time": "25.08"
+        }, 
+        {
+            "name": "Jamora, Madeline", 
+            "pos": "5", 
+            "school": "Kapolei", 
+            "time": "25.14"
+        }, 
+        {
+            "name": "Vargas, Noe", 
+            "pos": "6", 
+            "school": "HPA", 
+            "time": "25.23"
+        }, 
+        {
+            "name": "Crozier, Victoria", 
+            "pos": "7", 
+            "school": "KS Kamehameha Ma", 
+            "time": "25.32"
+        }, 
+        {
+            "name": "Montgomerie, Claire", 
+            "pos": "8", 
+            "school": "HILO", 
+            "time": "25.56"
+        }
+    ], 
+    "TeamRankings-ThroughEvent24": []
+}
